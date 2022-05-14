@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OverlayData>
+	<POIs>
+
+		<!--
+			Arrow Carts: Offensive
+		-->
+
+		<!-- None, yet -->
+
+		<!--
+			Arrow Carts: Defensive
+		-->
+
+        <!-- None, yet -->
+
+		<!--
+			Ballistas: Offensive
+		-->
+
+		<!-- None, yet -->
+
+		<!--
+			Ballistas: Defensive
+		-->
+
+		<!-- None, yet -->
+
+		<!--
+			Catapults: Offensive
+		-->
+
+		<!-- Crankshaft Depot -->
+		<POI MapID="1099" xpos="458.569" ypos="110.724" zpos="-639.417" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="i/N707vYa0qXDY5k18tJXQ==" />
+
+		<!--
+			Catapults: Defensive
+		-->
+
+		<!-- None, yet -->
+
+		<!--
+			Flame Rams: Offensive
+		-->
+
+		<!-- None, yet -->
+
+		<!--
+			Flame Rams: Defensive
+		-->
+
+		<!-- None, yet -->
+		
+        <!--
+			Shield Generators: Offensive
+		-->
+
+		<!-- None, yet -->
+        
+        <!--
+			Shield Generators: Defensive
+		-->
+
+		<!-- None, yet -->
+
+		<!--
+            Trebuchets: Offensive
+        -->
+        
+		<!-- None, yet -->
+		
+        <!--
+            Trebuchets: Defensive
+        -->
+        
+		<!-- None, yet -->
+
+	</POIs>
+</OverlayData>

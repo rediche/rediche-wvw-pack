@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OverlayData>
+	<MarkerCategory DisplayName="Rediche's Siege Pack" name="rediche_siege_pack" iconSize="0.5">
+
+		<MarkerCategory DisplayName="Eternal Battlegrounds" name="eternal_battlegrounds">
+			<MarkerCategory DisplayName="Offensive" name="offensive">
+				<MarkerCategory DisplayName="Arrow Carts" name="arrow_carts" iconFile="images/arrow_cart.png" />
+				<MarkerCategory DisplayName="Ballistas" name="ballistas" iconFile="images/ballista.png" />
+				<MarkerCategory DisplayName="Catapults" name="catapults" iconFile="images/catapult.png" />
+				<MarkerCategory DisplayName="Flame Rams" name="flame_rams" iconFile="images/flame_ram.png" />
+				<MarkerCategory DisplayName="Shield Generators" name="shield_generators" iconFile="images/shield_generator.png" />
+				<MarkerCategory DisplayName="Trebuchets" name="trebuchets" iconFile="images/trebuchet.png" />
+			</MarkerCategory>
+			<MarkerCategory DisplayName="Defensive" name="defensive">
+				<MarkerCategory DisplayName="Arrow Carts" name="arrow_carts" iconFile="images/arrow_cart.png" />
+				<MarkerCategory DisplayName="Ballistas" name="ballistas" iconFile="images/ballista.png" />
+				<MarkerCategory DisplayName="Catapults" name="catapults" iconFile="images/catapult.png" />
+				<MarkerCategory DisplayName="Flame Rams" name="flame_rams" iconFile="images/flame_ram.png" />
+				<MarkerCategory DisplayName="Shield Generators" name="shield_generators" iconFile="images/shield_generator.png" />
+				<MarkerCategory DisplayName="Trebuchets" name="trebuchets" iconFile="images/trebuchet.png" />
+			</MarkerCategory>
+		</MarkerCategory>
+
+		<MarkerCategory DisplayName="Red Desert Borderlands" name="red_borderlands">
+			<MarkerCategory DisplayName="Offensive" name="offensive">
+				<MarkerCategory DisplayName="Arrow Carts" name="arrow_carts" iconFile="images/arrow_cart.png" />
+				<MarkerCategory DisplayName="Ballistas" name="ballistas" iconFile="images/ballista.png" />
+				<MarkerCategory DisplayName="Catapults" name="catapults" iconFile="images/catapult.png" />
+				<MarkerCategory DisplayName="Flame Rams" name="flame_rams" iconFile="images/flame_ram.png" />
+				<MarkerCategory DisplayName="Shield Generators" name="shield_generators" iconFile="images/shield_generator.png" />
+				<MarkerCategory DisplayName="Trebuchets" name="trebuchets" iconFile="images/trebuchet.png" />
+			</MarkerCategory>
+			<MarkerCategory DisplayName="Defensive" name="defensive">
+				<MarkerCategory DisplayName="Arrow Carts" name="arrow_carts" iconFile="images/arrow_cart.png" />
+				<MarkerCategory DisplayName="Ballistas" name="ballistas" iconFile="images/ballista.png" />
+				<MarkerCategory DisplayName="Catapults" name="catapults" iconFile="images/catapult.png" />
+				<MarkerCategory DisplayName="Flame Rams" name="flame_rams" iconFile="images/flame_ram.png" />
+				<MarkerCategory DisplayName="Shield Generators" name="shield_generators" iconFile="images/shield_generator.png" />
+				<MarkerCategory DisplayName="Trebuchets" name="trebuchets" iconFile="images/trebuchet.png" />
+			</MarkerCategory>
+		</MarkerCategory>
+
+		<MarkerCategory DisplayName="Blue Alpine Battlegrounds" name="blue_borderlands">
+			<MarkerCategory DisplayName="Offensive" name="offensive">
+				<MarkerCategory DisplayName="Arrow Carts" name="arrow_carts" iconFile="images/arrow_cart.png" />
+				<MarkerCategory DisplayName="Ballistas" name="ballistas" iconFile="images/ballista.png" />
+				<MarkerCategory DisplayName="Catapults" name="catapults" iconFile="images/catapult.png" />
+				<MarkerCategory DisplayName="Flame Rams" name="flame_rams" iconFile="images/flame_ram.png" />
+				<MarkerCategory DisplayName="Shield Generators" name="shield_generators" iconFile="images/shield_generator.png" />
+				<MarkerCategory DisplayName="Trebuchets" name="trebuchets" iconFile="images/trebuchet.png" />
+			</MarkerCategory>
+			<MarkerCategory DisplayName="Defensive" name="defensive">
+				<MarkerCategory DisplayName="Arrow Carts" name="arrow_carts" iconFile="images/arrow_cart.png" />
+				<MarkerCategory DisplayName="Ballistas" name="ballistas" iconFile="images/ballista.png" />
+				<MarkerCategory DisplayName="Catapults" name="catapults" iconFile="images/catapult.png" />
+				<MarkerCategory DisplayName="Flame Rams" name="flame_rams" iconFile="images/flame_ram.png" />
+				<MarkerCategory DisplayName="Shield Generators" name="shield_generators" iconFile="images/shield_generator.png" />
+				<MarkerCategory DisplayName="Trebuchets" name="trebuchets" iconFile="images/trebuchet.png" />
+			</MarkerCategory>
+		</MarkerCategory>
+
+		<MarkerCategory DisplayName="Green Alpine Battlegrounds" name="green_borderlands">
+			<MarkerCategory DisplayName="Offensive" name="offensive">
+				<MarkerCategory DisplayName="Arrow Carts" name="arrow_carts" iconFile="images/arrow_cart.png" />
+				<MarkerCategory DisplayName="Ballistas" name="ballistas" iconFile="images/ballista.png" />
+				<MarkerCategory DisplayName="Catapults" name="catapults" iconFile="images/catapult.png" />
+				<MarkerCategory DisplayName="Flame Rams" name="flame_rams" iconFile="images/flame_ram.png" />
+				<MarkerCategory DisplayName="Shield Generators" name="shield_generators" iconFile="images/shield_generator.png" />
+				<MarkerCategory DisplayName="Trebuchets" name="trebuchets" iconFile="images/trebuchet.png" />
+			</MarkerCategory>
+			<MarkerCategory DisplayName="Defensive" name="defensive">
+				<MarkerCategory DisplayName="Arrow Carts" name="arrow_carts" iconFile="images/arrow_cart.png" />
+				<MarkerCategory DisplayName="Ballistas" name="ballistas" iconFile="images/ballista.png" />
+				<MarkerCategory DisplayName="Catapults" name="catapults" iconFile="images/catapult.png" />
+				<MarkerCategory DisplayName="Flame Rams" name="flame_rams" iconFile="images/flame_ram.png" />
+				<MarkerCategory DisplayName="Shield Generators" name="shield_generators" iconFile="images/shield_generator.png" />
+				<MarkerCategory DisplayName="Trebuchets" name="trebuchets" iconFile="images/trebuchet.png" />
+			</MarkerCategory>
+		</MarkerCategory>
+
+		<MarkerCategory DisplayName="Created by Rediche.6821" name="created_by" isSeparator="1" />
+		<MarkerCategory DisplayName="Contributors:" name="credits" bh-isSeparator="1">
+			<MarkerCategory DisplayName="Rediche.6821" name="credit_rediche" isSeparator="1" />
+		</MarkerCategory>
+
+	</MarkerCategory>
+</OverlayData>

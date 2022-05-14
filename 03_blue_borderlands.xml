@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OverlayData>
+	<POIs>
+		<!-- Arrow Carts: Defensive -->
+		<POI xpos="-187.11" ypos="25.132" zpos="-434.384" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-188.122" ypos="23.686" zpos="-469.985" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-204.74" ypos="34.179" zpos="-423.919" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-168.505" ypos="23.595" zpos="-482.41" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-438.231" ypos="35.917" zpos="-257.507" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-459.375" ypos="35.806" zpos="-271.801" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-470.1" ypos="38.626" zpos="-281.202" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-508.585" ypos="38.926" zpos="-304.168" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-399.824" ypos="34.53" zpos="-237.51" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-589.293" ypos="17.044" zpos="-204.722" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-613.221" ypos="17.133" zpos="-243.73" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-636.407" ypos="17.237" zpos="-244.833" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-630.463" ypos="17.375" zpos="-214.324" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-588.919" ypos="17.047" zpos="-145.57" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-585.785" ypos="18.32" zpos="-102.839" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-606.396" ypos="18.107" zpos="-106.331" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-401.879" ypos="26.9309" zpos="-468.257" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-380.378" ypos="29.1825" zpos="-136.179" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-381.735" ypos="29.1821" zpos="-135.361" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-383.981" ypos="28.8815" zpos="-87.237" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-383.399" ypos="26.7817" zpos="-64.1954" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-402.109" ypos="24.5735" zpos="-47.7282" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<POI xpos="-418.581" ypos="24.5771" zpos="-31.4449" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" />
+		<!-- Catapults: Offensive -->
+		<POI xpos="-508.849" ypos="27.956" zpos="-329.319" MapID="95" type="rediche_siege_pack.green_borderlands.offensive.catapults" />
+		<POI xpos="-378.059" ypos="21.302" zpos="-247.834" MapID="95" type="rediche_siege_pack.green_borderlands.offensive.catapults" />
+		<POI xpos="-347.378" ypos="2.683" zpos="-100.667" MapID="95" type="rediche_siege_pack.green_borderlands.offensive.catapults" />
+		<POI xpos="-363.494" ypos="15.788" zpos="-97.929" MapID="95" type="rediche_siege_pack.green_borderlands.offensive.catapults" />
+		<POI xpos="-413.655" ypos="100.315" zpos="508.551" MapID="95" type="rediche_siege_pack.green_borderlands.offensive.catapults" />
+		<POI xpos="-216.747" ypos="23.196" zpos="-402.887" MapID="95" type="rediche_siege_pack.green_borderlands.offensive.catapults" />
+		<POI xpos="-53.411" ypos="20.844" zpos="-493.45" MapID="95" type="rediche_siege_pack.green_borderlands.offensive.catapults" />
+		<POI xpos="-468.76" ypos="15.658" zpos="-103.947" MapID="95" type="rediche_siege_pack.green_borderlands.offensive.catapults" />
+		<POI xpos="-555.879" ypos="2.307" zpos="-16.342" MapID="95" type="rediche_siege_pack.green_borderlands.offensive.catapults" />
+		<POI xpos="-580.091" ypos="9.589" zpos="-90.589" MapID="95" type="rediche_siege_pack.green_borderlands.offensive.catapults" />
+		<!-- Trebuchets: Offensive -->
+		<POI xpos="-400.799" ypos="26.955" zpos="-469.626" MapID="95" type="rediche_siege_pack.green_borderlands.offensive.trebuchets" />
+		<POI xpos="-358.198" ypos="92.85" zpos="359.217" MapID="95" type="rediche_siege_pack.green_borderlands.offensive.trebuchets" />
+		<POI xpos="-271.426" ypos="46.921" zpos="-408.151" MapID="95" type="rediche_siege_pack.green_borderlands.offensive.trebuchets" />
+		<!-- Trebuchets: Defensive -->
+		<POI xpos="-602.317" ypos="15.625" zpos="-210.16" MapID="95" type="rediche_siege_pack.green_borderlands.defensive.trebuchets" />
+	</POIs>
+</OverlayData>
