@@ -168,7 +168,7 @@
 		<POI MapID="38" xpos="736.324" ypos="28.3539" zpos="-276.723" type="rediche_siege_pack.eternal_battlegrounds.defensive.catapults" GUID="Lr/5qH3P0U2STeIV/SnH/Q==" />
 
 		<!-- Ogrewatch Cut -->
-		<POI MapID="38" xpos="337.994" ypos="15.7728" zpos="187.907" type="rediche_siege_pack.eternal_battlegrounds.defensive.catapults" GUID="uXtvv8REwES/0eKt0dAM4g=="/>
+		<POI MapID="38" xpos="337.994" ypos="15.7728" zpos="187.907" rotate-x="90" rotate-z="55"  type="rediche_siege_pack.eternal_battlegrounds.defensive.catapults" GUID="uXtvv8REwES/0eKt0dAM4g=="/>
 		
 		<!--
 			Flame Rams: Offensive
