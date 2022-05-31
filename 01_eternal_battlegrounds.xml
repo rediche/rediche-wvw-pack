@@ -148,14 +148,14 @@
 		<POI MapID="38" xpos="309.371" ypos="29.8143" zpos="471.855" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="G2DGDSmCXUKL3Fs2N9fZJA=="/>
 
 		<!-- Overlook Keep -->
-		<POI MapID="38" xpos="45.0972" ypos="33.1993" zpos="295.341" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="YDpdeD+tO0KkgaAWxaP5kg=="/>
-		<POI MapID="38" xpos="7.63235" ypos="31.8277" zpos="325.133" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="zs1ZpDwt8k+AITkQ2Vay3g=="/>
-		<POI MapID="38" xpos="105.213" ypos="61.7454" zpos="380.415" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="HYxRnvJ4GEW11rYDVW6MQA=="/>
-		<POI MapID="38" xpos="101.541" ypos="58.6822" zpos="398.505" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="uIfusAg7LUGEVAre6SEPMA=="/>
-		<POI MapID="38" xpos="137.265" ypos="48.3261" zpos="364.859" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="s0sTRLaqckOoLJ8TV4Tozw=="/>
-		<POI MapID="38" xpos="230.206" ypos="65.4201" zpos="413.628" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="WvcUa7zfLUuy9Db2lGLSog=="/>
-		<POI MapID="38" xpos="228.331" ypos="64.7787" zpos="395.585" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="ew5LCGmprkaVQL8oMAgbyQ=="/>
-		<POI MapID="38" xpos="-49.407" ypos="61.5278" zpos="224.692" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="1J3+lxqtPUijc/NMlWkxhQ=="/>
+		<POI MapID="38" xpos="45.0972" ypos="33.1993" zpos="295.341" rotate-x="90" rotate-z="-32" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="YDpdeD+tO0KkgaAWxaP5kg=="/>
+		<POI MapID="38" xpos="7.63235" ypos="31.8277" zpos="325.133" rotate-x="90" rotate-z="-75" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="zs1ZpDwt8k+AITkQ2Vay3g=="/>
+		<POI MapID="38" xpos="105.213" ypos="61.7454" zpos="380.415" rotate-x="90" rotate-z="-45" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="HYxRnvJ4GEW11rYDVW6MQA=="/>
+		<POI MapID="38" xpos="101.541" ypos="58.6822" zpos="398.505" rotate-x="90" rotate-z="-90" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="uIfusAg7LUGEVAre6SEPMA=="/>
+		<POI MapID="38" xpos="137.265" ypos="48.3261" zpos="364.859" rotate-x="90" rotate-z="0" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="s0sTRLaqckOoLJ8TV4Tozw=="/>
+		<POI MapID="38" xpos="230.206" ypos="65.4201" zpos="413.628" rotate-x="90" rotate-z="90" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="WvcUa7zfLUuy9Db2lGLSog=="/>
+		<POI MapID="38" xpos="228.331" ypos="64.7787" zpos="395.585" rotate-x="90" rotate-z="45" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="ew5LCGmprkaVQL8oMAgbyQ=="/>
+		<POI MapID="38" xpos="-49.407" ypos="61.5278" zpos="224.692" rotate-x="90" rotate-z="-39" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="1J3+lxqtPUijc/NMlWkxhQ=="/>
 
 		<!--
 			Catapults: Defensive
@@ -214,9 +214,9 @@
 		<POI MapID="38" xpos="261.643" ypos="26.1685" zpos="-503.496" type="rediche_siege_pack.eternal_battlegrounds.offensive.trebuchets" GUID="IzmC3xfJqEaKGm7XdhWNxg==" />
 
 		<!-- Overlook Keep -->
-		<POI MapID="38" xpos="-46.6333" ypos="61.7426" zpos="221.681" type="rediche_siege_pack.eternal_battlegrounds.offensive.trebuchets" GUID="uaAeRBNH70eFvqTeIpVkDA=="/>
-		<POI MapID="38" xpos="-144.78" ypos="50.8929" zpos="469.175" type="rediche_siege_pack.eternal_battlegrounds.offensive.trebuchets" GUID="1LoUEYcNjEKP2J6zhTJIZg=="/>
-		<POI MapID="38" xpos="288.865" ypos="62.5146" zpos="549.328" type="rediche_siege_pack.eternal_battlegrounds.offensive.trebuchets" GUID="O2KtTab9wkSDIY3xBtimBw=="/>
+		<POI MapID="38" xpos="-46.6333" ypos="61.7426" zpos="221.681" rotate-x="90" rotate-z="-43" type="rediche_siege_pack.eternal_battlegrounds.offensive.trebuchets" GUID="uaAeRBNH70eFvqTeIpVkDA=="/>
+		<POI MapID="38" xpos="-144.78" ypos="50.8929" zpos="469.175" rotate-x="90" rotate-z="-120" type="rediche_siege_pack.eternal_battlegrounds.offensive.trebuchets" GUID="1LoUEYcNjEKP2J6zhTJIZg=="/>
+		<POI MapID="38" xpos="288.865" ypos="62.5146" zpos="549.328" rotate-x="90" rotate-z="150" type="rediche_siege_pack.eternal_battlegrounds.offensive.trebuchets" GUID="O2KtTab9wkSDIY3xBtimBw=="/>
 
 		<!--
 			Trebuchets: Defensive
