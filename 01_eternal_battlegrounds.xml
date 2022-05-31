@@ -186,7 +186,7 @@
 
 		<!-- Ogrewatch Cut -->
 		<POI MapID="38" xpos="306.457" ypos="14.4067" zpos="211.927" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="gbgN1tEiP0aKWK9DhhKuHw=="/>
-		<POI MapID="38" xpos="303.206" ypos="14.4933" zpos="206.559" GUID="QzJHhksXxkakl1alvN7ziQ=="/>
+		<POI MapID="38" xpos="303.206" ypos="14.4933" zpos="206.559" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="QzJHhksXxkakl1alvN7ziQ=="/>
 
 		<!--
 			Flame Rams: Defensive
@@ -229,7 +229,7 @@
 		<POI MapID="38" xpos="41.0395" ypos="44.6401" zpos="336.925" type="rediche_siege_pack.eternal_battlegrounds.defensive.trebuchets" GUID="ZQJjVO+IPkyNUcz8UNLS2A=="/>
 
 		<!-- Ogrewatch Cut -->
-		<POI MapID="38" xpos="319.367" ypos="32.0998" zpos="213.382" type="rediche_siege_pack.eternal_battlegrounds.defensive.trebuchets" GUID="pwuiqwjzu06fmharNyEHpg=="/>
+		<POI MapID="38" xpos="319.367" ypos="32.0998" zpos="213.382" rotate-x="90" rotate-z="80" type="rediche_siege_pack.eternal_battlegrounds.defensive.trebuchets" GUID="pwuiqwjzu06fmharNyEHpg=="/>
 
 	</POIs>
 </OverlayData>
