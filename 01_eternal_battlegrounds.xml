@@ -78,6 +78,10 @@
 		<POI MapID="38" xpos="306.079" ypos="63.6674" zpos="528.706" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="AWE9mNbq1ka0/JR7j/tOQw=="/>
 		<POI MapID="38" xpos="357.635" ypos="63.3381" zpos="507.076" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="iiy6MGlNdEmGcgJGTCXh+Q=="/>
 
+		<!-- Ogrewatch Cut -->
+			<POI MapID="38" xpos="320.395" ypos="31.7849" zpos="207.624" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="DCcWme+r1EKJTJ7z9Zw4cw=="/>
+		<POI MapID="38" xpos="350.363" ypos="32.3728" zpos="188.686" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="F7olJg157kGXgatcW4+TcA=="/>
+
 		<!--
 			Ballistas: Offensive
 		-->
@@ -162,6 +166,9 @@
 
 		<!-- Bravost Escarpment -->
 		<POI MapID="38" xpos="736.324" ypos="28.3539" zpos="-276.723" type="rediche_siege_pack.eternal_battlegrounds.defensive.catapults" GUID="Lr/5qH3P0U2STeIV/SnH/Q==" />
+
+		<!-- Ogrewatch Cut -->
+		<POI MapID="38" xpos="337.994" ypos="15.7728" zpos="187.907" type="rediche_siege_pack.eternal_battlegrounds.defensive.catapults" GUID="uXtvv8REwES/0eKt0dAM4g=="/>
 		
 		<!--
 			Flame Rams: Offensive
@@ -176,6 +183,10 @@
 		<POI MapID="38" xpos="62.6526" ypos="22.0627" zpos="402.338" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="QS2MEqjukkOD4/0bxmTdfQ=="/>
 		<POI MapID="38" xpos="92.7723" ypos="31.1069" zpos="326.279" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="70VomOm7JE+d+WMnKday6w=="/>
 		<POI MapID="38" xpos="92.9244" ypos="30.9328" zpos="340.73" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="Ol94iXx6BkWwsgcMiU7jyQ=="/>
+
+		<!-- Ogrewatch Cut -->
+		<POI MapID="38" xpos="306.457" ypos="14.4067" zpos="211.927" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="gbgN1tEiP0aKWK9DhhKuHw=="/>
+		<POI MapID="38" xpos="303.206" ypos="14.4933" zpos="206.559" GUID="QzJHhksXxkakl1alvN7ziQ=="/>
 
 		<!--
 			Flame Rams: Defensive
@@ -216,6 +227,9 @@
 		<POI MapID="38" xpos="212.265" ypos="78.5853" zpos="425.704" type="rediche_siege_pack.eternal_battlegrounds.defensive.trebuchets" GUID="EOXpaIGZEUiwcQESV91SRg=="/>
 		<POI MapID="38" xpos="74.6754" ypos="43.0025" zpos="312.628" type="rediche_siege_pack.eternal_battlegrounds.defensive.trebuchets" GUID="dbfM6eJJc0G24TvXAIe5Dw=="/>
 		<POI MapID="38" xpos="41.0395" ypos="44.6401" zpos="336.925" type="rediche_siege_pack.eternal_battlegrounds.defensive.trebuchets" GUID="ZQJjVO+IPkyNUcz8UNLS2A=="/>
+
+		<!-- Ogrewatch Cut -->
+		<POI MapID="38" xpos="319.367" ypos="32.0998" zpos="213.382" type="rediche_siege_pack.eternal_battlegrounds.defensive.trebuchets" GUID="pwuiqwjzu06fmharNyEHpg=="/>
 
 	</POIs>
 </OverlayData>
