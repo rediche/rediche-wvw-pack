@@ -115,9 +115,11 @@
 		<POI MapID="38" xpos="551.676" ypos="35.3332" zpos="-736.624" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="I0r/feSUGkmlRgwT1IFVLA==" />
 
 		<!-- Ogrewatch Cut -->
-		<POI MapID="38" xpos="463.064" ypos="42.3998" zpos="200.349" rotate-x="90" rotate-z="-90" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="mLvC1qh3c0OOZ/0ycIh11w==" />
-		<POI MapID="38" xpos="357.749" ypos="15.2437" zpos="215.032" rotate-x="90" rotate-z="-38" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="a+YsFs0kEEiNwGr+GnLZaQ==" />
-		<POI MapID="38" xpos="342.196" ypos="27.7612" zpos="280.468" rotate-x="90" rotate-z="5" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="1AG6VbV+UECY6xZ7FO9XRg==" />
+		<POI MapID="38" xpos="463.064" ypos="42.3998" zpos="200.349" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="mLvC1qh3c0OOZ/0ycIh11w==" />
+		<POI MapID="38" xpos="357.749" ypos="15.2437" zpos="215.032" heightoffset="0.25" rotate-x="180" rotate-z="-38" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="a+YsFs0kEEiNwGr+GnLZaQ==" />
+
+		<POI MapID="38" xpos="342.196" ypos="27.7612" zpos="280.468" invertbehavior="1" behavior="3" triggerrange="3" autotrigger="1" heightoffset="0.25" rotate-x="180" rotate-z="5" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="1AG6VbV+UECY6xZ7FO9XRg==" />
+		<POI MapID="38" xpos="342.196" ypos="27.7612" zpos="280.468" behavior="3" triggerrange="3" autotrigger="1" rotate-x="90" rotate-z="5" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="1AG6VbV+UECY6xZ7FO9XRR==" />
 
 		<!-- Quentin Lake -->
 		<POI MapID="38" xpos="176.771" ypos="-0.385" zpos="-520.692" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="wBrhYkc4pU6MXkjKZb7Xyg==" />
@@ -168,7 +170,7 @@
 		<POI MapID="38" xpos="736.324" ypos="28.3539" zpos="-276.723" type="rediche_siege_pack.eternal_battlegrounds.defensive.catapults" GUID="Lr/5qH3P0U2STeIV/SnH/Q==" />
 
 		<!-- Ogrewatch Cut -->
-		<POI MapID="38" xpos="337.994" ypos="15.7728" zpos="187.907" rotate-x="90" rotate-z="55"  type="rediche_siege_pack.eternal_battlegrounds.defensive.catapults" GUID="uXtvv8REwES/0eKt0dAM4g=="/>
+		<POI MapID="38" xpos="337.994" ypos="15.7728" zpos="187.907" heightoffset="0.25" rotate-x="180" rotate-z="-120"  type="rediche_siege_pack.eternal_battlegrounds.defensive.catapults" GUID="uXtvv8REwES/0eKt0dAM4g=="/>
 		
 		<!--
 			Flame Rams: Offensive
@@ -229,7 +231,7 @@
 		<POI MapID="38" xpos="41.0395" ypos="44.6401" zpos="336.925" type="rediche_siege_pack.eternal_battlegrounds.defensive.trebuchets" GUID="ZQJjVO+IPkyNUcz8UNLS2A=="/>
 
 		<!-- Ogrewatch Cut -->
-		<POI MapID="38" xpos="319.367" ypos="32.0998" zpos="213.382" rotate-x="90" rotate-z="80" type="rediche_siege_pack.eternal_battlegrounds.defensive.trebuchets" GUID="pwuiqwjzu06fmharNyEHpg=="/>
+		<POI MapID="38" xpos="319.367" ypos="32.0998" zpos="213.382" heightoffset="0.25" rotate-x="180" rotate-z="85" type="rediche_siege_pack.eternal_battlegrounds.defensive.trebuchets" GUID="pwuiqwjzu06fmharNyEHpg=="/>
 
 	</POIs>
 </OverlayData>
