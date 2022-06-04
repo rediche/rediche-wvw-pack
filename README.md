@@ -8,7 +8,7 @@ Coming soon.
 
 ### TacO
 
-Coming soon.
+We do not recommend using this pack with TacO because the marker pack heavily relies on features that TacO does not support.
 
 ## Contributions
 
