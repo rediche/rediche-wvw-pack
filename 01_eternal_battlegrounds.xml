@@ -107,6 +107,16 @@
 		<POI MapID="38" xpos="540.379" ypos="17.7496" zpos="-86.4463" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="DLrQHNInXUOWLfOzcXIMrA==" />
 		<POI MapID="38" xpos="469.885" ypos="30.3709" zpos="-5.53607" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="EyTavlKfSU2Vd/duE5tzBg==" />
 
+		<!-- Jerrifer's Slough -->
+		<POI MapID="38" xpos="-438.549" ypos="13.1073" zpos="-659.312" heightoffset="0.25" rotate-x="180" rotate-z="-190" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="aG1bW8OcNEmTEOz/e13xsw=="/>
+		<POI MapID="38" xpos="-438.549" ypos="13.1073" zpos="-659.312" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="Z4N+C7Nb7EW3gLYaJm8z7Q=="/>
+
+		<POI MapID="38" xpos="-424.204" ypos="13.3096" zpos="-615.887" heightoffset="0.25" rotate-x="180" rotate-z="55" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="90vhq1lbMk6xhbDnddDsew=="/>
+		<POI MapID="38" xpos="-424.204" ypos="13.3096" zpos="-615.887" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="90vhq1lbMk6xhbDnddDsed=="/>
+
+		<POI MapID="38" xpos="-330.2" ypos="10.6783" zpos="-614.165" heightoffset="0.25" rotate-x="180" rotate-z="-100" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="hOYMoRcvEEShCQcnjlYOxQ=="/>
+		<POI MapID="38" xpos="-330.2" ypos="10.6783" zpos="-614.165" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="hOYMoRcvEEShCQcnjlYOxA=="/>
+
 		<!-- Klovan Gully -->
 		<POI MapID="38" xpos="-38.8105" ypos="-0.485222" zpos="-513.776" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="80A1xqO49k+8siXxU7DYVg==" />
 		<POI MapID="38" xpos="-194.799" ypos="15.0959" zpos="-545.009" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="A/o+aBmry0CXDVvFBeP9YQ==" />
