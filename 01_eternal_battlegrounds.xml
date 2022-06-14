@@ -176,6 +176,18 @@
 			Flame Rams: Offensive
 		-->
 
+		<!-- Aldon's Ledge -->
+		<POI MapID="38" xpos="-635.524" ypos="11.1908" zpos="-342.986" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="L+Awdjt6b0a3XtGQYG0ldQ=="/>
+		<POI MapID="38" xpos="-632.231" ypos="11.1025" zpos="-339.196" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="KCq4++vNtUaSuf+/t4qLgw=="/>
+
+		<!-- Jerrifer's Slough -->
+		<POI MapID="38" xpos="-373.097" ypos="12.0184" zpos="-617.795" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="rN6neYuCyUyblboQr+OPRg=="/>
+		<POI MapID="38" xpos="-377.345" ypos="11.8826" zpos="-615.249" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="pMdP6LyJQ0Spl6VBgxT+gA=="/>
+
+		<!-- Klovan Gully -->
+		<POI MapID="38" xpos="-152.725" ypos="0.29685" zpos="-435.57" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="tf6jCTJDPUarax9wzKMeYw=="/>
+		<POI MapID="38" xpos="-152.861" ypos="0.295541" zpos="-440.396" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="ReFUJf163EOS1nfPwPLkgw=="/>
+
 		<!-- Overlook Keep -->
 		<POI MapID="38" xpos="173.977" ypos="58.5355" zpos="462.168" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="Suyb4hGgq06saHg3UF+QjA=="/>
 		<POI MapID="38" xpos="161.766" ypos="58.5356" zpos="461.959" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="MAJh+PtWA0Kyz8eoRKdVDw=="/>
@@ -189,6 +201,14 @@
 		<!-- Ogrewatch Cut -->
 		<POI MapID="38" xpos="306.457" ypos="14.4067" zpos="211.927" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="gbgN1tEiP0aKWK9DhhKuHw=="/>
 		<POI MapID="38" xpos="303.206" ypos="14.4933" zpos="206.559" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="QzJHhksXxkakl1alvN7ziQ=="/>
+
+		<!-- Lowlands Keep -->
+		<POI MapID="38" xpos="-603.213" ypos="9.87337" zpos="-526.226" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="lFWyEke+Ik+2LRHfczXSZA=="/>
+		<POI MapID="38" xpos="-595.435" ypos="9.8735" zpos="-535.884" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="kwmE6iO5UkK98Np89k+dwQ=="/>
+		<POI MapID="38" xpos="-512.444" ypos="19.4654" zpos="-470.015" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="reCTWrXbJUy/Xq4skCEQZQ=="/>
+		<POI MapID="38" xpos="-521.502" ypos="19.4513" zpos="-459.377" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="WTQSxHPhvkakDGMxnBssIw=="/>
+		<POI MapID="38" xpos="-369.926" ypos="5.05543" zpos="-343.781" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="tcD7KvdYikWy6PUMVhKRfw=="/>
+		<POI MapID="38" xpos="-378.673" ypos="5.02917" zpos="-333.463" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="latHzwN9hU+O9rylhqojNQ=="/>
 
 		<!--
 			Flame Rams: Defensive
