@@ -125,8 +125,14 @@
 		<POI MapID="38" xpos="-330.2" ypos="10.6783" zpos="-614.165" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="hOYMoRcvEEShCQcnjlYOxA=="/>
 
 		<!-- Klovan Gully -->
-		<POI MapID="38" xpos="-38.8105" ypos="-0.485222" zpos="-513.776" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="80A1xqO49k+8siXxU7DYVg==" />
-		<POI MapID="38" xpos="-194.799" ypos="15.0959" zpos="-545.009" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="A/o+aBmry0CXDVvFBeP9YQ==" />
+		<POI MapID="38" xpos="-332.464" ypos="31.1193" zpos="-580.142" heightoffset="0.25" rotate-x="180" rotate-z="115" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="2pV4V7ezwkWQis8hHiL9nw=="/>
+		<POI MapID="38" xpos="-332.464" ypos="31.1193" zpos="-580.142" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="2pV4V7ezwkWQis8hHiL9nA=="/>
+
+		<POI MapID="38" xpos="-205.947" ypos="16.4017" zpos="-540.689" heightoffset="0.25" rotate-x="180" rotate-z="125" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="AyGHCqCfoE2TcGcg3sVc+w=="/>
+		<POI MapID="38" xpos="-205.947" ypos="16.4017" zpos="-540.689" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="AyGHCqCfoE2TcGcg3sVc+A=="/>
+
+		<POI MapID="38" xpos="-43.6686" ypos="-0.485187" zpos="-512.785" heightoffset="0.25" rotate-x="180" rotate-z="-110" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="nxnzufhOvECVs+9mKBjXYA=="/>
+		<POI MapID="38" xpos="-43.6686" ypos="-0.485187" zpos="-512.785" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="nxnzufhOvECVs+9mKBjXYB=="/>
 
 		<!-- Langor Gulch -->
 		<POI MapID="38" xpos="551.676" ypos="35.3332" zpos="-736.624" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="I0r/feSUGkmlRgwT1IFVLA==" />
