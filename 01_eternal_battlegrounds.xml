@@ -79,7 +79,7 @@
 		<POI MapID="38" xpos="357.635" ypos="63.3381" zpos="507.076" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="iiy6MGlNdEmGcgJGTCXh+Q=="/>
 
 		<!-- Ogrewatch Cut -->
-			<POI MapID="38" xpos="320.395" ypos="31.7849" zpos="207.624" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="DCcWme+r1EKJTJ7z9Zw4cw=="/>
+		<POI MapID="38" xpos="320.395" ypos="31.7849" zpos="207.624" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="DCcWme+r1EKJTJ7z9Zw4cw=="/>
 		<POI MapID="38" xpos="350.363" ypos="32.3728" zpos="188.686" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="F7olJg157kGXgatcW4+TcA=="/>
 
 		<!--
@@ -97,6 +97,13 @@
 		<!--
 			Catapults: Offensive
 		-->
+
+		<!-- Aldon's Ledge -->
+		<POI MapID="38" xpos="-713.786" ypos="0.361014" zpos="-384.478" heightoffset="0.25" rotate-x="180" rotate-z="130" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="WmQsdIedDkiEFOshdetetA=="/>
+		<POI MapID="38" xpos="-713.786" ypos="0.361014" zpos="-384.478" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="WmQsdIedDkiEFOshdetetB=="/>
+
+		<POI MapID="38" xpos="-620.787" ypos="10.2389" zpos="-280.129" heightoffset="0.25" rotate-x="180" rotate-z="-20" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="4JKGIndVz0+KwcHXvZfynA=="/>
+		<POI MapID="38" xpos="-620.787" ypos="10.2389" zpos="-280.129" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="4JKGIndVz0+KwcHXvZfynD=="/>
 
 		<!-- Bravost Escarpment -->
 		<POI MapID="38" xpos="754.885" ypos="28.2129" zpos="-321.821" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="4IkUOko18Umv/hRTf3YUjQ==" />
