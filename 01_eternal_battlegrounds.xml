@@ -131,6 +131,16 @@
 		<!-- Langor Gulch -->
 		<POI MapID="38" xpos="551.676" ypos="35.3332" zpos="-736.624" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="I0r/feSUGkmlRgwT1IFVLA==" />
 
+		<!-- Lowlands Keep -->
+		<POI MapID="38" xpos="-530.901" ypos="1.92682" zpos="-332.764" heightoffset="0.25" rotate-x="180" rotate-z="38" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="3LsLBanZDE2e7YM3nY4WCQ=="/>
+		<POI MapID="38" xpos="-530.901" ypos="1.92682" zpos="-332.764" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="3LsLBanZDE2e7YM3nY4WCA=="/>
+
+		<POI MapID="38" xpos="-381.375" ypos="1.59951" zpos="-499.677" heightoffset="0.25" rotate-x="180" rotate-z="-110" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="uTmC/FTgYk+5HjRBz3WbnQ=="/>
+		<POI MapID="38" xpos="-381.375" ypos="1.59951" zpos="-499.677" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="uTmC/FTgYk+5HjRBz3WbnQ=="/>
+
+		<POI MapID="38" xpos="-338.806" ypos="32.2971" zpos="-560.926" heightoffset="0.25" rotate-x="180" rotate-z="220" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="6bDuJl0cFU2kuiuqVWs7cQ=="/>
+		<POI MapID="38" xpos="-338.806" ypos="32.2971" zpos="-560.926" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="6bDuJl0cFU2kuiuqVWs7cQ=="/>
+
 		<!-- Ogrewatch Cut -->
 		<POI MapID="38" xpos="463.064" ypos="42.3998" zpos="200.349" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="mLvC1qh3c0OOZ/0ycIh11w==" />
 		<POI MapID="38" xpos="357.749" ypos="15.2437" zpos="215.032" heightoffset="0.25" rotate-x="180" rotate-z="-38" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="a+YsFs0kEEiNwGr+GnLZaQ==" />
