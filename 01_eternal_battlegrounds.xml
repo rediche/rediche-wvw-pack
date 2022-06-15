@@ -285,6 +285,13 @@
 		<!-- Which tower? -->
 		<POI MapID="38" xpos="261.643" ypos="26.1685" zpos="-503.496" type="rediche_siege_pack.eternal_battlegrounds.offensive.trebuchets" GUID="IzmC3xfJqEaKGm7XdhWNxg==" />
 
+		<!-- Lowlands Keep -->
+		<POI MapID="38" xpos="-396.212" ypos="18.7332" zpos="-635.814" heightoffset="0.25" rotate-x="180" rotate-z="-147" type="rediche_siege_pack.eternal_battlegrounds.offensive.trebuchets" GUID="8EVSRAA2J0mFIqwfHdpoLA=="/>
+		<POI MapID="38" xpos="-396.212" ypos="18.7332" zpos="-635.814" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.trebuchets" GUID="8EVSRAA2J0mFIqwfHdpoLB=="/>
+
+		<POI MapID="38" xpos="-663.752" ypos="19.7327" zpos="-325.737" heightoffset="0.25" rotate-x="180" rotate-z="70" type="rediche_siege_pack.eternal_battlegrounds.offensive.trebuchets" GUID="NS660hewVEy1/g1sMUGlbw=="/>
+		<POI MapID="38" xpos="-663.752" ypos="19.7327" zpos="-325.737" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.trebuchets" GUID="NS660hewVEy1/g1sMUGlbA=="/>
+
 		<!-- Overlook Keep -->
 		<POI MapID="38" xpos="-46.6333" ypos="61.7426" zpos="221.681" rotate-x="90" rotate-z="-43" type="rediche_siege_pack.eternal_battlegrounds.offensive.trebuchets" GUID="uaAeRBNH70eFvqTeIpVkDA=="/>
 		<POI MapID="38" xpos="-144.78" ypos="50.8929" zpos="469.175" rotate-x="90" rotate-z="-120" type="rediche_siege_pack.eternal_battlegrounds.offensive.trebuchets" GUID="1LoUEYcNjEKP2J6zhTJIZg=="/>
