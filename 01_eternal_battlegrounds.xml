@@ -12,6 +12,14 @@
 			Arrow Carts: Defensive
 		-->
 
+		<!-- Aldon's Ledge -->
+		<POI MapID="38" xpos="-669.097" ypos="24.9428" zpos="-338.692" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="N+JEiMqsI0a8mNpNgFY/bA=="/>
+		<POI MapID="38" xpos="-659.82" ypos="23.1205" zpos="-301.686" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="ZvNkK6oQvU6w7NczOZ7P7Q=="/>
+		<POI MapID="38" xpos="-636.366" ypos="23.2049" zpos="-326.776" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="khcJjFM+ZUG5nKaCZrGhyw=="/>
+		<POI MapID="38" xpos="-652.456" ypos="20.5599" zpos="-347.807" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="YUmpcQjc8kmx89PGw+/UTw=="/>
+		<POI MapID="38" xpos="-664.647" ypos="23.0118" zpos="-360.219" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="TN/O5O1/I0yMHHBhFzEHFg=="/>
+		<POI MapID="38" xpos="-676.036" ypos="23.1399" zpos="-348.983" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="cpuQ/4Mqqk60eJv+qmE6qg=="/>
+
 		<!-- Valley Keep -->
 		<POI MapID="38" xpos="680.847" ypos="54.1612" zpos="-501.899" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="N58CVywhwkOOXLDxm3TJ+g==" />
 		<POI MapID="38" xpos="690.914" ypos="55.3806" zpos="-507.492" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="uNlCfJ2diUO/XcNI8nG/wQ==" />
@@ -25,6 +33,22 @@
 		<POI MapID="38" xpos="607.956" ypos="44.0078" zpos="-416.49" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="21+J4xn/fEySYuAO+iA/9w==" />
 		<POI MapID="38" xpos="582.907" ypos="43.9775" zpos="-420.27" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="BjFZLgwKfESZHmJ4myoBlQ==" />
 
+		<!-- Jerrifer's Slough -->
+		<POI MapID="38" xpos="-410.818" ypos="24.4587" zpos="-632.752" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="3LmScD7se0ea5VIDmC0NEg=="/>
+		<POI MapID="38" xpos="-402.654" ypos="24.5071" zpos="-611.788" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="YQDlbkuTeUGNEqSgVHLljw=="/>
+		<POI MapID="38" xpos="-389.11" ypos="24.8795" zpos="-620.538" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="548dCfptfkm7x0A12HTVcg=="/>
+		<POI MapID="38" xpos="-370.951" ypos="28.207" zpos="-631.729" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="8uZiv0bZXEe8kb3UFP3ypA=="/>
+		<POI MapID="38" xpos="-333.544" ypos="29.3474" zpos="-594.01" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="ixNuid8RcEWug89WmslSoA=="/>
+		<POI MapID="38" xpos="-387.087" ypos="30.2842" zpos="-649.934" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="C3wKn3byFkq9fuKL+A4enw=="/>
+
+		<!-- Klovan Gully -->
+		<POI MapID="38" xpos="-117.526" ypos="13.0327" zpos="-430.558" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="Pe843B3+UUyr8D1tavrocw=="/>
+		<POI MapID="38" xpos="-122.696" ypos="13.1515" zpos="-447.393" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="ojDf8Jwc8E22zhKkD+Io/A=="/>
+		<POI MapID="38" xpos="-106.784" ypos="13.1569" zpos="-467.116" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="un64DBQbyESe5KLQCwZUmw=="/>
+		<POI MapID="38" xpos="-143.004" ypos="13.5101" zpos="-466.493" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="ki7bz5TVS0y40BfzY6hNBg=="/>
+		<POI MapID="38" xpos="-142.684" ypos="12.9273" zpos="-448.365" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="EL/u7lfG+EmZVA7FNLk8SA=="/>
+		<POI MapID="38" xpos="-142.447" ypos="13.2088" zpos="-426.345" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="2a1QOiLrkECg+ZQ3s7KUCQ=="/>
+
 		<!-- Langor Gulch -->
 		<POI MapID="38" xpos="552.229" ypos="43.9337" zpos="-505.488" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="4Pm2sPkvbE60+N2DamTxxQ==" />
 		<POI MapID="38" xpos="547.668" ypos="43.8215" zpos="-480.213" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="RNWhch9uPUSmkjXswhK8GA==" />
@@ -36,6 +60,20 @@
 		<POI MapID="38" xpos="523.115" ypos="47.9108" zpos="-700.262" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="7oRN0MsQdE2GiFk+sQELFQ==" />
 		<POI MapID="38" xpos="554.708" ypos="47.8506" zpos="-718.377" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="+RiyLPD8JUmCWD6dWwYlCg==" />
 		<POI MapID="38" xpos="560.59" ypos="58.0065" zpos="-707.946" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="li3XaR+7KUWionlA8KBqkQ==" />
+
+		<!-- Lowlands Keep -->
+		<POI MapID="38" xpos="-537.974" ypos="31.9634" zpos="-457.737" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="EyGF6qbKWEi3qUi9gv60OQ=="/>
+		<POI MapID="38" xpos="-493.013" ypos="32.1611" zpos="-503.296" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="bAMphHaSik2vn/LuVAOtbw=="/>
+		<POI MapID="38" xpos="-509.125" ypos="31.3567" zpos="-514.486" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="xu/NkqKVekO0IoHdJYCPiQ=="/>
+		<POI MapID="38" xpos="-533.214" ypos="42.2232" zpos="-478.503" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="jN7l2GMtVUiqI/NynMdnlA=="/>
+		<POI MapID="38" xpos="-551.79" ypos="42.0308" zpos="-494.328" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="laxWitALJUKr6gc3/UC3sA=="/>
+		<POI MapID="38" xpos="-598.357" ypos="22.8834" zpos="-503.988" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="EPkqAs1CE0uNTiqwWuQoyQ=="/>
+		<POI MapID="38" xpos="-573.333" ypos="23.0139" zpos="-537.52" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="vEoAB4+vv0ia6+nKabUM4Q=="/>
+		<POI MapID="38" xpos="-418.681" ypos="14.7259" zpos="-488.18" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="M36Lthdl1kGNzjzS9Oe9AQ=="/>
+		<POI MapID="38" xpos="-370.66" ypos="14.6519" zpos="-456.832" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="iB/G+/Fv4EK9CTKrliO3hA=="/>
+		<POI MapID="38" xpos="-370.703" ypos="17.3206" zpos="-371.788" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="2dUvDw83LUeoSCxY24d70A=="/>
+		<POI MapID="38" xpos="-370.515" ypos="17.2339" zpos="-354.237" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="id8xwpSC6kG5yDz59isRyg=="/>
+		<POI MapID="38" xpos="-389.729" ypos="17.7564" zpos="-332.666" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="eQ+d4wNRqEqhxEjoy08lGA=="/>
 
 		<!-- Quentin Lake -->
 		<POI MapID="38" xpos="272.995" ypos="26.1548" zpos="-520.371" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="dnReY7wFWUmv2LQ0Y9utLA==" />
@@ -81,6 +119,13 @@
 		<!-- Ogrewatch Cut -->
 		<POI MapID="38" xpos="320.395" ypos="31.7849" zpos="207.624" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="DCcWme+r1EKJTJ7z9Zw4cw=="/>
 		<POI MapID="38" xpos="350.363" ypos="32.3728" zpos="188.686" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="F7olJg157kGXgatcW4+TcA=="/>
+
+		<!-- Wildcreek Run -->
+		<POI MapID="38" xpos="-303.626" ypos="13.9707" zpos="-133.129" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="5brZLtrSHkyIpKKuHoD0lw=="/>
+		<POI MapID="38" xpos="-294.273" ypos="14.1221" zpos="-137.758" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="Uxqn1hFgUkSVgXWa5AaD1A=="/>
+		<POI MapID="38" xpos="-315.137" ypos="14.321" zpos="-160.711" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="tKHjPsnbW0+JusSpHitXwA=="/>
+		<POI MapID="38" xpos="-338.635" ypos="14.4478" zpos="-137.772" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="DwgmzUNHkkCi9Tyfjz+PpA=="/>
+		<POI MapID="38" xpos="-348.748" ypos="13.8286" zpos="-131.4" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="x3EG6aimtkq80oIjmtTpSA=="/>
 
 		<!--
 			Ballistas: Offensive
