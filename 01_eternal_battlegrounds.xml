@@ -182,6 +182,13 @@
 		<POI MapID="38" xpos="382.972" ypos="36.6408" zpos="435.424" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="04Hd5b7snUSZ5+zKAspuCQ=="/>
 		<POI MapID="38" xpos="309.371" ypos="29.8143" zpos="471.855" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="G2DGDSmCXUKL3Fs2N9fZJA=="/>
 
+		<!-- Wildcreek Run -->
+		<POI MapID="38" xpos="-277.276" ypos="4.30672" zpos="-137.015" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="4HCdyT6aKkyNWBCfgNVx1A=="/>
+		<POI MapID="38" xpos="-277.276" ypos="4.30672" zpos="-137.015" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="4HCdyT6aKkyNWBCfgNVx1A=="/>
+
+		<POI MapID="38" xpos="-200.536" ypos="18.1062" zpos="-108.748" heightoffset="0.25" rotate-x="180" rotate-z="-65" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="bnq2CaTe2EWrSClb7XN26A=="/>
+		<POI MapID="38" xpos="-200.536" ypos="18.1062" zpos="-108.748" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="bnq2CaTe2EWrSClb7XN26A=="/>
+
 		<!-- Overlook Keep -->
 		<POI MapID="38" xpos="45.0972" ypos="33.1993" zpos="295.341" rotate-x="90" rotate-z="-32" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="YDpdeD+tO0KkgaAWxaP5kg=="/>
 		<POI MapID="38" xpos="7.63235" ypos="31.8277" zpos="325.133" rotate-x="90" rotate-z="-75" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="zs1ZpDwt8k+AITkQ2Vay3g=="/>
