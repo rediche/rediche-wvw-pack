@@ -301,6 +301,10 @@
 			Trebuchets: Defensive
 		-->
 
+		<!-- Lowlands Keep -->
+		<POI MapID="38" xpos="-407.396" ypos="17.2036" zpos="-331.245" heightoffset="0.25" rotate-x="180" rotate-z="150" type="rediche_siege_pack.eternal_battlegrounds.defensive.trebuchets" GUID="KXOqFlyjwECZJP5Y5HkgrQ=="/>
+		<POI MapID="38" xpos="-407.396" ypos="17.2036" zpos="-331.245" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.defensive.trebuchets" GUID="KXOqFlyjwECZJP5Y5HkgrA=="/>
+
 		<!-- Overlook Keep -->
 		<POI MapID="38" xpos="209.7" ypos="73.8819" zpos="384.168" type="rediche_siege_pack.eternal_battlegrounds.defensive.trebuchets" GUID="qwtm0OKChUuTLpgGkqz4vg=="/>
 		<POI MapID="38" xpos="212.265" ypos="78.5853" zpos="425.704" type="rediche_siege_pack.eternal_battlegrounds.defensive.trebuchets" GUID="EOXpaIGZEUiwcQESV91SRg=="/>
