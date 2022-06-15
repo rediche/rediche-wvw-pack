@@ -243,6 +243,10 @@
 		<POI MapID="38" xpos="-369.926" ypos="5.05543" zpos="-343.781" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="tcD7KvdYikWy6PUMVhKRfw=="/>
 		<POI MapID="38" xpos="-378.673" ypos="5.02917" zpos="-333.463" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="latHzwN9hU+O9rylhqojNQ=="/>
 
+		<!-- Wildcreek Run -->
+		<POI MapID="38" xpos="-338.321" ypos="1.89759" zpos="-154.812" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="ZgLFxt4eqUSifWgSzVMaYw=="/>
+		<POI MapID="38" xpos="-341.916" ypos="1.92003" zpos="-151.521" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="tbLSh7kcMkKIJQYBTsIZEg=="/>
+
 		<!--
 			Flame Rams: Defensive
 		-->
