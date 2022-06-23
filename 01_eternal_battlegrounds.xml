@@ -79,6 +79,25 @@
 		<POI MapID="38" xpos="272.995" ypos="26.1548" zpos="-520.371" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="dnReY7wFWUmv2LQ0Y9utLA==" />
 		<POI MapID="38" xpos="284.723" ypos="26.1644" zpos="-529.827" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="bqQBTZBEf0G/W8oN7Jp2fw==" />
 		<POI MapID="38" xpos="279.999" ypos="26.4996" zpos="-554.268" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="WS89VsE76UW4/1aPpz30hQ==" />
+		
+		<!-- Stonemist Castle -->
+		<POI MapID="38" xpos="-75.0622" ypos="44.0134" zpos="-264.752" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="ocWcNae07kOUOMDbqD9Cog=="/>
+		<POI MapID="38" xpos="-51.7614" ypos="44.1396" zpos="-241.322" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="YB19y+brkUqhWT69mm3wtw=="/>
+		<POI MapID="38" xpos="-72.77" ypos="44.5818" zpos="-180.528" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="AItfh0Huq0Gr3AeDKmBiog=="/>
+		<POI MapID="38" xpos="-81.7901" ypos="44.1212" zpos="-272.909" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="yGBMDq8Qdkm1FVrj2OrsIA=="/>
+		<POI MapID="38" xpos="-30.7204" ypos="43.9519" zpos="-294.904" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="qZQsO4+4aUa3c3ARYJv+Kg=="/>
+		<POI MapID="38" xpos="53.8373" ypos="35.5864" zpos="-344.365" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="v9AQzx4HXkKSCyT7mMKflA=="/>
+		<POI MapID="38" xpos="106.164" ypos="43.1819" zpos="-347.399" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="9ufQVD329Eyj9FfyTudlaw=="/>
+		<POI MapID="38" xpos="127.99" ypos="43.5666" zpos="-309.452" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="6bd4vA3FfEG3jjrxHEVKuQ=="/>
+		<POI MapID="38" xpos="154.402" ypos="43.7268" zpos="-300.899" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="aDzVZUWdUUeQMFla9et1Tw=="/>
+		<POI MapID="38" xpos="207.973" ypos="44.003" zpos="-288.791" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="/tXFIyCYM0KWHphojEepGA=="/>
+		<POI MapID="38" xpos="202.585" ypos="43.9175" zpos="-279.557" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="wqopJxf0NUiPnGeLLPxkhQ=="/>
+		<POI MapID="38" xpos="183.355" ypos="44.4721" zpos="-251.11" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="gf1bGU4wH0aodOPZfaGx4w=="/>
+		<POI MapID="38" xpos="216.43" ypos="43.9356" zpos="-197.044" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="qqD5Z0TEx0OJ6zTCljA8mA=="/>
+		<POI MapID="38" xpos="261.175" ypos="47.1424" zpos="-200.142" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="TQGkcsgexUm9NYV2CqcTSw=="/>
+		<POI MapID="38" xpos="252.369" ypos="47.0627" zpos="-164.323" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="oVlf0IBImE+sCcqZ37sQsw=="/>
+		<POI MapID="38" xpos="223.851" ypos="52.0361" zpos="-75.3698" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="V8z0DOtZb0CcantITQpWvQ=="/>
+		<POI MapID="38" xpos="224.476" ypos="52.386" zpos="-57.3738" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="mLd3biC4v06DNmN3vNGtXA=="/>
 
 		<!-- Durios Gulch -->
 		<POI MapID="38" xpos="459.039" ypos="28.5938" zpos="-114.138" type="rediche_siege_pack.eternal_battlegrounds.defensive.arrow_carts" GUID="Z7GeFcZwmkGlN3BM10W0Jw==" />
