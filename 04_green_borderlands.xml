@@ -62,6 +62,15 @@
 		<POI MapID="95" xpos="-333.669" ypos="90.8235" zpos="364.134" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" GUID="wtQO9wquDUOEsATyxRN0zg=="/>
 		<POI MapID="95" xpos="-365.884" ypos="90.9741" zpos="341.585" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" GUID="mGGb20dCIU2ZW/sSf7RBfw=="/>
 
+		<!-- Southeast Tower -->
+		<POI MapID="95" xpos="292.183" ypos="25.7289" zpos="-407.775" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" GUID="ED1hc53WCUm5wPYM3TP1gA=="/>
+		<POI MapID="95" xpos="269.552" ypos="25.7711" zpos="-410.956" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" GUID="OAhxkZ4vyk2IxdeJ99qlCQ=="/>
+		<POI MapID="95" xpos="251.146" ypos="25.7132" zpos="-442.167" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" GUID="yDzzOt5GBk2l4Cro3yWWIQ=="/>
+		<POI MapID="95" xpos="251.512" ypos="25.8085" zpos="-448.301" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" GUID="peh16HTrqkCuJ5uhDKIjmA=="/>
+		<POI MapID="95" xpos="286.592" ypos="25.5833" zpos="-439.856" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" GUID="Ne4g8wZ4PE2rn6expvPGxg=="/>
+		<POI MapID="95" xpos="298.835" ypos="25.3312" zpos="-433.638" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" GUID="AIVjnzu60Uql9vBSZdanrQ=="/>
+		<POI MapID="95" xpos="301.359" ypos="40.0951" zpos="-453.857" type="rediche_siege_pack.green_borderlands.defensive.arrow_carts" GUID="K8S8s0MwmkKpXKn9ayCxHg=="/>
+
 		<!--
 			Ballistas: Offensive
 		-->
