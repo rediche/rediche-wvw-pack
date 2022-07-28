@@ -12,7 +12,15 @@
 			Arrow Carts: Defensive
 		-->
 
-        <!-- None, yet -->
+		<!-- Crankshaft Depot -->
+		<POI MapID="1099" xpos="286.5" ypos="99.1553" zpos="-551.558" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="LvSyVLxqeU6abGu0GAPd+w=="/>
+		<POI MapID="1099" xpos="295.211" ypos="99.0126" zpos="-548.218" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="41D4u+pKok2MuOPpa3SAvg=="/>
+		<POI MapID="1099" xpos="249.941" ypos="99.0899" zpos="-566.853" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="WjrwM2h870qw+NRkyiRHEQ=="/>
+		<POI MapID="1099" xpos="326.794" ypos="122.191" zpos="-720.929" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="l4AMGh9suEaD7sbKSN6ttg=="/>
+		<POI MapID="1099" xpos="353.26" ypos="122.002" zpos="-712.507" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="QFAJrjKwVEmJi1uszWqcYQ=="/>
+		<POI MapID="1099" xpos="274.657" ypos="128.397" zpos="-569.964" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="N7MAf+e7g0etmd4ijIyxQQ=="/>
+		<POI MapID="1099" xpos="395.568" ypos="129.368" zpos="-617.922" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="M3EDTAGg806/c6GLqY0Heg=="/>
+		<POI MapID="1099" xpos="394.825" ypos="127.766" zpos="-673.842" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="V0oYOSpN20SKih3BUEa2zQ=="/>
 
 		<!--
 			Ballistas: Offensive
@@ -31,7 +39,11 @@
 		-->
 
 		<!-- Crankshaft Depot -->
-		<POI MapID="1099" xpos="458.569" ypos="110.724" zpos="-639.417" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="i/N707vYa0qXDY5k18tJXQ==" />
+		<POI MapID="1099" xpos="458.569" ypos="110.724" zpos="-639.417" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="i/N707vYa0qXDY5k18tJXQ==" />
+		<POI MapID="1099" xpos="458.569" ypos="110.724" zpos="-639.417" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="i/N707vYa0qXDY5k18tJXA==" />
+
+		<POI MapID="1099" xpos="261.229" ypos="85.9664" zpos="-544.457" heightoffset="0.25" rotate-x="180" rotate-z="20" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="n8KG0mu9C0WyyOhsu9orTA=="/>
+		<POI MapID="1099" xpos="261.229" ypos="85.9664" zpos="-544.457" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="n8KG0mu9C0WyyOhsu9orTg=="/>
 
 		<!--
 			Catapults: Defensive
@@ -43,8 +55,9 @@
 			Flame Rams: Offensive
 		-->
 
-		<!-- None, yet -->
-
+		<!-- Crankshaft Depot -->
+		<POI MapID="1099" xpos="336.087" ypos="109.954" zpos="-725.557" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="4fTn4rLf2kC2mtuN7SszOQ=="/>
+		<POI MapID="1099" xpos="347.842" ypos="109.87" zpos="-721.971" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="ULCNMMGbMECMt8sj6gy07A=="/>
 		<!--
 			Flame Rams: Defensive
 		-->
