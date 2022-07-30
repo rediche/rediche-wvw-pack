@@ -22,6 +22,15 @@
 		<POI MapID="1099" xpos="395.568" ypos="129.368" zpos="-617.922" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="M3EDTAGg806/c6GLqY0Heg=="/>
 		<POI MapID="1099" xpos="394.825" ypos="127.766" zpos="-673.842" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="V0oYOSpN20SKih3BUEa2zQ=="/>
 
+		<!-- Eternal Necropolis -->
+		<POI MapID="1099" xpos="552.819" ypos="87.7419" zpos="502.166" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="vh1vtTTtiE2g5qWylfrSYw=="/>
+		<POI MapID="1099" xpos="569.844" ypos="78.3671" zpos="454.342" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="6eRB4sNjIE+4tWw14YnJKw=="/>
+		<POI MapID="1099" xpos="597.69" ypos="75.1283" zpos="456.831" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="FyaKYtS5hkq/J9e5Vv0jVA=="/>
+		<POI MapID="1099" xpos="659.639" ypos="77.5131" zpos="467.525" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="S+SHuMJfqkaAnsIznKXsrg=="/>
+		<POI MapID="1099" xpos="619.041" ypos="107.532" zpos="621.597" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="HCPfkbEx3USArbwuV71X6w=="/>
+		<POI MapID="1099" xpos="579.847" ypos="105.416" zpos="604.909" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="8kdQKjxhk0Ckg5qbVGJ6bg=="/>
+		<POI MapID="1099" xpos="531.416" ypos="97.8489" zpos="565.329" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="kjRj8Fpwx0Wr/AYF7oCRiA=="/>
+
 		<!-- O'del Academy -->
 		<POI MapID="1099" xpos="-487.823" ypos="55.3515" zpos="483.249" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="x+d50WsD/EaByLz+miUw8A=="/>
 		<POI MapID="1099" xpos="-535.391" ypos="54.0854" zpos="488.153" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="vyHEcGHCFkWVFo+T5K2a8g=="/>
@@ -78,6 +87,25 @@
 		<POI MapID="1099" xpos="261.229" ypos="85.9664" zpos="-544.457" heightoffset="0.25" rotate-x="180" rotate-z="20" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="n8KG0mu9C0WyyOhsu9orTA=="/>
 		<POI MapID="1099" xpos="261.229" ypos="85.9664" zpos="-544.457" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="n8KG0mu9C0WyyOhsu9orTg=="/>
 
+		<!-- Eternal Necropolis -->
+		<POI MapID="1099" xpos="617.816" ypos="54.4609" zpos="441.676" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="Gyzlm0Dz40KVV10vRAdfuw=="/>
+		<POI MapID="1099" xpos="617.816" ypos="54.4609" zpos="441.676" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="Gyzlm0Dz40KVV10vRAdfuA=="/>
+
+		<POI MapID="1099" xpos="654.26" ypos="49.4982" zpos="386.519" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="oIBH5valTUOAPu4228cDTw=="/>
+		<POI MapID="1099" xpos="654.26" ypos="49.4982" zpos="386.519" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="oIBH5valTUOAPu4228cDTA=="/>
+
+		<POI MapID="1099" xpos="535.041" ypos="68.164" zpos="491.065" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="i64U2SbHeEmI4r4b53b++g=="/>
+		<POI MapID="1099" xpos="535.041" ypos="68.164" zpos="491.065" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="i64U2SbHeEmI4r4b53b++A=="/>
+
+		<POI MapID="1099" xpos="517.56" ypos="70.1607" zpos="542.079" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="WxfCqriAbEiiilMEFwzK8g=="/>
+		<POI MapID="1099" xpos="517.56" ypos="70.1607" zpos="542.079" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="WxfCqriAbEiiilMEFwzK8A=="/>
+
+		<POI MapID="1099" xpos="425.313" ypos="86.3639" zpos="568.797" heightoffset="0.25" rotate-x="180" rotate-z="75" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="lJ1QtC+D9Uq6jjx8ciCqlQ=="/>
+		<POI MapID="1099" xpos="425.313" ypos="86.3639" zpos="568.797" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="lJ1QtC+D9Uq6jjx8ciCqlA=="/>
+
+		<POI MapID="1099" xpos="611.076" ypos="84.6755" zpos="637.864" heightoffset="0.25" rotate-x="180" rotate-z="30" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="qHWihczOpUe6pLK10Otf3w=="/>
+		<POI MapID="1099" xpos="611.076" ypos="84.6755" zpos="637.864" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="qHWihczOpUe6pLK10Otf3A=="/>
+
 		<!-- O'del Academy -->
 		<POI MapID="1099" xpos="-470.907" ypos="40.6209" zpos="500.447" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="Gv4fNMu5H0WaKhrmsuusow=="/>
 		<POI MapID="1099" xpos="-470.907" ypos="40.6209" zpos="500.447" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="Gv4fNMu5H0WaKhrmsuusoA=="/>
@@ -126,6 +154,10 @@
 		<!-- Crankshaft Depot -->
 		<POI MapID="1099" xpos="336.087" ypos="109.954" zpos="-725.557" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="4fTn4rLf2kC2mtuN7SszOQ=="/>
 		<POI MapID="1099" xpos="347.842" ypos="109.87" zpos="-721.971" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="ULCNMMGbMECMt8sj6gy07A=="/>
+
+		<!-- Eternal Necropolis -->
+		<POI MapID="1099" xpos="576.83" ypos="63.9713" zpos="444.533" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="2l9a4jqaDEac8KL6yqHljg=="/>
+		<POI MapID="1099" xpos="587.833" ypos="62.552" zpos="444.833" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="vy4tj0YHXE+27bNp/ItvfA=="/>
 
 		<!-- O'del Academy -->
 		<POI MapID="1099" xpos="-565.992" ypos="41.8925" zpos="482.606" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="71e9LWGk3Uyl+7BDAnjgSA=="/>
