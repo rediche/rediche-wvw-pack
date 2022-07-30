@@ -32,6 +32,28 @@
 		<POI MapID="1099" xpos="-465.801" ypos="61.5728" zpos="683.862" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="OEzM7MPnek6u9/9S9sF7jg=="/>
 		<POI MapID="1099" xpos="-495.253" ypos="58.7512" zpos="506.903" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="FBsuZRoYnEGhT18F8Vf4gQ=="/>
 
+		<!-- Stoic Rampart -->
+		<POI MapID="1099" xpos="-87.3443" ypos="94.4158" zpos="267.746" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="yk5OV9ECeU6BMJ6EPzNQxA=="/>
+		<POI MapID="1099" xpos="-102.056" ypos="104.375" zpos="280.774" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="OH56+0fcJECcyt0biLbVUQ=="/>
+		<POI MapID="1099" xpos="-78.8313" ypos="104.675" zpos="311.306" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="rTD5rpXcP0a7zrLVYhkkHQ=="/>
+		<POI MapID="1099" xpos="-63.5204" ypos="87.1613" zpos="319.949" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="SqPSBDWoCk+jToKBPC3OLg=="/>
+		<POI MapID="1099" xpos="-42.1102" ypos="86.2789" zpos="346.318" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="Ky033k0Z/kymVQefk56pLw=="/>
+		<POI MapID="1099" xpos="-105.28" ypos="88.825" zpos="269.525" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="iOt8cZ8s4UK7pYKpfz+k+w=="/>
+		<POI MapID="1099" xpos="-193.534" ypos="68.5657" zpos="343.128" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="gzDRNb+ky06RiZDiYpomsA=="/>
+		<POI MapID="1099" xpos="-200.546" ypos="82.6008" zpos="303.772" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="WpcZo/OEy0GoujAQue+/XQ=="/>
+		<POI MapID="1099" xpos="-197.417" ypos="82.7891" zpos="244.842" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="BBHoLXLhxEims6yaqIZxkA=="/>
+		<POI MapID="1099" xpos="-33.6664" ypos="107.648" zpos="202.405" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="gsK949IlekCV0puHGR3dTw=="/>
+		<POI MapID="1099" xpos="6.2266" ypos="106.632" zpos="176.677" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="ejqYQrsZ/kuKQCU2IvjNng=="/>
+		<POI MapID="1099" xpos="56.6664" ypos="109.891" zpos="178.294" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="IevZ5lR+lUak0VrAuG92yQ=="/>
+		<POI MapID="1099" xpos="88.4097" ypos="104.605" zpos="351.056" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="9AtFYAk7TU+FEek8pSIVGA=="/>
+		<POI MapID="1099" xpos="113.942" ypos="104.806" zpos="322.25" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="aKnNZt7IXUyg4ZkYK7Pv8Q=="/>
+		<POI MapID="1099" xpos="140.889" ypos="82.9713" zpos="279.231" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="2IXCHhrz7UGkDB23um0/OQ=="/>
+		<POI MapID="1099" xpos="204.529" ypos="73.4377" zpos="291.307" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="SJVcxf2oDU2I9GtZiNIwDA=="/>
+		<POI MapID="1099" xpos="207.173" ypos="73.2508" zpos="232.404" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="i6SIMSlND0+DtWh8dwK+6A=="/>
+		<POI MapID="1099" xpos="165.501" ypos="59.5714" zpos="338.34" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="zTmjF8HSIUaAMRoJJUVoRQ=="/>
+		<POI MapID="1099" xpos="42.1331" ypos="65.6802" zpos="148.644" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="l+yy4xVANUW2s+Qf1L3Wyw=="/>
+		<POI MapID="1099" xpos="-17.3663" ypos="65.562" zpos="150.852" type="rediche_siege_pack.red_borderlands.defensive.arrow_carts" GUID="kYsc78oBD0Go0OyX9kb4fA=="/>
+
 		<!--
 			Ballistas: Offensive
 		-->
@@ -42,7 +64,8 @@
 			Ballistas: Defensive
 		-->
 
-		<!-- None, yet -->
+		<!-- Stoic Rampart -->
+		<POI MapID="1099" xpos="131.03" ypos="88.0648" zpos="360.746" type="rediche_siege_pack.red_borderlands.defensive.ballistas" GUID="sH3y98ymV0y7+wPu1ltJmg=="/>
 
 		<!--
 			Catapults: Offensive
@@ -71,6 +94,25 @@
 		<POI MapID="1099" xpos="-414.485" ypos="54.524" zpos="742.316" heightoffset="0.25" rotate-x="180" rotate-z="-50" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="kJgZnRS7vU6ikqshAjd7zQ=="/>
 		<POI MapID="1099" xpos="-414.485" ypos="54.524" zpos="742.316" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="kJgZnRS7vU6ikqshAjd7zQ=="/>
 
+		<!-- Stoic Rampart -->
+		<POI MapID="1099" xpos="-184.999" ypos="52.7202" zpos="364.163" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="dZqvF+xeREuCwcXnW2DxWA=="/>
+		<POI MapID="1099" xpos="-184.999" ypos="52.7202" zpos="364.163" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="dZqvF+xeREuCwcXnW2DxWA=="/>
+
+		<POI MapID="1099" xpos="-47.6401" ypos="35.3826" zpos="142.85" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="RoqNWHKnjEGpqVcRh7AwBQ=="/>
+		<POI MapID="1099" xpos="-47.6401" ypos="35.3826" zpos="142.85" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="RoqNWHKnjEGpqVcRh7AwBQ=="/>
+
+		<POI MapID="1099" xpos="117.228" ypos="32.9923" zpos="103.552" heightoffset="0.25" rotate-x="180" rotate-z="-120" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="CiuYkEoFTUGitsH6qBtB8g=="/>
+		<POI MapID="1099" xpos="117.228" ypos="32.9923" zpos="103.552" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="CiuYkEoFTUGitsH6qBtB8g=="/>
+
+		<POI MapID="1099" xpos="196.739" ypos="46.5647" zpos="379.607" heightoffset="0.25" rotate-x="180" rotate-z="-35" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="ski7WXK010mwXQbgPjX83g=="/>
+		<POI MapID="1099" xpos="196.739" ypos="46.5647" zpos="379.607" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="ski7WXK010mwXQbgPjX83g=="/>
+
+		<POI MapID="1099" xpos="152.221" ypos="70.5151" zpos="292.628" heightoffset="0.25" rotate-x="180" rotate-z="-50" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="K4TWUXu5C0awcWvdtMBIdw=="/>
+		<POI MapID="1099" xpos="152.221" ypos="70.5151" zpos="292.628" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="K4TWUXu5C0awcWvdtMBIdw=="/>
+
+		<POI MapID="1099" xpos="-60.8095" ypos="74.1368" zpos="353.639" heightoffset="0.25" rotate-x="180" rotate-z="45" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="qZSzc9anp0KbYF09/c9Tqw=="/>
+		<POI MapID="1099" xpos="-60.8095" ypos="74.1368" zpos="353.639" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.red_borderlands.offensive.catapults" GUID="qZSzc9anp0KbYF09/c9Tqw=="/>
+
 		<!--
 			Catapults: Defensive
 		-->
@@ -88,6 +130,18 @@
 		<!-- O'del Academy -->
 		<POI MapID="1099" xpos="-565.992" ypos="41.8925" zpos="482.606" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="71e9LWGk3Uyl+7BDAnjgSA=="/>
 		<POI MapID="1099" xpos="-553.288" ypos="42.0897" zpos="482.612" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="7YreSMxUNE+ObXH5mNshDQ=="/>
+
+		<!-- Stoic Rampart -->
+		<POI MapID="1099" xpos="-88.8575" ypos="70.2304" zpos="304.728" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="IY3LctHuDkCcGjlCXXuQXw=="/>
+		<POI MapID="1099" xpos="-97.9954" ypos="70.2304" zpos="292.068" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="VSOBP/KGUUaJB6XLV8bNCQ=="/>
+		<POI MapID="1099" xpos="-201.727" ypos="55.1039" zpos="281.389" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="4EtCYpww9UiKF6tsE2Hzdg=="/>
+		<POI MapID="1099" xpos="-201.195" ypos="54.9329" zpos="267.082" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="yjTJ6Xzz0kGs5tnbfcItXw=="/>
+		<POI MapID="1099" xpos="5.57309" ypos="36.3097" zpos="146.506" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="tNSet/Hm5Um+w8tAtnGwIw=="/>
+		<POI MapID="1099" xpos="19.9718" ypos="36.3097" zpos="146.243" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="6LZ+AU1Yh0yAkTvBhyBBhA=="/>
+		<POI MapID="1099" xpos="208.954" ypos="45.2937" zpos="254.927" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="6qVvw0y23UewmCPvnVpLyg=="/>
+		<POI MapID="1099" xpos="208.495" ypos="45.3264" zpos="269.324" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="clRFk9d9tUWOErAMed6lRw=="/>
+		<POI MapID="1099" xpos="99.8153" ypos="70.5796" zpos="344.777" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="3uY6JpAU60maOPWfKLtY8A=="/>
+		<POI MapID="1099" xpos="108.787" ypos="70.517" zpos="334.302" type="rediche_siege_pack.red_borderlands.offensive.flame_rams" GUID="JGzdXtiRZECaDpFgFxNKcQ=="/>
 
 		<!--
 			Flame Rams: Defensive
