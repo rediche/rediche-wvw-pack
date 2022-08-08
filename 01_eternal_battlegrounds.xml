@@ -226,9 +226,14 @@
 		<POI MapID="38" xpos="342.196" ypos="27.7612" zpos="280.468" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="1AG6VbV+UECY6xZ7FO9XRR==" />
 
 		<!-- Quentin Lake -->
-		<POI MapID="38" xpos="176.771" ypos="-0.385" zpos="-520.692" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="wBrhYkc4pU6MXkjKZb7Xyg==" />
-		<POI MapID="38" xpos="327.207" ypos="19.7444" zpos="-463.532" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="CqLpwDjEaESVRKBeNxcXJw==" />
-		<POI MapID="38" xpos="252.177" ypos="9.6853" zpos="-399.475" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="QC5nT9g4h0Gg8uQOgmDgdQ==" />
+		<POI MapID="38" xpos="176.771" ypos="-0.385" zpos="-520.692" heightoffset="0.25" rotate-x="180" rotate-z="100" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="wBrhYkc4pU6MXkjKZb7Xyg==" />
+		<POI MapID="38" xpos="176.771" ypos="-0.385" zpos="-520.692" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="wBrhYkc4pU6MXkjKZb7XyA==" />
+
+		<POI MapID="38" xpos="327.207" ypos="19.7444" zpos="-463.532" heightoffset="0.25" rotate-x="180" rotate-z="-50" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="CqLpwDjEaESVRKBeNxcXJw==" />
+		<POI MapID="38" xpos="327.207" ypos="19.7444" zpos="-463.532" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="CqLpwDjEaESVRKBeNxcXJA==" />
+
+		<POI MapID="38" xpos="252.177" ypos="9.6853" zpos="-399.475" heightoffset="0.25" rotate-x="180" rotate-z="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="QC5nT9g4h0Gg8uQOgmDgdQ==" />
+		<POI MapID="38" xpos="252.177" ypos="9.6853" zpos="-399.475" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="QC5nT9g4h0Gg8uQOgmDgdA==" />
 
 		<!-- Stonemist Castle -->
 		<POI MapID="38" xpos="279.516" ypos="33.0747" zpos="-201.229" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="Q//OAmJbbEW1MO5muX/U8Q==" />
