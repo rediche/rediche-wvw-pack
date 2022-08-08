@@ -320,6 +320,20 @@
 		<POI MapID="38" xpos="-369.926" ypos="5.05543" zpos="-343.781" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="tcD7KvdYikWy6PUMVhKRfw=="/>
 		<POI MapID="38" xpos="-378.673" ypos="5.02917" zpos="-333.463" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="latHzwN9hU+O9rylhqojNQ=="/>
 
+		<!-- Valley Keep -->
+		<POI MapID="38" xpos="676.334" ypos="41.9213" zpos="-544.497" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="UUEfvg6GzEWL/opB+C5TAA=="/>
+		<POI MapID="38" xpos="684.738" ypos="41.8648" zpos="-535.214" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="v5pDfU/Ao0y7Jh3T1hWl1A=="/>
+		<POI MapID="38" xpos="611.955" ypos="41.8647" zpos="-536.388" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="jCO0yDqjlE+XEzvyiSQdGg=="/>
+		<POI MapID="38" xpos="602.508" ypos="41.8659" zpos="-527.597" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="GXsj31d4GUywoosgjHWCOA=="/>
+		<POI MapID="38" xpos="575.844" ypos="-0.224135" zpos="-591.42" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="XI6MbFr5UEGJ1BkmZlMSZA=="/>
+		<POI MapID="38" xpos="581.044" ypos="-0.227198" zpos="-594.943" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="grhvnPTjMkiEWHlkOCQILw=="/>
+		<POI MapID="38" xpos="675.493" ypos="41.7949" zpos="-528.441" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="uz6nqxTPDUakJQqdtEc7Qg=="/>
+		<POI MapID="38" xpos="668.094" ypos="41.7462" zpos="-535.224" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="fPy3bL67v0a1um0OvfdKsw=="/>
+		<POI MapID="38" xpos="666.928" ypos="41.8695" zpos="-474.379" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="SHplkaDHRUS2ciUgLAFKZw=="/>
+		<POI MapID="38" xpos="657.869" ypos="41.8761" zpos="-466.121" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="tlSqc2htE06orgPa7NeK1Q=="/>
+		<POI MapID="38" xpos="555.603" ypos="32.2005" zpos="-445.541" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="J8uf2TBbCE+8nF/mZpdHuA=="/>
+		<POI MapID="38" xpos="563.123" ypos="32.1788" zpos="-435.578" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="Vu/SM7Uf+kmCwnAFabj4sQ=="/>
+
 		<!-- Wildcreek Run -->
 		<POI MapID="38" xpos="-338.321" ypos="1.89759" zpos="-154.812" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="ZgLFxt4eqUSifWgSzVMaYw=="/>
 		<POI MapID="38" xpos="-341.916" ypos="1.92003" zpos="-151.521" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="tbLSh7kcMkKIJQYBTsIZEg=="/>
