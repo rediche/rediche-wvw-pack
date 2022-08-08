@@ -199,7 +199,8 @@
 		<POI MapID="38" xpos="-43.6686" ypos="-0.485187" zpos="-512.785" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="nxnzufhOvECVs+9mKBjXYB=="/>
 
 		<!-- Langor Gulch -->
-		<POI MapID="38" xpos="551.676" ypos="35.3332" zpos="-736.624" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="I0r/feSUGkmlRgwT1IFVLA==" />
+		<POI MapID="38" xpos="551.676" ypos="35.3332" zpos="-736.624" heightoffset="0.25" rotate-x="180" rotate-z="170" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="I0r/feSUGkmlRgwT1IFVLA==" />
+		<POI MapID="38" xpos="551.676" ypos="35.3332" zpos="-736.624" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="I0r/feSUGkmlRgwT1IFVLB==" />
 
 		<!-- Lowlands Keep -->
 		<POI MapID="38" xpos="-530.901" ypos="1.92682" zpos="-332.764" heightoffset="0.25" rotate-x="180" rotate-z="38" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="3LsLBanZDE2e7YM3nY4WCQ=="/>
