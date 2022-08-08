@@ -242,10 +242,17 @@
 		<POI MapID="38" xpos="190.357" ypos="39.098" zpos="26.3734" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="GXtvkq4hSEeTnPO9waYjgw==" />
 
 		<!-- Valley Keep -->
-		<POI MapID="38" xpos="583.638" ypos="32.4111" zpos="-596.2" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="tp8qsofy70m8BWXNjsF6IQ==" />
-		<POI MapID="38" xpos="666.605" ypos="31.4403" zpos="-392.88" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="ogmK2dGkwUmIlj9zVti1mw==" />
-		<POI MapID="38" xpos="698.138" ypos="32.8985" zpos="-419.712" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="Ne3MOSC1HEimJ8hzZGi71Q==" />
-		<POI MapID="38" xpos="722.838" ypos="32.4973" zpos="-441.433" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="Bm84KTKynkqMj6St0V5D9Q==" />
+		<POI MapID="38" xpos="583.638" ypos="32.4111" zpos="-596.2" heightoffset="0.25" rotate-x="180" rotate-z="140" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="tp8qsofy70m8BWXNjsF6IQ==" />
+		<POI MapID="38" xpos="583.638" ypos="32.4111" zpos="-596.2" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="tp8qsofy70m8BWXNjsF6IQ==" />
+
+		<POI MapID="38" xpos="666.605" ypos="31.4403" zpos="-392.88" heightoffset="0.25" rotate-x="180" rotate-z="-20" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="ogmK2dGkwUmIlj9zVti1mw==" />
+		<POI MapID="38" xpos="666.605" ypos="31.4403" zpos="-392.88" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="ogmK2dGkwUmIlj9zVti1mw==" />
+
+		<POI MapID="38" xpos="698.138" ypos="32.8985" zpos="-419.712" heightoffset="0.25" rotate-x="180" rotate-z="-40" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="Ne3MOSC1HEimJ8hzZGi71Q==" />
+		<POI MapID="38" xpos="698.138" ypos="32.8985" zpos="-419.712" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="Ne3MOSC1HEimJ8hzZGi71Q==" />
+
+		<POI MapID="38" xpos="722.838" ypos="32.4973" zpos="-441.433" heightoffset="0.25" rotate-x="180" rotate-z="-40" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="Bm84KTKynkqMj6St0V5D9Q==" />
+		<POI MapID="38" xpos="722.838" ypos="32.4973" zpos="-441.433" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="Bm84KTKynkqMj6St0V5D9Q==" />
 
 		<!-- Veloka Slope -->
 		<POI MapID="38" xpos="367.153" ypos="37.4515" zpos="493.257" type="rediche_siege_pack.eternal_battlegrounds.offensive.catapults" GUID="Wjkw5zppJUGS0Fj/LjnjIA=="/>
