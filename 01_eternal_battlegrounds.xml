@@ -319,6 +319,10 @@
 		<POI MapID="38" xpos="306.457" ypos="14.4067" zpos="211.927" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="gbgN1tEiP0aKWK9DhhKuHw=="/>
 		<POI MapID="38" xpos="303.206" ypos="14.4933" zpos="206.559" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="QzJHhksXxkakl1alvN7ziQ=="/>
 
+		<!-- Langor Gulch -->
+		<POI MapID="38" xpos="528.409" ypos="35.0544" zpos="-670.194" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="o7Bm73rR9UuhsSAaoeXbqQ=="/>
+		<POI MapID="38" xpos="526.123" ypos="35.1106" zpos="-674.572" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="p+EP+TFFFE6DHly6/wNjgw=="/>
+
 		<!-- Lowlands Keep -->
 		<POI MapID="38" xpos="-603.213" ypos="9.87337" zpos="-526.226" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="lFWyEke+Ik+2LRHfczXSZA=="/>
 		<POI MapID="38" xpos="-595.435" ypos="9.8735" zpos="-535.884" type="rediche_siege_pack.eternal_battlegrounds.offensive.flame_rams" GUID="kwmE6iO5UkK98Np89k+dwQ=="/>
