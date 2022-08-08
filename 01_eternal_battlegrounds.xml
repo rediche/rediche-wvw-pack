@@ -282,7 +282,8 @@
 		-->
 
 		<!-- Quentin Lake -->
-		<POI MapID="38" xpos="395.27" ypos="43.059" zpos="-585.319" type="rediche_siege_pack.eternal_battlegrounds.defensive.catapults" GUID="EdsTEmG+o0u8wbkFChOP6Q==" />
+		<POI MapID="38" xpos="395.27" ypos="43.059" zpos="-585.319" heightoffset="0.25" rotate-x="180" rotate-z="-120" type="rediche_siege_pack.eternal_battlegrounds.defensive.catapults" GUID="EdsTEmG+o0u8wbkFChOP6Q==" />
+		<POI MapID="38" xpos="395.27" ypos="43.059" zpos="-585.319" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rediche_siege_pack.eternal_battlegrounds.defensive.catapults" GUID="EdsTEmG+o0u8wbkFChOP6A==" />
 
 		<!-- Bravost Escarpment -->
 		<POI MapID="38" xpos="736.324" ypos="28.3539" zpos="-276.723" type="rediche_siege_pack.eternal_battlegrounds.defensive.catapults" GUID="Lr/5qH3P0U2STeIV/SnH/Q==" />
