@@ -22,6 +22,16 @@
 		<POI MapID="1099" xpos="395.568" ypos="129.368" zpos="-617.922" type="rsp.rbl.def.arrow_carts" GUID="M3EDTAGg806/c6GLqY0Heg=="/>
 		<POI MapID="1099" xpos="394.825" ypos="127.766" zpos="-673.842" type="rsp.rbl.def.arrow_carts" GUID="V0oYOSpN20SKih3BUEa2zQ=="/>
 
+		<!-- Southwest Tower -->
+		<POI MapID="1099" xpos="-252.824" ypos="132.744" zpos="-610.84" type="rsp.rbl.def.arrow_carts" GUID="oAuZSV3QH0iH78i6Ze9I6A=="/>
+		<POI MapID="1099" xpos="-275.387" ypos="127.961" zpos="-610.353" type="rsp.rbl.def.arrow_carts" GUID="G0z89oFZj066gpeBuTf+/g=="/>
+		<POI MapID="1099" xpos="-291.48" ypos="119.921" zpos="-605.003" type="rsp.rbl.def.arrow_carts" GUID="lazOxetLzEKbXhziByb/2Q=="/>
+		<POI MapID="1099" xpos="-323.538" ypos="118.464" zpos="-600.499" type="rsp.rbl.def.arrow_carts" GUID="BTWDIsrYJEa0ZCf/p78/Xw=="/>
+		<POI MapID="1099" xpos="-352.643" ypos="118.196" zpos="-597.862" type="rsp.rbl.def.arrow_carts" GUID="C47aDYQbCEqq5QLeQnCjLg=="/>
+		<POI MapID="1099" xpos="-350.36" ypos="120.697" zpos="-568.253" type="rsp.rbl.def.arrow_carts" GUID="odhyxKQf00aij9bVoMubqQ=="/>
+		<POI MapID="1099" xpos="-281.504" ypos="125.434" zpos="-510.467" type="rsp.rbl.def.arrow_carts" GUID="TeQmbAW6CEKe8wOE5Ybu4g=="/>
+		<POI MapID="1099" xpos="-224.518" ypos="134.323" zpos="-587.22" type="rsp.rbl.def.arrow_carts" GUID="YoBVU3qClkauqQjhcK8TaA=="/>
+
 		<!-- Northeast Tower -->
 		<POI MapID="1099" xpos="552.819" ypos="87.7419" zpos="502.166" type="rsp.rbl.def.arrow_carts" GUID="vh1vtTTtiE2g5qWylfrSYw=="/>
 		<POI MapID="1099" xpos="569.844" ypos="78.3671" zpos="454.342" type="rsp.rbl.def.arrow_carts" GUID="6eRB4sNjIE+4tWw14YnJKw=="/>
@@ -86,6 +96,19 @@
 
 		<POI MapID="1099" xpos="261.229" ypos="85.9664" zpos="-544.457" heightoffset="0.25" rotate-x="180" rotate-z="20" type="rsp.rbl.off.catapults" GUID="n8KG0mu9C0WyyOhsu9orTA=="/>
 		<POI MapID="1099" xpos="261.229" ypos="85.9664" zpos="-544.457" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="n8KG0mu9C0WyyOhsu9orTg=="/>
+
+		<!-- Southwest Tower -->
+		<POI MapID="1099" xpos="-237.253" ypos="108.879" zpos="-515.472" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.rbl.off.catapults" GUID="yaWfwTe5TEyynUtbty1BAw=="/>
+		<POI MapID="1099" xpos="-237.253" ypos="108.879" zpos="-515.472" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="yaWfwTe5TEyynUtbty1BAA=="/>
+
+		<POI MapID="1099" xpos="-239.101" ypos="113.386" zpos="-622.49" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rsp.rbl.off.catapults" GUID="uleGr93wy06ek/ASmjC6LA=="/>
+		<POI MapID="1099" xpos="-239.101" ypos="113.386" zpos="-622.49" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="uleGr93wy06ek/ASmjC6LB=="/>
+
+		<POI MapID="1099" xpos="-311.901" ypos="105.076" zpos="-623.228" heightoffset="0.25" rotate-x="180" rotate-z="170" type="rsp.rbl.off.catapults" GUID="vd7Utyim+0Wmaa7Nx/vH4w=="/>
+		<POI MapID="1099" xpos="-311.901" ypos="105.076" zpos="-623.228" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="vd7Utyim+0Wmaa7Nx/vH4A=="/>
+
+		<POI MapID="1099" xpos="-365.347" ypos="103.572" zpos="-579.763" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.rbl.off.catapults" GUID="T8arvEweJ0eg1H1N/lAONg=="/>
+		<POI MapID="1099" xpos="-365.347" ypos="103.572" zpos="-579.763" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="T8arvEweJ0eg1H1N/lAONA=="/>
 
 		<!-- Northeast Tower -->
 		<POI MapID="1099" xpos="617.816" ypos="54.4609" zpos="441.676" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rsp.rbl.off.catapults" GUID="Gyzlm0Dz40KVV10vRAdfuw=="/>
@@ -154,6 +177,10 @@
 		<!-- Southeast Tower -->
 		<POI MapID="1099" xpos="336.087" ypos="109.954" zpos="-725.557" type="rsp.rbl.off.flame_rams" GUID="4fTn4rLf2kC2mtuN7SszOQ=="/>
 		<POI MapID="1099" xpos="347.842" ypos="109.87" zpos="-721.971" type="rsp.rbl.off.flame_rams" GUID="ULCNMMGbMECMt8sj6gy07A=="/>
+
+		<!-- Southwest Tower -->
+		<POI MapID="1099" xpos="-339.018" ypos="105.267" zpos="-609.998" type="rsp.rbl.off.flame_rams" GUID="GwFp8AJlbkmvfMR152OoBg=="/>
+		<POI MapID="1099" xpos="-351.495" ypos="104.575" zpos="-607.807" type="rsp.rbl.off.flame_rams" GUID="BS06j6DTqUeQ8QILcAfx9A=="/>
 
 		<!-- Northeast Tower -->
 		<POI MapID="1099" xpos="576.83" ypos="63.9713" zpos="444.533" type="rsp.rbl.off.flame_rams" GUID="2l9a4jqaDEac8KL6yqHljg=="/>
