@@ -73,6 +73,21 @@
 		<POI MapID="1099" xpos="42.1331" ypos="65.6802" zpos="148.644" type="rsp.rbl.def.arrow_carts" GUID="l+yy4xVANUW2s+Qf1L3Wyw=="/>
 		<POI MapID="1099" xpos="-17.3663" ypos="65.562" zpos="150.852" type="rsp.rbl.def.arrow_carts" GUID="kYsc78oBD0Go0OyX9kb4fA=="/>
 
+		<!-- West Keep -->
+		<POI MapID="1099" xpos="-706.98" ypos="25.4313" zpos="-210.607" type="rsp.rbl.def.arrow_carts" GUID="tSQ5w+pndk+EFf3Tk4omSQ=="/>
+		<POI MapID="1099" xpos="-681.447" ypos="25.0373" zpos="-211.13" type="rsp.rbl.def.arrow_carts" GUID="vdYnDMGjBEePmj0fz8gHuw=="/>
+		<POI MapID="1099" xpos="-634.495" ypos="25.3757" zpos="-211.113" type="rsp.rbl.def.arrow_carts" GUID="1pLA32L2FE6LJRuWdLmOsQ=="/>
+		<POI MapID="1099" xpos="-615.143" ypos="24.5027" zpos="-212.485" type="rsp.rbl.def.arrow_carts" GUID="iN0QmgmHZ0yetMkoG0oU8g=="/>
+		<POI MapID="1099" xpos="-558.084" ypos="12.3996" zpos="-141.631" type="rsp.rbl.def.arrow_carts" GUID="xXZQ2T/H8EKoOBxiRbJfjw=="/>
+		<POI MapID="1099" xpos="-551.794" ypos="59.6861" zpos="-83.8106" type="rsp.rbl.def.arrow_carts" GUID="FGX4hNbvQUi0jIHY0MskYQ=="/>
+		<POI MapID="1099" xpos="-552.409" ypos="61.5166" zpos="-58.2544" type="rsp.rbl.def.arrow_carts" GUID="dXHSG7F1DEeho5+rWBDPjQ=="/>
+		<POI MapID="1099" xpos="-551.852" ypos="61.6541" zpos="-109.164" type="rsp.rbl.def.arrow_carts" GUID="sGkPYlkbVEK19h9zl+o2rw=="/>
+		<POI MapID="1099" xpos="-573.377" ypos="22.7229" zpos="20.4032" type="rsp.rbl.def.arrow_carts" GUID="iaXini1lLE6w/VcC9n/GLA=="/>
+		<POI MapID="1099" xpos="-618.674" ypos="25.497" zpos="55.2356" type="rsp.rbl.def.arrow_carts" GUID="RciXAjCWfkGQ/IK+ftBP3g=="/>
+		<POI MapID="1099" xpos="-651.601" ypos="25.0618" zpos="59.0692" type="rsp.rbl.def.arrow_carts" GUID="rKk+CCJO30q/FRq+CtLHeg=="/>
+		<POI MapID="1099" xpos="-701.488" ypos="25.3764" zpos="58.5968" type="rsp.rbl.def.arrow_carts" GUID="6gQogETisUuqfo/lKQMBWA=="/>
+		<POI MapID="1099" xpos="-727.75" ypos="25.7987" zpos="54.8923" type="rsp.rbl.def.arrow_carts" GUID="4IAzK9qpckeYfzgZXK477g=="/>
+
 		<!--
 			Ballistas: Offensive
 		-->
@@ -164,6 +179,11 @@
 		<POI MapID="1099" xpos="-60.8095" ypos="74.1368" zpos="353.639" heightoffset="0.25" rotate-x="180" rotate-z="45" type="rsp.rbl.off.catapults" GUID="qZSzc9anp0KbYF09/c9Tqw=="/>
 		<POI MapID="1099" xpos="-60.8095" ypos="74.1368" zpos="353.639" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="qZSzc9anp0KbYF09/c9Tqw=="/>
 
+		<!-- West Keep -->
+		<POI MapID="1099" xpos="-613.151" ypos="77.3764" zpos="-318.902" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rsp.rbl.off.catapults" GUID="EUbprKpyGkuaAjSUVuXmKA=="/>
+		<POI MapID="1099" xpos="-613.151" ypos="77.3764" zpos="-318.902" info="Aim towards the wall of the keep." triggerrange="10" type="rsp.settings.info" GUID="EUbprKpyGkuaAjSUVuXmKB=="/>
+		<POI MapID="1099" xpos="-613.151" ypos="77.3764" zpos="-318.902" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="EUbprKpyGkuaAjSUVuXmKC=="/>
+
 		<!--
 			Catapults: Defensive
 		-->
@@ -201,6 +221,18 @@
 		<POI MapID="1099" xpos="208.495" ypos="45.3264" zpos="269.324" type="rsp.rbl.off.flame_rams" GUID="clRFk9d9tUWOErAMed6lRw=="/>
 		<POI MapID="1099" xpos="99.8153" ypos="70.5796" zpos="344.777" type="rsp.rbl.off.flame_rams" GUID="3uY6JpAU60maOPWfKLtY8A=="/>
 		<POI MapID="1099" xpos="108.787" ypos="70.517" zpos="334.302" type="rsp.rbl.off.flame_rams" GUID="JGzdXtiRZECaDpFgFxNKcQ=="/>
+
+		<!-- West Keep -->
+		<POI MapID="1099" xpos="-751.785" ypos="42.6885" zpos="-168.716" type="rsp.rbl.off.flame_rams" GUID="pHfbNiBb0EW+BG+ypORqSw=="/>
+		<POI MapID="1099" xpos="-752.248" ypos="42.5527" zpos="-155.252" type="rsp.rbl.off.flame_rams" GUID="mxx6lFMCCkuSgZDwkx3exQ=="/>
+		<POI MapID="1099" xpos="-751.453" ypos="42.6874" zpos="-13.0639" type="rsp.rbl.off.flame_rams" GUID="pJb+Ik1nr0aYgLGARI6K1Q=="/>
+		<POI MapID="1099" xpos="-752.201" ypos="42.6875" zpos="1.49062" type="rsp.rbl.off.flame_rams" GUID="GOoMm5ug/0aoA0gmzIJ+IA=="/>
+		<POI MapID="1099" xpos="-675.97" ypos="10.3657" zpos="68.1886" type="rsp.rbl.off.flame_rams" GUID="twDrPHCfpEiwqhRg5NAKLA=="/>
+		<POI MapID="1099" xpos="-660.157" ypos="10.1271" zpos="68.4071" type="rsp.rbl.off.flame_rams" GUID="+oxHPsRTzE2F33o08y9HVA=="/>
+		<POI MapID="1099" xpos="-538.907" ypos="33.4326" zpos="-76.4088" type="rsp.rbl.off.flame_rams" GUID="Sr8NfmZnA0Ce1RsEWeFOSQ=="/>
+		<POI MapID="1099" xpos="-539.234" ypos="33.4306" zpos="-92.3351" type="rsp.rbl.off.flame_rams" GUID="kCYkCpv/Qk6Z0yliXlPu+A=="/>
+		<POI MapID="1099" xpos="-661.336" ypos="9.77495" zpos="-218.665" type="rsp.rbl.off.flame_rams" GUID="vJT5urQ9mk2XCfwML5iJnQ=="/>
+		<POI MapID="1099" xpos="-674.076" ypos="9.87648" zpos="-218.935" type="rsp.rbl.off.flame_rams" GUID="6nj8J7s1yE+RQAC2jg1OBg=="/>
 
 		<!--
 			Flame Rams: Defensive
