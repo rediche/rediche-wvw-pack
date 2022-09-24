@@ -87,6 +87,22 @@
 			Catapults: Offensive
 		-->
 
+		<!-- East Keep (Hills) -->
+		<POI MapID="95" xpos="536.863" ypos="69.1828" zpos="-14.5467" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.gbl.off.catapults" GUID="iQGZdSO6ZUCMoOwwD3CCRA=="/>
+		<POI MapID="95" xpos="536.863" ypos="69.1828" zpos="-14.5467" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="iQGZdSO6ZUCMoOwwD3CCRB=="/>
+
+		<POI MapID="95" xpos="484.785" ypos="74.5411" zpos="-118.218" heightoffset="0.25" rotate-x="180" rotate-z="60" type="rsp.gbl.off.catapults" GUID="LTD9jXrz1kSSL3bcqNXIXA=="/>
+		<POI MapID="95" xpos="484.785" ypos="74.5411" zpos="-118.218" info="You can hit both the outer and inner wall if aiming correctly.&#xA;&#xA;Make sure to hit the corner of the wall when shooting towards the inner wall as that will hit 2 destroyable walls inside." triggerrange="10" type="rsp.settings.info" GUID="LTD9jXrz1kSSL3bcqNXIXC=="/>
+		<POI MapID="95" xpos="484.785" ypos="74.5411" zpos="-118.218" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="LTD9jXrz1kSSL3bcqNXIXB=="/>
+		
+		<POI MapID="95" xpos="483.112" ypos="83.7712" zpos="-211.667" heightoffset="0.25" rotate-x="180" rotate-z="120" type="rsp.gbl.off.catapults" GUID="2flXsA3zVkSItnz92Uc4qg=="/>
+		<POI MapID="95" xpos="483.112" ypos="83.7712" zpos="-211.667" info="You can hit both the outer and inner wall if aiming correctly.&#xA;&#xA;Make sure to hit the corner of the wall when shooting towards the inner wall as that will hit 2 destroyable walls inside." triggerrange="10" type="rsp.settings.info" GUID="2flXsA3zVkSItnz92Uc4qB=="/>
+		<POI MapID="95" xpos="483.112" ypos="83.7712" zpos="-211.667" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="2flXsA3zVkSItnz92Uc4qA=="/>
+		
+		<POI MapID="95" xpos="480.853" ypos="69.5007" zpos="-225.085" info="Aim towards the wall upstairs.&#xA;&#xA;Splash damage will still hit it and you will be less exposed down here." triggerrange="10" type="rsp.gbl.off.catapults" GUID="YLEhqIcuVUSYLDZIgzaUwQ=="/>
+		<POI MapID="95" xpos="480.853" ypos="69.5007" zpos="-225.085" info="Aim towards the wall upstairs.&#xA;&#xA;Splash damage will still hit it and you will be less exposed down here." triggerrange="10" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.settings.info" GUID="YLEhqIcuVUSYLDZIgzaUwB=="/>
+		<POI MapID="95" xpos="480.853" ypos="69.5007" zpos="-225.085" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="YLEhqIcuVUSYLDZIgzaUwA=="/>
+
 		<!-- Garrison -->
 		<POI MapID="95" xpos="-152.96" ypos="73.1926" zpos="226.934" heightoffset="0.25" rotate-x="180" rotate-z="60" type="rsp.gbl.off.catapults" GUID="YVdpxTEXQUeGgfXc4ssT3A=="/>
 		<POI MapID="95" xpos="-152.96" ypos="73.1926" zpos="226.934" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="YVdpxTEXQUeGgfXc4ssT3D=="/>

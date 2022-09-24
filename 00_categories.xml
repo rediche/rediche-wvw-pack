@@ -78,6 +78,10 @@
 			</MarkerCategory>
 		</MarkerCategory>
 
+		<MarkerCategory DisplayName="Settings" name="settings">
+			<MarkerCategory DisplayName="Show helper information" name="info" alpha="0" />
+		</MarkerCategory>
+
 		<MarkerCategory DisplayName="Created by Rediche.6821" name="created_by" isSeparator="1" />
 
 		<MarkerCategory DisplayName="Contributors:" name="credits" bh-isSeparator="1">
