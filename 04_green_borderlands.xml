@@ -88,31 +88,31 @@
 		-->
 
 		<!-- Garrison -->
-		<POI MapID="95" xpos="-152.96" ypos="73.1926" zpos="226.934" heightoffset="0.25" rotate-x="180" rotate-z="60" type="rsp.gbl.off.flame_rams" GUID="YVdpxTEXQUeGgfXc4ssT3A=="/>
-		<POI MapID="95" xpos="-152.96" ypos="73.1926" zpos="226.934" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.flame_rams" GUID="YVdpxTEXQUeGgfXc4ssT3D=="/>
+		<POI MapID="95" xpos="-152.96" ypos="73.1926" zpos="226.934" heightoffset="0.25" rotate-x="180" rotate-z="60" type="rsp.gbl.off.catapults" GUID="YVdpxTEXQUeGgfXc4ssT3A=="/>
+		<POI MapID="95" xpos="-152.96" ypos="73.1926" zpos="226.934" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="YVdpxTEXQUeGgfXc4ssT3D=="/>
 
-		<POI MapID="95" xpos="1.12453" ypos="71.0002" zpos="304.747" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.gbl.off.flame_rams" GUID="LPjC19LCiECbUXd+qchleg=="/>
-		<POI MapID="95" xpos="1.12453" ypos="71.0002" zpos="304.747" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.flame_rams" GUID="LPjC19LCiECbUXd+qchleA=="/>
+		<POI MapID="95" xpos="1.12453" ypos="71.0002" zpos="304.747" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.gbl.off.catapults" GUID="LPjC19LCiECbUXd+qchleg=="/>
+		<POI MapID="95" xpos="1.12453" ypos="71.0002" zpos="304.747" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="LPjC19LCiECbUXd+qchleA=="/>
 
-		<POI MapID="95" xpos="121.688" ypos="71.1692" zpos="230.956" heightoffset="0.25" rotate-x="180" rotate-z="-60" type="rsp.gbl.off.flame_rams" GUID="vc6caAuRPUaVJ7+ZVpgDMQ=="/>
-		<POI MapID="95" xpos="121.688" ypos="71.1692" zpos="230.956" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.flame_rams" GUID="vc6caAuRPUaVJ7+ZVpgDMA=="/>
+		<POI MapID="95" xpos="121.688" ypos="71.1692" zpos="230.956" heightoffset="0.25" rotate-x="180" rotate-z="-60" type="rsp.gbl.off.catapults" GUID="vc6caAuRPUaVJ7+ZVpgDMQ=="/>
+		<POI MapID="95" xpos="121.688" ypos="71.1692" zpos="230.956" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="vc6caAuRPUaVJ7+ZVpgDMA=="/>
 
 		<!-- Northeast Tower -->
-		<POI MapID="95" xpos="277.118" ypos="87.5396" zpos="310.245" heightoffset="0.25" rotate-x="180" rotate-z="130" type="rsp.gbl.off.flame_rams" GUID="lw1uaLshz0On/vF1JK3ISA=="/>
-		<POI MapID="95" xpos="277.118" ypos="87.5396" zpos="310.245" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.flame_rams" GUID="lw1uaLshz0On/vF1JK3ISd=="/>
+		<POI MapID="95" xpos="277.118" ypos="87.5396" zpos="310.245" heightoffset="0.25" rotate-x="180" rotate-z="130" type="rsp.gbl.off.catapults" GUID="lw1uaLshz0On/vF1JK3ISA=="/>
+		<POI MapID="95" xpos="277.118" ypos="87.5396" zpos="310.245" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="lw1uaLshz0On/vF1JK3ISd=="/>
 
-		<POI MapID="95" xpos="334.405" ypos="86.5946" zpos="381.131" heightoffset="0.25" rotate-x="180" rotate-z="-20" type="rsp.gbl.off.flame_rams" GUID="sVAukYcbxEmiKy3NJPlb7A=="/>
-		<POI MapID="95" xpos="334.405" ypos="86.5946" zpos="381.131" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.flame_rams" GUID="sVAukYcbxEmiKy3NJPlb7W=="/>
+		<POI MapID="95" xpos="334.405" ypos="86.5946" zpos="381.131" heightoffset="0.25" rotate-x="180" rotate-z="-20" type="rsp.gbl.off.catapults" GUID="sVAukYcbxEmiKy3NJPlb7A=="/>
+		<POI MapID="95" xpos="334.405" ypos="86.5946" zpos="381.131" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="sVAukYcbxEmiKy3NJPlb7W=="/>
 
 		<!-- Northwest Tower -->
-		<POI MapID="95" xpos="-336.416" ypos="77.6605" zpos="339.104" heightoffset="0.25" rotate-x="180" rotate-z="-140" type="rsp.gbl.off.flame_rams" GUID="NybLLvulSEmM2TxT8ph1EQ=="/>
-		<POI MapID="95" xpos="-336.416" ypos="77.6605" zpos="339.104" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.flame_rams" GUID="NybLLvulSEmM2TxT8ph1EA=="/>
+		<POI MapID="95" xpos="-336.416" ypos="77.6605" zpos="339.104" heightoffset="0.25" rotate-x="180" rotate-z="-140" type="rsp.gbl.off.catapults" GUID="NybLLvulSEmM2TxT8ph1EQ=="/>
+		<POI MapID="95" xpos="-336.416" ypos="77.6605" zpos="339.104" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="NybLLvulSEmM2TxT8ph1EA=="/>
 
-		<POI MapID="95" xpos="-381.046" ypos="80.6114" zpos="401.147" heightoffset="0.25" rotate-x="180" rotate-z="70" type="rsp.gbl.off.flame_rams" GUID="fJzIRH8tt0W22AlXEI0g0g=="/>
-		<POI MapID="95" xpos="-381.046" ypos="80.6114" zpos="401.147" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.flame_rams" GUID="fJzIRH8tt0W22AlXEI0g0A=="/>
+		<POI MapID="95" xpos="-381.046" ypos="80.6114" zpos="401.147" heightoffset="0.25" rotate-x="180" rotate-z="70" type="rsp.gbl.off.catapults" GUID="fJzIRH8tt0W22AlXEI0g0g=="/>
+		<POI MapID="95" xpos="-381.046" ypos="80.6114" zpos="401.147" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="fJzIRH8tt0W22AlXEI0g0A=="/>
 
-		<POI MapID="95" xpos="-419.006" ypos="100.053" zpos="507.781" heightoffset="0.25" rotate-x="180" rotate-z="25" type="rsp.gbl.off.flame_rams" GUID="sawMIOykck+On64Jd23Dng=="/>
-		<POI MapID="95" xpos="-419.006" ypos="100.053" zpos="507.781" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.flame_rams" GUID="sawMIOykck+On64Jd23DnA=="/>
+		<POI MapID="95" xpos="-419.006" ypos="100.053" zpos="507.781" heightoffset="0.25" rotate-x="180" rotate-z="25" type="rsp.gbl.off.catapults" GUID="sawMIOykck+On64Jd23Dng=="/>
+		<POI MapID="95" xpos="-419.006" ypos="100.053" zpos="507.781" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="sawMIOykck+On64Jd23DnA=="/>
 
 		<!--
 			Catapults: Defensive
