@@ -97,6 +97,39 @@
 		<POI MapID="95" xpos="298.835" ypos="25.3312" zpos="-433.638" type="rsp.gbl.def.arrow_carts" GUID="AIVjnzu60Uql9vBSZdanrQ=="/>
 		<POI MapID="95" xpos="301.359" ypos="40.0951" zpos="-453.857" type="rsp.gbl.def.arrow_carts" GUID="K8S8s0MwmkKpXKn9ayCxHg=="/>
 
+		<!-- West Keep (Hills) -->
+		<POI MapID="95" xpos="-389.054" ypos="32.2246" zpos="-201.868" type="rsp.gbl.def.arrow_carts" GUID="gdAoj6w0bku0xKQQNfjByw=="/>
+		<POI MapID="95" xpos="-398.42" ypos="34.4812" zpos="-235.328" type="rsp.gbl.def.arrow_carts" GUID="VhXsKAg3W0G3OtaENJcTgQ=="/>
+		<POI MapID="95" xpos="-438.251" ypos="35.8419" zpos="-257.146" type="rsp.gbl.def.arrow_carts" GUID="eWSpDMfkTUCrFBCiKRu0Ng=="/>
+		<POI MapID="95" xpos="-459.719" ypos="36.0563" zpos="-271.821" type="rsp.gbl.def.arrow_carts" GUID="OmIKXyxGfUe+/TNnfVwsGw=="/>
+		<POI MapID="95" xpos="-470.024" ypos="38.7072" zpos="-281.446" type="rsp.gbl.def.arrow_carts" GUID="tL/1qNkjCkWWhzv0UcqwbA=="/>
+		<POI MapID="95" xpos="-477.541" ypos="39.385" zpos="-284.272" type="rsp.gbl.def.arrow_carts" GUID="rkl4ghQgY06QsyvQKAMB6w=="/>
+		<POI MapID="95" xpos="-508.596" ypos="38.9446" zpos="-304.318" type="rsp.gbl.def.arrow_carts" GUID="8o9VrTHAskK3RhxP3QKbAg=="/>
+		<POI MapID="95" xpos="-525.845" ypos="39.0366" zpos="-314.399" type="rsp.gbl.def.arrow_carts" GUID="FLEV3c1tX0+CgZunAZrnfg=="/>
+		<POI MapID="95" xpos="-589.354" ypos="16.9959" zpos="-204.387" type="rsp.gbl.def.arrow_carts" GUID="NNDnUS/i40WVxB4VgZiSYw=="/>
+		<POI MapID="95" xpos="-587.094" ypos="17.1149" zpos="-218.236" type="rsp.gbl.def.arrow_carts" GUID="rBykfdJQyESKhe3PjCDA1Q=="/>
+		<POI MapID="95" xpos="-613.081" ypos="17.0587" zpos="-243.683" type="rsp.gbl.def.arrow_carts" GUID="lxDxV/LuQkCWcHNX63sNnA=="/>
+		<POI MapID="95" xpos="-636.521" ypos="17.241" zpos="-245.903" type="rsp.gbl.def.arrow_carts" GUID="YLA10FVdO0OBc5oc6tUL9g=="/>
+		<POI MapID="95" xpos="-635.463" ypos="17.387" zpos="-225.299" type="rsp.gbl.def.arrow_carts" GUID="EwKdb9SSX02cbeCbEf+3Lw=="/>
+		<POI MapID="95" xpos="-631.817" ypos="17.4885" zpos="-214.097" type="rsp.gbl.def.arrow_carts" GUID="qtooa+DD70aC3Z/JOozcTw=="/>
+		<POI MapID="95" xpos="-585.583" ypos="17.0399" zpos="-197.614" type="rsp.gbl.def.arrow_carts" GUID="v9F0aEDazE2luS0nVsiL7w=="/>
+		<POI MapID="95" xpos="-585.257" ypos="17.0491" zpos="-153.112" type="rsp.gbl.def.arrow_carts" GUID="u4AgUrqG8kiofpI7ajgsKQ=="/>
+		<POI MapID="95" xpos="-589.136" ypos="17.0468" zpos="-145.636" type="rsp.gbl.def.arrow_carts" GUID="YDeyAUMxckabKkJTN8nWiQ=="/>
+		<POI MapID="95" xpos="-606.365" ypos="18.0959" zpos="-106.435" type="rsp.gbl.def.arrow_carts" GUID="4bODlGGPlUqLgYiil8qNXQ=="/>
+		<POI MapID="95" xpos="-620.279" ypos="18.2508" zpos="-103.661" type="rsp.gbl.def.arrow_carts" GUID="ciYWIHc3Q0WlEuzMpt/KUg=="/>
+		<POI MapID="95" xpos="-635.709" ypos="16.031" zpos="-120.113" type="rsp.gbl.def.arrow_carts" GUID="4MxoGR11HU+u/8BnEAM+pA=="/>
+		<POI MapID="95" xpos="-585.791" ypos="18.3203" zpos="-102.443" type="rsp.gbl.def.arrow_carts" GUID="A7FMuHeHpEyvJ2dFHnyEcw=="/>
+		<POI MapID="95" xpos="-568.012" ypos="19.4811" zpos="51.9196" type="rsp.gbl.def.arrow_carts" GUID="5jXR7mf3Z0qxVKgFTl42gA=="/>
+		<POI MapID="95" xpos="-604.279" ypos="20.0629" zpos="27.2504" type="rsp.gbl.def.arrow_carts" GUID="3KyZwhrDN0CeSVgwks6N8Q=="/>
+		<POI MapID="95" xpos="-573.658" ypos="19.4904" zpos="49.2829" type="rsp.gbl.def.arrow_carts" GUID="3BKa3bFEAEumpRQtgsMzcQ=="/>
+		<POI MapID="95" xpos="-449.714" ypos="24.6617" zpos="-1.35336" type="rsp.gbl.def.arrow_carts" GUID="mW+umnOJO0Gv6dVw3K2OBA=="/>
+		<POI MapID="95" xpos="-421.332" ypos="24.4969" zpos="-29.2428" type="rsp.gbl.def.arrow_carts" GUID="6bJt5beqxkarJ9XVUvpbuQ=="/>
+		<POI MapID="95" xpos="-399.343" ypos="24.5757" zpos="-50.3662" type="rsp.gbl.def.arrow_carts" GUID="8l3f1GQt+EmzJV3mb+bK0Q=="/>
+		<POI MapID="95" xpos="-389.669" ypos="24.5846" zpos="-55.5964" type="rsp.gbl.def.arrow_carts" GUID="PzfoC9sl+kORI4OzZXlunQ=="/>
+		<POI MapID="95" xpos="-383.577" ypos="26.6892" zpos="-64.4308" type="rsp.gbl.def.arrow_carts" GUID="s5+UUNkusEG5uRJHr/1hvQ=="/>
+		<POI MapID="95" xpos="-384.519" ypos="28.8139" zpos="-87.5645" type="rsp.gbl.def.arrow_carts" GUID="OFvT1t5YU0eC8KktiKvNZA=="/>
+		<POI MapID="95" xpos="-381.504" ypos="29.1902" zpos="-135.514" type="rsp.gbl.def.arrow_carts" GUID="wFO3mv3WjEyWnKaVOPK0cw=="/>
+
 		<!--
 			Ballistas: Offensive
 		-->
@@ -125,8 +158,8 @@
 		<POI MapID="95" xpos="483.112" ypos="83.7712" zpos="-211.667" info="You can hit both the outer and inner wall if aiming correctly.&#xA;&#xA;Make sure to hit the corner of the wall when shooting towards the inner wall as that will hit 2 destroyable walls inside." triggerrange="10" type="rsp.settings.info" GUID="2flXsA3zVkSItnz92Uc4qB=="/>
 		<POI MapID="95" xpos="483.112" ypos="83.7712" zpos="-211.667" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="2flXsA3zVkSItnz92Uc4qA=="/>
 		
-		<POI MapID="95" xpos="480.853" ypos="69.5007" zpos="-225.085" info="Aim towards the wall upstairs.&#xA;&#xA;Splash damage will still hit it and you will be less exposed down here." triggerrange="10" type="rsp.gbl.off.catapults" GUID="YLEhqIcuVUSYLDZIgzaUwQ=="/>
-		<POI MapID="95" xpos="480.853" ypos="69.5007" zpos="-225.085" info="Aim towards the wall upstairs.&#xA;&#xA;Splash damage will still hit it and you will be less exposed down here." triggerrange="10" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.settings.info" GUID="YLEhqIcuVUSYLDZIgzaUwB=="/>
+		<POI MapID="95" xpos="480.853" ypos="69.5007" zpos="-225.085" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.gbl.off.catapults" GUID="YLEhqIcuVUSYLDZIgzaUwQ=="/>
+		<POI MapID="95" xpos="480.853" ypos="69.5007" zpos="-225.085" info="Aim towards the wall upstairs.&#xA;&#xA;Splash damage will still hit it and you will be less exposed down here." triggerrange="10" type="rsp.settings.info" GUID="YLEhqIcuVUSYLDZIgzaUwB=="/>
 		<POI MapID="95" xpos="480.853" ypos="69.5007" zpos="-225.085" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="YLEhqIcuVUSYLDZIgzaUwA=="/>
 
 		<!-- Garrison -->
@@ -155,6 +188,41 @@
 
 		<POI MapID="95" xpos="-419.006" ypos="100.053" zpos="507.781" heightoffset="0.25" rotate-x="180" rotate-z="25" type="rsp.gbl.off.catapults" GUID="sawMIOykck+On64Jd23Dng=="/>
 		<POI MapID="95" xpos="-419.006" ypos="100.053" zpos="507.781" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="sawMIOykck+On64Jd23DnA=="/>
+
+		<!-- West Keep (Bay) -->
+		<POI MapID="95" xpos="-351.163" ypos="3.73677" zpos="-97.1394" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.gbl.off.catapults" GUID="ylmJldba4kSy/J27lAZNRA=="/>
+		<POI MapID="95" xpos="-351.163" ypos="3.73677" zpos="-97.1394" info="Aim for the connection between the two destroyable walls. This will hit both and deal more damage." triggerrange="10" type="rsp.settings.info" GUID="ylmJldba4kSy/J27lAZNRB=="/>
+		<POI MapID="95" xpos="-351.163" ypos="3.73677" zpos="-97.1394" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="ylmJldba4kSy/J27lAZNRC=="/>
+
+		<POI MapID="95" xpos="-462.166" ypos="15.6747" zpos="-102.949" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.gbl.off.catapults" GUID="ZUOhn2v5wku4dATsHHKUnA=="/>
+		<POI MapID="95" xpos="-462.166" ypos="15.6747" zpos="-102.949" info="Aim towards the inner walls, full charge." triggerrange="10" type="rsp.settings.info" GUID="ZUOhn2v5wku4dATsHHKUnB=="/>
+		<POI MapID="95" xpos="-462.166" ypos="15.6747" zpos="-102.949" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="ZUOhn2v5wku4dATsHHKUnC=="/>
+
+		<POI MapID="95" xpos="-556.515" ypos="2.78591" zpos="-14.4036" heightoffset="0.25" rotate-x="180" rotate-z="-15" type="rsp.gbl.off.catapults" GUID="Xbb71cUwHU2FMaK2x48kmg=="/>
+		<POI MapID="95" xpos="-556.515" ypos="2.78591" zpos="-14.4036" info="Aim towards corner of the walls as you will damage two walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="Xbb71cUwHU2FMaK2x48kmA=="/>
+		<POI MapID="95" xpos="-556.515" ypos="2.78591" zpos="-14.4036" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="Xbb71cUwHU2FMaK2x48kmB=="/>
+
+		<POI MapID="95" xpos="-580.954" ypos="8.4194" zpos="-89.4775" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.gbl.off.catapults" GUID="3iz1lrMqj0Wma3FqeUul8g=="/>
+		<POI MapID="95" xpos="-580.954" ypos="8.4194" zpos="-89.4775" info="Aim towards corner of the walls as you will damage two walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="3iz1lrMqj0Wma3FqeUul8A=="/>
+		<POI MapID="95" xpos="-580.954" ypos="8.4194" zpos="-89.4775" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="3iz1lrMqj0Wma3FqeUul8B=="/>
+
+		<POI MapID="95" xpos="-600.919" ypos="5.51657" zpos="-255.567" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rsp.gbl.off.catapults" GUID="8fni8S2or02LYbhMR/TnKA=="/>
+		<POI MapID="95" xpos="-600.919" ypos="5.51657" zpos="-255.567" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="8fni8S2or02LYbhMR/TnKC=="/>
+
+		<POI MapID="95" xpos="-652.07" ypos="6.01178" zpos="-233.114" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.gbl.off.catapults" GUID="/yRtwYrXGkOZPRh2G7m6Mg=="/>
+		<POI MapID="95" xpos="-652.07" ypos="6.01178" zpos="-233.114" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="/yRtwYrXGkOZPRh2G7m6MA=="/>
+
+		<POI MapID="95" xpos="-513.875" ypos="23.1792" zpos="-280.6" heightoffset="0.25" rotate-x="180" rotate-z="-130" type="rsp.gbl.off.catapults" GUID="hp2hgcawgUiU9SyQ4y7OWB=="/>
+		<POI MapID="95" xpos="-513.875" ypos="23.1792" zpos="-280.6" info="Aim towards the inner wall." triggerrange="10" type="rsp.settings.info" GUID="hp2hgcawgUiU9SyQ4y7OWA=="/>
+		<POI MapID="95" xpos="-513.875" ypos="23.1792" zpos="-280.6" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="hp2hgcawgUiU9SyQ4y7OWC=="/>
+
+		<POI MapID="95" xpos="-508.784" ypos="28.2466" zpos="-327.998" heightoffset="0.25" rotate-x="180" rotate-z="-145" type="rsp.gbl.off.catapults" GUID="q2p2/Fe65k2/oTPqjSs18A=="/>
+		<POI MapID="95" xpos="-508.784" ypos="28.2466" zpos="-327.998" info="You can also hit the inner walls once the outer wall is down.&#xA;&#xA;It is common to place multiple catapults here." triggerrange="10" type="rsp.settings.info" GUID="q2p2/Fe65k2/oTPqjSs18B=="/>
+		<POI MapID="95" xpos="-508.784" ypos="28.2466" zpos="-327.998" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="q2p2/Fe65k2/oTPqjSs18C=="/>
+
+		<POI MapID="95" xpos="-378.94" ypos="21.3691" zpos="-243.542" heightoffset="0.25" rotate-x="180" rotate-z="-110" type="rsp.gbl.off.catapults" GUID="wBRVJhpGgkW92SzH0KkvPg=="/>
+		<POI MapID="95" xpos="-378.94" ypos="21.3691" zpos="-243.542" info="Aim for the big corner between the two walls in front of you. This will hit both walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="wBRVJhpGgkW92SzH0KkvPA=="/>
+		<POI MapID="95" xpos="-378.94" ypos="21.3691" zpos="-243.542" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="wBRVJhpGgkW92SzH0KkvPB=="/>
 
 		<!--
 			Catapults: Defensive
@@ -206,6 +274,20 @@
 		<POI MapID="95" xpos="-325.978" ypos="77.524" zpos="402.767" type="rsp.gbl.off.flame_rams" GUID="Ux9P0Ye3u0iO5rZwIgmaTA=="/>
 		<POI MapID="95" xpos="-323.499" ypos="77.4493" zpos="398.631" type="rsp.gbl.off.flame_rams" GUID="0w5px0lS6U62c3uglJMLdg=="/>
 
+		<!-- West Keep (Bay) -->
+		<POI MapID="95" xpos="-394.167" ypos="12.2163" zpos="-29.1532" type="rsp.gbl.off.flame_rams" GUID="IbM1r1AFtEeTDWvXnZf4cQ=="/>
+		<POI MapID="95" xpos="-400.761" ypos="12.3197" zpos="-23.3695" type="rsp.gbl.off.flame_rams" GUID="Af5hVPzA9kiUL+T4H60Ubg=="/>
+		<POI MapID="95" xpos="-590.662" ypos="6.99298" zpos="46.3632" type="rsp.gbl.off.flame_rams" GUID="Y6Fp508bvUm/XlxK/4yZYQ=="/>
+		<POI MapID="95" xpos="-602.189" ypos="7.91795" zpos="39.0098" type="rsp.gbl.off.flame_rams" GUID="Rv/E20JhJUm9taS8MXLeVw=="/>
+		<POI MapID="95" xpos="-634.009" ypos="5.65059" zpos="-101.164" type="rsp.gbl.off.flame_rams" GUID="afqa519uS0i25jHIIXTj8Q=="/>
+		<POI MapID="95" xpos="-637.131" ypos="5.65438" zpos="-104.889" type="rsp.gbl.off.flame_rams" GUID="F8S7GwdXJECDuXDNShelBA=="/>
+		<POI MapID="95" xpos="-575.505" ypos="4.4487" zpos="-173.224" type="rsp.gbl.off.flame_rams" GUID="FEWGx3sSkEChA6Y2fp4BYg=="/>
+		<POI MapID="95" xpos="-575.52" ypos="4.35902" zpos="-178.055" type="rsp.gbl.off.flame_rams" GUID="euBnDXjPkUmnHyaZbwiuMw=="/>
+		<POI MapID="95" xpos="-622.7" ypos="5.60991" zpos="-255.023" type="rsp.gbl.off.flame_rams" GUID="7pop8pB500i4fbuWzGoHnA=="/>
+		<POI MapID="95" xpos="-627.632" ypos="5.66102" zpos="-254.982" type="rsp.gbl.off.flame_rams" GUID="6gM4Uekae0+bHn9Hq75hJQ=="/>
+		<POI MapID="95" xpos="-480.246" ypos="26.1696" zpos="-295.367" type="rsp.gbl.off.flame_rams" GUID="udDEL4Z7e0m+TdwJYYSKSw=="/>
+		<POI MapID="95" xpos="-492.22" ypos="25.6732" zpos="-302.388" type="rsp.gbl.off.flame_rams" GUID="FPmvaT+fskO6TNuo3lxsEg=="/>
+
 		<!--
 			Flame Rams: Defensive
 		-->
@@ -240,7 +322,10 @@
             Trebuchets: Defensive
         -->
         
-		<!-- None, yet -->
+		<!-- West Keep (Hills) -->
+		<POI MapID="95" xpos="-602.388" ypos="15.6166" zpos="-210.032" heightoffset="0.25" rotate-x="180" rotate-z="40" type="rsp.gbl.off.trebuchets" GUID="BD6Rwh4P6EGtvNec+5vBIQ=="/>
+		<POI MapID="95" xpos="-602.388" ypos="15.6166" zpos="-210.032" info="Aim towards the outer wall to either drain supplies from enemies or hit their catapults they are using to attack." triggerrange="10" type="rsp.settings.info" GUID="BD6Rwh4P6EGtvNec+5vBIA=="/>
+		<POI MapID="95" xpos="-602.388" ypos="15.6166" zpos="-210.032" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="BD6Rwh4P6EGtvNec+5vBIB=="/>
 
 	</POIs>
 </OverlayData>

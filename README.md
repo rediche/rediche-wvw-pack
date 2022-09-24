@@ -63,7 +63,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
     - [x] North Camp
     - [x] South Camp
     - [x] East Keep
-    - [ ] West Keep (Missing all siege)
+    - [x] West Keep
     - [ ] Southeast Tower (Missing catapult & trebuchet spots)
     - [ ] Southwest Tower (Missing all siege)
     - [x] Southeast Camp
