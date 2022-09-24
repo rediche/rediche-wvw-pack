@@ -12,7 +12,7 @@
 			Arrow Carts: Defensive
 		-->
 
-		<!-- Crankshaft Depot -->
+		<!-- Southeast Tower -->
 		<POI MapID="1099" xpos="286.5" ypos="99.1553" zpos="-551.558" type="rsp.rbl.def.arrow_carts" GUID="LvSyVLxqeU6abGu0GAPd+w=="/>
 		<POI MapID="1099" xpos="295.211" ypos="99.0126" zpos="-548.218" type="rsp.rbl.def.arrow_carts" GUID="41D4u+pKok2MuOPpa3SAvg=="/>
 		<POI MapID="1099" xpos="249.941" ypos="99.0899" zpos="-566.853" type="rsp.rbl.def.arrow_carts" GUID="WjrwM2h870qw+NRkyiRHEQ=="/>
@@ -22,7 +22,7 @@
 		<POI MapID="1099" xpos="395.568" ypos="129.368" zpos="-617.922" type="rsp.rbl.def.arrow_carts" GUID="M3EDTAGg806/c6GLqY0Heg=="/>
 		<POI MapID="1099" xpos="394.825" ypos="127.766" zpos="-673.842" type="rsp.rbl.def.arrow_carts" GUID="V0oYOSpN20SKih3BUEa2zQ=="/>
 
-		<!-- Eternal Necropolis -->
+		<!-- Northeast Tower -->
 		<POI MapID="1099" xpos="552.819" ypos="87.7419" zpos="502.166" type="rsp.rbl.def.arrow_carts" GUID="vh1vtTTtiE2g5qWylfrSYw=="/>
 		<POI MapID="1099" xpos="569.844" ypos="78.3671" zpos="454.342" type="rsp.rbl.def.arrow_carts" GUID="6eRB4sNjIE+4tWw14YnJKw=="/>
 		<POI MapID="1099" xpos="597.69" ypos="75.1283" zpos="456.831" type="rsp.rbl.def.arrow_carts" GUID="FyaKYtS5hkq/J9e5Vv0jVA=="/>
@@ -31,7 +31,7 @@
 		<POI MapID="1099" xpos="579.847" ypos="105.416" zpos="604.909" type="rsp.rbl.def.arrow_carts" GUID="8kdQKjxhk0Ckg5qbVGJ6bg=="/>
 		<POI MapID="1099" xpos="531.416" ypos="97.8489" zpos="565.329" type="rsp.rbl.def.arrow_carts" GUID="kjRj8Fpwx0Wr/AYF7oCRiA=="/>
 
-		<!-- O'del Academy -->
+		<!-- Northwest Tower -->
 		<POI MapID="1099" xpos="-487.823" ypos="55.3515" zpos="483.249" type="rsp.rbl.def.arrow_carts" GUID="x+d50WsD/EaByLz+miUw8A=="/>
 		<POI MapID="1099" xpos="-535.391" ypos="54.0854" zpos="488.153" type="rsp.rbl.def.arrow_carts" GUID="vyHEcGHCFkWVFo+T5K2a8g=="/>
 		<POI MapID="1099" xpos="-588.594" ypos="55.6158" zpos="480.67" type="rsp.rbl.def.arrow_carts" GUID="S0oV9KPjSEacahQSOXC0aA=="/>
@@ -41,7 +41,7 @@
 		<POI MapID="1099" xpos="-465.801" ypos="61.5728" zpos="683.862" type="rsp.rbl.def.arrow_carts" GUID="OEzM7MPnek6u9/9S9sF7jg=="/>
 		<POI MapID="1099" xpos="-495.253" ypos="58.7512" zpos="506.903" type="rsp.rbl.def.arrow_carts" GUID="FBsuZRoYnEGhT18F8Vf4gQ=="/>
 
-		<!-- Stoic Rampart -->
+		<!-- Garrison -->
 		<POI MapID="1099" xpos="-87.3443" ypos="94.4158" zpos="267.746" type="rsp.rbl.def.arrow_carts" GUID="yk5OV9ECeU6BMJ6EPzNQxA=="/>
 		<POI MapID="1099" xpos="-102.056" ypos="104.375" zpos="280.774" type="rsp.rbl.def.arrow_carts" GUID="OH56+0fcJECcyt0biLbVUQ=="/>
 		<POI MapID="1099" xpos="-78.8313" ypos="104.675" zpos="311.306" type="rsp.rbl.def.arrow_carts" GUID="rTD5rpXcP0a7zrLVYhkkHQ=="/>
@@ -73,21 +73,21 @@
 			Ballistas: Defensive
 		-->
 
-		<!-- Stoic Rampart -->
+		<!-- Garrison -->
 		<POI MapID="1099" xpos="131.03" ypos="88.0648" zpos="360.746" type="rsp.rbl.def.ballistas" GUID="sH3y98ymV0y7+wPu1ltJmg=="/>
 
 		<!--
 			Catapults: Offensive
 		-->
 
-		<!-- Crankshaft Depot -->
+		<!-- Southeast Tower -->
 		<POI MapID="1099" xpos="458.569" ypos="110.724" zpos="-639.417" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.rbl.off.catapults" GUID="i/N707vYa0qXDY5k18tJXQ==" />
 		<POI MapID="1099" xpos="458.569" ypos="110.724" zpos="-639.417" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="i/N707vYa0qXDY5k18tJXA==" />
 
 		<POI MapID="1099" xpos="261.229" ypos="85.9664" zpos="-544.457" heightoffset="0.25" rotate-x="180" rotate-z="20" type="rsp.rbl.off.catapults" GUID="n8KG0mu9C0WyyOhsu9orTA=="/>
 		<POI MapID="1099" xpos="261.229" ypos="85.9664" zpos="-544.457" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="n8KG0mu9C0WyyOhsu9orTg=="/>
 
-		<!-- Eternal Necropolis -->
+		<!-- Northeast Tower -->
 		<POI MapID="1099" xpos="617.816" ypos="54.4609" zpos="441.676" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rsp.rbl.off.catapults" GUID="Gyzlm0Dz40KVV10vRAdfuw=="/>
 		<POI MapID="1099" xpos="617.816" ypos="54.4609" zpos="441.676" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="Gyzlm0Dz40KVV10vRAdfuA=="/>
 
@@ -106,7 +106,7 @@
 		<POI MapID="1099" xpos="611.076" ypos="84.6755" zpos="637.864" heightoffset="0.25" rotate-x="180" rotate-z="30" type="rsp.rbl.off.catapults" GUID="qHWihczOpUe6pLK10Otf3w=="/>
 		<POI MapID="1099" xpos="611.076" ypos="84.6755" zpos="637.864" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="qHWihczOpUe6pLK10Otf3A=="/>
 
-		<!-- O'del Academy -->
+		<!-- Northwest Tower -->
 		<POI MapID="1099" xpos="-470.907" ypos="40.6209" zpos="500.447" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.rbl.off.catapults" GUID="Gv4fNMu5H0WaKhrmsuusow=="/>
 		<POI MapID="1099" xpos="-470.907" ypos="40.6209" zpos="500.447" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="Gv4fNMu5H0WaKhrmsuusoA=="/>
 
@@ -122,7 +122,7 @@
 		<POI MapID="1099" xpos="-414.485" ypos="54.524" zpos="742.316" heightoffset="0.25" rotate-x="180" rotate-z="-50" type="rsp.rbl.off.catapults" GUID="kJgZnRS7vU6ikqshAjd7zQ=="/>
 		<POI MapID="1099" xpos="-414.485" ypos="54.524" zpos="742.316" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="kJgZnRS7vU6ikqshAjd7zQ=="/>
 
-		<!-- Stoic Rampart -->
+		<!-- Garrison -->
 		<POI MapID="1099" xpos="-184.999" ypos="52.7202" zpos="364.163" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.rbl.off.catapults" GUID="dZqvF+xeREuCwcXnW2DxWA=="/>
 		<POI MapID="1099" xpos="-184.999" ypos="52.7202" zpos="364.163" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="dZqvF+xeREuCwcXnW2DxWA=="/>
 
@@ -151,19 +151,19 @@
 			Flame Rams: Offensive
 		-->
 
-		<!-- Crankshaft Depot -->
+		<!-- Southeast Tower -->
 		<POI MapID="1099" xpos="336.087" ypos="109.954" zpos="-725.557" type="rsp.rbl.off.flame_rams" GUID="4fTn4rLf2kC2mtuN7SszOQ=="/>
 		<POI MapID="1099" xpos="347.842" ypos="109.87" zpos="-721.971" type="rsp.rbl.off.flame_rams" GUID="ULCNMMGbMECMt8sj6gy07A=="/>
 
-		<!-- Eternal Necropolis -->
+		<!-- Northeast Tower -->
 		<POI MapID="1099" xpos="576.83" ypos="63.9713" zpos="444.533" type="rsp.rbl.off.flame_rams" GUID="2l9a4jqaDEac8KL6yqHljg=="/>
 		<POI MapID="1099" xpos="587.833" ypos="62.552" zpos="444.833" type="rsp.rbl.off.flame_rams" GUID="vy4tj0YHXE+27bNp/ItvfA=="/>
 
-		<!-- O'del Academy -->
+		<!-- Northwest Tower -->
 		<POI MapID="1099" xpos="-565.992" ypos="41.8925" zpos="482.606" type="rsp.rbl.off.flame_rams" GUID="71e9LWGk3Uyl+7BDAnjgSA=="/>
 		<POI MapID="1099" xpos="-553.288" ypos="42.0897" zpos="482.612" type="rsp.rbl.off.flame_rams" GUID="7YreSMxUNE+ObXH5mNshDQ=="/>
 
-		<!-- Stoic Rampart -->
+		<!-- Garrison -->
 		<POI MapID="1099" xpos="-88.8575" ypos="70.2304" zpos="304.728" type="rsp.rbl.off.flame_rams" GUID="IY3LctHuDkCcGjlCXXuQXw=="/>
 		<POI MapID="1099" xpos="-97.9954" ypos="70.2304" zpos="292.068" type="rsp.rbl.off.flame_rams" GUID="VSOBP/KGUUaJB6XLV8bNCQ=="/>
 		<POI MapID="1099" xpos="-201.727" ypos="55.1039" zpos="281.389" type="rsp.rbl.off.flame_rams" GUID="4EtCYpww9UiKF6tsE2Hzdg=="/>
