@@ -79,8 +79,15 @@
 		</MarkerCategory>
 
 		<MarkerCategory DisplayName="Created by Rediche.6821" name="created_by" isSeparator="1" />
+
 		<MarkerCategory DisplayName="Contributors:" name="credits" bh-isSeparator="1">
 			<MarkerCategory DisplayName="Rediche.6821" name="credit_rediche" isSeparator="1" />
+		</MarkerCategory>
+
+		<MarkerCategory DisplayName="Links:" name="links" bh-isSeparator="1">
+			<MarkerCategory DisplayName="Discord: https://gw2.link/discord" name="link_discord" isSeparator="1" />
+			<MarkerCategory DisplayName="GitHub: https://gw2.link/rsp" name="link_github" isSeparator="1" />
+			<MarkerCategory DisplayName="Twitter: https://twitter.com/RedicheGG" name="link_twitter" isSeparator="1" />
 		</MarkerCategory>
 
 	</MarkerCategory>
