@@ -12,6 +12,32 @@
 			Arrow Carts: Defensive
 		-->
 
+		<!-- East Keep (Hills) -->
+		<POI MapID="95" xpos="494.222" ypos="82.6211" zpos="-67.5343" type="rsp.gbl.def.arrow_carts" GUID="1AOlgh5N10+8BYMM0GOm+g=="/>
+		<POI MapID="95" xpos="490.495" ypos="82.6235" zpos="-94.6624" type="rsp.gbl.def.arrow_carts" GUID="MPyNYWKTgUyvsZd7Z3Eviw=="/>
+		<POI MapID="95" xpos="513.505" ypos="82.2477" zpos="-52.102" type="rsp.gbl.def.arrow_carts" GUID="gJNvNuUYW02rsy2SEnn8RA=="/>
+		<POI MapID="95" xpos="526.648" ypos="82.4706" zpos="-36.4737" type="rsp.gbl.def.arrow_carts" GUID="uazYxzCX1E+NfX6nga8i6w=="/>
+		<POI MapID="95" xpos="541.771" ypos="82.5444" zpos="-37.5741" type="rsp.gbl.def.arrow_carts" GUID="oOusK9lNq0a8szi3oclZKQ=="/>
+		<POI MapID="95" xpos="678.121" ypos="101.204" zpos="-51.6179" type="rsp.gbl.def.arrow_carts" GUID="lTPwNfMh6UKyQXKmG6XQyQ=="/>
+		<POI MapID="95" xpos="714.017" ypos="101.292" zpos="-51.7409" type="rsp.gbl.def.arrow_carts" GUID="t6HX8XrT10W5C48Wf7WqFA=="/>
+		<POI MapID="95" xpos="708.717" ypos="101.784" zpos="-61.2858" type="rsp.gbl.def.arrow_carts" GUID="IPOEbRMLHUi1dT5pPBgKKw=="/>
+		<POI MapID="95" xpos="576.02" ypos="92.1796" zpos="-152.127" type="rsp.gbl.def.arrow_carts" GUID="Aw0D+5zpIU+UMIC2nPdl3w=="/>
+		<POI MapID="95" xpos="605.891" ypos="91.5309" zpos="-155.974" type="rsp.gbl.def.arrow_carts" GUID="RP1iSV9FmEqCzlS0N9rJHw=="/>
+		<POI MapID="95" xpos="573.494" ypos="92.2934" zpos="-138.263" type="rsp.gbl.def.arrow_carts" GUID="krs18Kbtm0WQ/6YCcE3Czw=="/>
+		<POI MapID="95" xpos="573.189" ypos="91.9917" zpos="-111.377" type="rsp.gbl.def.arrow_carts" GUID="0h3ZpOh7UEaEg9shH/vCJQ=="/>
+		<POI MapID="95" xpos="573.174" ypos="92.08" zpos="-104.18" type="rsp.gbl.def.arrow_carts" GUID="vHfSHgVPE0++A2+6C5KOSA=="/>
+		<POI MapID="95" xpos="607.397" ypos="91.5309" zpos="-102.738" type="rsp.gbl.def.arrow_carts" GUID="FMCP6ZQcXkK0K5GL6aZjMA=="/>
+		<POI MapID="95" xpos="506.243" ypos="90.2359" zpos="-95.2155" type="rsp.gbl.def.arrow_carts" GUID="mdaGkfvB2kugvsf4dPaCWw=="/>
+		<POI MapID="95" xpos="510.002" ypos="90.3494" zpos="-140.998" type="rsp.gbl.def.arrow_carts" GUID="riV5S3J7LUKPIIhTlmcnig=="/>
+		<POI MapID="95" xpos="513.585" ypos="93.5926" zpos="-166.827" type="rsp.gbl.def.arrow_carts" GUID="Jqut+DW02ESCihgoZjP+ow=="/>
+		<POI MapID="95" xpos="514.196" ypos="93.7581" zpos="-183.277" type="rsp.gbl.def.arrow_carts" GUID="2VcUPeZTh0mZWxsFFyeSlQ=="/>
+		<POI MapID="95" xpos="513.207" ypos="96.6023" zpos="-221.763" type="rsp.gbl.def.arrow_carts" GUID="4zQQdt2+pkCXw83iYBVkaA=="/>
+		<POI MapID="95" xpos="511.585" ypos="100.215" zpos="-246.861" type="rsp.gbl.def.arrow_carts" GUID="bplVk/i8sUCFKzhLvW9esQ=="/>
+		<POI MapID="95" xpos="513.315" ypos="104.103" zpos="-268.962" type="rsp.gbl.def.arrow_carts" GUID="6c2Feqh9lECR5OFbgHY8OQ=="/>
+		<POI MapID="95" xpos="526.704" ypos="86.5987" zpos="-265.646" type="rsp.gbl.def.arrow_carts" GUID="a1nZOa2lVkmMIfT5szeIQA=="/>
+		<POI MapID="95" xpos="534.762" ypos="64.4181" zpos="-263.774" type="rsp.gbl.def.arrow_carts" GUID="XJeszgVuxEWb19m+bRyZ2Q=="/>
+		<POI MapID="95" xpos="569.166" ypos="69.1014" zpos="-273.891" type="rsp.gbl.def.arrow_carts" GUID="thcPp00xREKOMsb5fqQetQ=="/>
+
 		<!-- Garrison -->
 		<POI MapID="95" xpos="-84.0655" ypos="81.4198" zpos="297.141" type="rsp.gbl.def.arrow_carts" GUID="+/axf57EREmwcfizsFF1oQ=="/>
 		<POI MapID="95" xpos="-112.142" ypos="83.5566" zpos="247.245" type="rsp.gbl.def.arrow_carts" GUID="CCe1/U2UvkqiRHD0rGrNvA=="/>
@@ -134,11 +160,25 @@
 			Catapults: Defensive
 		-->
 
-		<!-- None, yet -->
+		<!-- East Keep (Hills) -->
+
+		<POI MapID="95" xpos="593.426" ypos="85.5938" zpos="-128.933" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.gbl.off.catapults" GUID="punuAI/uj0me9/lvIdPfDw=="/>
+		<POI MapID="95" xpos="593.426" ypos="85.5938" zpos="-128.933" info="Don't charge your shot as you want to hit the gate from the inside." triggerrange="10" type="rsp.settings.info" GUID="punuAI/uj0me9/lvIdPfDA="/>
+		<POI MapID="95" xpos="593.426" ypos="85.5938" zpos="-128.933" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="punuAI/uj0me9/lvIdPfDB=="/>
 
 		<!--
 			Flame Rams: Offensive
 		-->
+
+		<!-- East Keep (Hills) -->
+		<POI MapID="95" xpos="502.963" ypos="69.549" zpos="-36.2299" type="rsp.gbl.off.flame_rams" GUID="9qC3mfeOL0qgAyanYKJvUg=="/>
+		<POI MapID="95" xpos="497.328" ypos="69.6607" zpos="-42.3676" type="rsp.gbl.off.flame_rams" GUID="r55xNfrhgk2wOEaCu0Wbyw=="/>
+		<POI MapID="95" xpos="703.102" ypos="88.7694" zpos="-37.956" type="rsp.gbl.off.flame_rams" GUID="SbolYwAteEKmsEe63Affjg=="/>
+		<POI MapID="95" xpos="698.337" ypos="88.8035" zpos="-38.1745" type="rsp.gbl.off.flame_rams" GUID="hvZ5Lf4pJkKI5dnE62tTfw=="/>
+		<POI MapID="95" xpos="563.373" ypos="79.5803" zpos="-126.49" type="rsp.gbl.off.flame_rams" GUID="2OMaH8r4qkWfakJbGeeskQ=="/>
+		<POI MapID="95" xpos="563.456" ypos="79.6565" zpos="-131.325" type="rsp.gbl.off.flame_rams" GUID="z5ABVJJDJk6cmch/mIXG6g=="/>
+		<POI MapID="95" xpos="544.556" ypos="47.4488" zpos="-278.059" type="rsp.gbl.off.flame_rams" GUID="5URFlb+6vEaOfut7hkj2SQ=="/>
+		<POI MapID="95" xpos="563.095" ypos="47.6383" zpos="-280.19" type="rsp.gbl.off.flame_rams" GUID="EiW/n25DdUqWMFJkYsfQSQ=="/>
 
 		<!-- Garrison -->
 		<POI MapID="95" xpos="29.8514" ypos="30.7764" zpos="53.2435" type="rsp.gbl.off.flame_rams" GUID="sYjzE8JJ+UeUXuHU1zLPNQ=="/>
