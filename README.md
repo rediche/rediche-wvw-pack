@@ -12,9 +12,9 @@ We do not recommend using this pack with TacO because the marker pack heavily re
 
 ## Pack completion for v1
 
-- [] Eternal Battlegrounds
+- [ ] Eternal Battlegrounds
     - [x] Stonemist Castle
-    - [] Greens
+    - [ ] Greens
         - [x] Aldon's Ledge
         - [x] Golanta's Clearing
         - [x] Jerrifer's Slough
@@ -22,16 +22,16 @@ We do not recommend using this pack with TacO because the marker pack heavily re
         - [x] Lowlands Keep
         - [x] Rouge's Quarry
         - [x] Wildcreek Run
-    - [] Reds
-        - [] Anzalias Pass (Missing all siege)
-        - [] Mendon's Gap (Missing all siege)
-        - [] Ogrewatch Cut (A few markers showing incorrectly)
+    - [ ] Reds
+        - [ ] Anzalias Pass (Missing all siege)
+        - [ ] Mendon's Gap (Missing all siege)
+        - [ ] Ogrewatch Cut (A few markers showing incorrectly)
         - [x] Overlook Keep
         - [x] Pangloss Rise
         - [x] Speldans Clearcut
         - [x] Veloka Slope
-    - [] Blues
-        - [] Bravost Encampment (Missing offensive trebuchets)
+    - [ ] Blues
+        - [ ] Bravost Encampment (Missing offensive trebuchets)
         - [x] Danelon Passage
         - [x] Durios Gulch
         - [x] Langor Gulch
@@ -39,7 +39,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
         - [x] Umberglade Woods
         - [x] Valley Keep
 
-- [] Red Borderlands
+- [ ] Red Borderlands
     - [x] Garrison
     - [x] Northeast Tower
     - [x] Northwest Tower
@@ -47,40 +47,40 @@ We do not recommend using this pack with TacO because the marker pack heavily re
     - [x] Northwest Camp
     - [x] North Camp
     - [x] South Camp
-    - [] East Keep (Missing all siege)
-    - [] West Keep (Missing all siege)
+    - [ ] East Keep (Missing all siege)
+    - [ ] West Keep (Missing all siege)
     - [x] Southeast Tower
-    - [] Southwest Tower (Missing all siege)
+    - [ ] Southwest Tower (Missing all siege)
     - [x] Southeast Camp
     - [x] Southwest Camp
 
-- [] Green Borderlands
+- [ ] Green Borderlands
     - [x] Garrison
-    - [] Northeast Tower (Some markers are incorrect. Missing trebuchet)
+    - [ ] Northeast Tower (Some markers are incorrect. Missing trebuchet)
     - [x] Northwest Tower
     - [x] Northeast Camp
     - [x] Northwest Camp
     - [x] North Camp
     - [x] South Camp
-    - [] East Keep (Missing all siege)
-    - [] West Keep (Missing all siege)
-    - [] Southeast Tower (Missing catapult & trebuchet spots)
-    - [] Southwest Tower (Missing all siege)
+    - [ ] East Keep (Missing all siege)
+    - [ ] West Keep (Missing all siege)
+    - [ ] Southeast Tower (Missing catapult & trebuchet spots)
+    - [ ] Southwest Tower (Missing all siege)
     - [x] Southeast Camp
     - [x] Southwest Camp
 
-- [] Blue Borderlands (Can we mirror green bl markers?)
-    - [] Garrison
-    - [] Northeast Tower
-    - [] Northwest Tower
+- [ ] Blue Borderlands (Can we mirror green bl markers?)
+    - [ ] Garrison
+    - [ ] Northeast Tower
+    - [ ] Northwest Tower
     - [x] Northeast Camp
     - [x] Northwest Camp
     - [x] North Camp
     - [x] South Camp
-    - [] East Keep
-    - [] West Keep
-    - [] Southeast Tower
-    - [] Southwest Tower
+    - [ ] East Keep
+    - [ ] West Keep
+    - [ ] Southeast Tower
+    - [ ] Southwest Tower
     - [x] Southeast Camp
     - [x] Southwest Camp
 
