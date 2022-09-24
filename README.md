@@ -56,7 +56,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
 
 - [ ] Green Borderlands
     - [x] Garrison
-    - [ ] Northeast Tower (Some markers are incorrect. Missing trebuchet)
+    - [x] Northeast Tower
     - [x] Northwest Tower
     - [x] Northeast Camp
     - [x] Northwest Camp
