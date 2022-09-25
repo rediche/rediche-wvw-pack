@@ -16,6 +16,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
     - [ ] Stonemist Castle
         - [ ] Offensive cata from Durios
         - [ ] Offensive treb from Ogrewatch
+        - [ ] Offensive treb from Wildcreek
     - [ ] Greens
         - [x] Aldon's Ledge
         - [x] Golanta's Clearing
