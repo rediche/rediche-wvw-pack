@@ -15,7 +15,6 @@ We do not recommend using this pack with TacO because the marker pack heavily re
 - [ ] Eternal Battlegrounds
     - [ ] Stonemist Castle
         - [ ] Catapults need directional markers
-        - [ ] Defensive ACs on inner wall
     - [ ] Greens
         - [x] Aldon's Ledge
         - [x] Golanta's Clearing
