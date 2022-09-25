@@ -54,7 +54,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
     - [x] Southeast Camp
     - [x] Southwest Camp
 
-- [ ] Green Borderlands
+- [x] Green Borderlands
     - [x] Garrison
     - [x] Northeast Tower
     - [x] Northwest Tower
@@ -64,7 +64,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
     - [x] South Camp
     - [x] East Keep
     - [x] West Keep
-    - [ ] Southeast Tower (Missing catapult & trebuchet spots)
+    - [x] Southeast Tower
     - [x] Southwest Tower
     - [x] Southeast Camp
     - [x] Southwest Camp

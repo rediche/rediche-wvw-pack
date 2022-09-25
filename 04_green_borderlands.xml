@@ -199,6 +199,18 @@
 		<POI MapID="95" xpos="-419.006" ypos="100.053" zpos="507.781" heightoffset="0.25" rotate-x="180" rotate-z="25" type="rsp.gbl.off.catapults" GUID="sawMIOykck+On64Jd23Dng=="/>
 		<POI MapID="95" xpos="-419.006" ypos="100.053" zpos="507.781" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="sawMIOykck+On64Jd23DnA=="/>
 
+		<!-- Southeast Tower -->
+		<POI MapID="95" xpos="237.288" ypos="13.7652" zpos="-430.263" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.gbl.off.catapults" GUID="MuEDryXwh0uX50H+8YO/XQ=="/>
+		<POI MapID="95" xpos="237.288" ypos="13.7652" zpos="-430.263" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="MuEDryXwh0uX50H+8YO/XA=="/>
+
+		<POI MapID="95" xpos="158.398" ypos="22.69" zpos="-367.987" heightoffset="0.25" rotate-x="180" rotate-z="55" type="rsp.gbl.off.catapults" GUID="iE6N7b2yoEWH8+gh8nicJQ=="/>
+		<POI MapID="95" xpos="158.398" ypos="22.69" zpos="-367.987" type="rsp.settings.info" info="Aim towards the tower to the east." triggerrange="10" GUID="iE6N7b2yoEWH8+gh8nicJA=="/>
+		<POI MapID="95" xpos="158.398" ypos="22.69" zpos="-367.987" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="iE6N7b2yoEWH8+gh8nicJB=="/>
+
+		<POI MapID="95" xpos="189.484" ypos="22.937" zpos="-337.464" heightoffset="0.25" rotate-x="180" rotate-z="35" type="rsp.gbl.off.catapults" GUID="CO/4Qm9fhEqiQD9FtFFDrg=="/>
+		<POI MapID="95" xpos="189.484" ypos="22.937" zpos="-337.464" type="rsp.settings.info" info="Aim towards the tower to the south." triggerrange="10" GUID="CO/4Qm9fhEqiQD9FtFFDrA=="/>
+		<POI MapID="95" xpos="189.484" ypos="22.937" zpos="-337.464" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="CO/4Qm9fhEqiQD9FtFFDrB=="/>
+
 		<!-- Southwest Tower -->
 		<POI MapID="95" xpos="-217.219" ypos="23.6716" zpos="-404.987" heightoffset="0.25" rotate-x="180" rotate-z="25" type="rsp.gbl.off.catapults" GUID="mWrXmit2rkSQn/cjBETMhA=="/>
 		<POI MapID="95" xpos="-217.219" ypos="23.6716" zpos="-404.987" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="mWrXmit2rkSQn/cjBETMhB=="/>
@@ -340,6 +352,11 @@
 		<POI MapID="95" xpos="-458.042" ypos="109.13" zpos="556.046" heightoffset="0.25" rotate-x="180" rotate-z="30" type="rsp.gbl.off.trebuchets" GUID="uqMkFRnhqE+CNm1K+3CgPw=="/>
 		<POI MapID="95" xpos="-458.042" ypos="109.13" zpos="556.046" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="uqMkFRnhqE+CNm1K+3CgPA=="/>
 		
+		<!-- Southeast Tower -->
+		<POI MapID="95" xpos="509.719" ypos="103.293" zpos="-279.148" heightoffset="0.25" rotate-x="180" rotate-z="-55" type="rsp.gbl.off.trebuchets" GUID="Doyud5ft70+hQTn8ex9FeA=="/>
+		<POI MapID="95" xpos="509.719" ypos="103.293" zpos="-279.148" type="rsp.settings.info" info="Aim towards southeast tower.&#xA;&#xA;Charge shot fully." triggerrange="10" GUID="Doyud5ft70+hQTn8ex9FeB=="/>
+		<POI MapID="95" xpos="509.719" ypos="103.293" zpos="-279.148" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="Doyud5ft70+hQTn8ex9FeC=="/>
+
 		<!-- Southwest Tower -->
 		<POI MapID="95" xpos="-275.775" ypos="46.9219" zpos="-408.891" heightoffset="0.25" rotate-x="180" rotate-z="-147" type="rsp.gbl.off.trebuchets" GUID="aO9Z92koUkqW4j0OheXMqQ=="/>
 		<POI MapID="95" xpos="-275.775" ypos="46.9219" zpos="-408.891" type="rsp.settings.info" info="Aim towards the outer wall of the keep to the west." triggerrange="10" GUID="aO9Z92koUkqW4j0OheXMqA=="/>
