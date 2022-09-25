@@ -287,16 +287,41 @@
 		<POI MapID="38" xpos="252.177" ypos="9.6853" zpos="-399.475" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="QC5nT9g4h0Gg8uQOgmDgdA==" />
 
 		<!-- Stonemist Castle -->
-		<POI MapID="38" xpos="279.516" ypos="33.0747" zpos="-201.229" type="rsp.ebg.off.catapults" GUID="Q//OAmJbbEW1MO5muX/U8Q==" />
-		<POI MapID="38" xpos="226.619" ypos="30.0317" zpos="-299.462" type="rsp.ebg.off.catapults" GUID="XZ8diqgGf0qanLZZEFJ1HA==" />
-		<POI MapID="38" xpos="140.433" ypos="32.1268" zpos="-326.62" type="rsp.ebg.off.catapults" GUID="R0HjrsZrM0qj3AYs6L1AvQ==" />
-		<POI MapID="38" xpos="70.6327" ypos="21.2458" zpos="-378.285" type="rsp.ebg.off.catapults" GUID="esU2Y9XxJkqMmgGRRFBaWg==" />
-		<POI MapID="38" xpos="-92.6255" ypos="34.3015" zpos="-284.158" type="rsp.ebg.off.catapults" GUID="e219c9ta30CXad3u5H8cjQ==" />
-		<POI MapID="38" xpos="-133.068" ypos="34.6746" zpos="-182.579" type="rsp.ebg.off.catapults" GUID="1lTzfTHM2EyKGRXuABtDDg==" />
-		<POI MapID="38" xpos="-54.0291" ypos="28.8058" zpos="17.7753" type="rsp.ebg.off.catapults" GUID="qJ1s+VtveUe88nuOBbIoig==" />
-		<POI MapID="38" xpos="10.0477" ypos="43.2199" zpos="146.76" type="rsp.ebg.off.catapults" GUID="n0dktI1upUmYqD0PNGi+fw==" />
-		<POI MapID="38" xpos="210.71" ypos="35.8558" zpos="116.79" type="rsp.ebg.off.catapults" GUID="AkAGeH+RzEi430mZJxPR6A==" />
-		<POI MapID="38" xpos="190.357" ypos="39.098" zpos="26.3734" type="rsp.ebg.off.catapults" GUID="GXtvkq4hSEeTnPO9waYjgw==" />
+		<POI MapID="38" xpos="279.516" ypos="33.0747" zpos="-201.229" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.ebg.off.catapults" type="rsp.ebg.off.catapults" GUID="Q//OAmJbbEW1MO5muX/U8Q==" />
+		<POI MapID="38" xpos="279.516" ypos="33.0747" zpos="-201.229" info="Aim into the corner to hit both walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="Q//OAmJbbEW1MO5muX/U8A==" />
+		<POI MapID="38" xpos="279.516" ypos="33.0747" zpos="-201.229" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" type="rsp.ebg.off.catapults" GUID="Q//OAmJbbEW1MO5muX/U8B==" />
+
+		<POI MapID="38" xpos="226.619" ypos="30.0317" zpos="-299.462" heightoffset="0.25" rotate-x="180" rotate-z="-120" type="rsp.ebg.off.catapults" GUID="XZ8diqgGf0qanLZZEFJ1HA==" />
+		<POI MapID="38" xpos="226.619" ypos="30.0317" zpos="-299.462" info="Aim into the corner to hit both walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="XZ8diqgGf0qanLZZEFJ1HB==" />
+		<POI MapID="38" xpos="226.619" ypos="30.0317" zpos="-299.462" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" type="rsp.ebg.off.catapults" GUID="XZ8diqgGf0qanLZZEFJ1HC==" />
+
+		<POI MapID="38" xpos="140.433" ypos="32.1268" zpos="-326.62" heightoffset="0.25" rotate-x="180" rotate-z="-150" type="rsp.ebg.off.catapults" GUID="R0HjrsZrM0qj3AYs6L1AvQ==" />
+		<POI MapID="38" xpos="140.433" ypos="32.1268" zpos="-326.62" info="Aim into the corner to hit both walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="R0HjrsZrM0qj3AYs6L1AvA==" />
+		<POI MapID="38" xpos="140.433" ypos="32.1268" zpos="-326.62" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="R0HjrsZrM0qj3AYs6L1AvB==" />
+
+		<POI MapID="38" xpos="70.6327" ypos="21.2458" zpos="-378.285" heightoffset="0.25" rotate-x="180" rotate-z="170" type="rsp.ebg.off.catapults" GUID="esU2Y9XxJkqMmgGRRFBaWg==" />
+		<POI MapID="38" xpos="70.6327" ypos="21.2458" zpos="-378.285" info="This is a very exposed catapult and generally not recommended. It is however useful in some situations and you will be hitting two walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="esU2Y9XxJkqMmgGRRFBaWA==" />
+		<POI MapID="38" xpos="70.6327" ypos="21.2458" zpos="-378.285" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="esU2Y9XxJkqMmgGRRFBaWB==" />
+		
+		<POI MapID="38" xpos="-92.6255" ypos="34.3015" zpos="-284.158" heightoffset="0.25" rotate-x="180" rotate-z="150" type="rsp.ebg.off.catapults" GUID="e219c9ta30CXad3u5H8cjQ==" />
+		<POI MapID="38" xpos="-92.6255" ypos="34.3015" zpos="-284.158" info="Place the catapult as close to the corner as you can as it will be more difficult to hit for defenders on the walls." triggerrange="10" type="rsp.settings.info" GUID="e219c9ta30CXad3u5H8cjA==" />
+		<POI MapID="38" xpos="-92.6255" ypos="34.3015" zpos="-284.158" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="e219c9ta30CXad3u5H8cjB==" />
+
+		<POI MapID="38" xpos="-133.068" ypos="34.6746" zpos="-182.579" heightoffset="0.25" rotate-x="180" rotate-z="110" type="rsp.ebg.off.catapults" GUID="1lTzfTHM2EyKGRXuABtDDg==" />
+		<POI MapID="38" xpos="-133.068" ypos="34.6746" zpos="-182.579" info="Place the catapult as close to the corner as you can as it will be more difficult to hit for defenders on the walls." triggerrange="10" type="rsp.settings.info" GUID="1lTzfTHM2EyKGRXuABtDDA==" />
+		<POI MapID="38" xpos="-133.068" ypos="34.6746" zpos="-182.579" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="1lTzfTHM2EyKGRXuABtDDB==" />
+
+		<POI MapID="38" xpos="-54.0291" ypos="28.8058" zpos="17.7753" heightoffset="0.25" rotate-x="180" rotate-z="45" type="rsp.ebg.off.catapults" GUID="qJ1s+VtveUe88nuOBbIoig==" />
+		<POI MapID="38" xpos="-54.0291" ypos="28.8058" zpos="17.7753" info="Aim into the pillar to hit both walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="qJ1s+VtveUe88nuOBbIoiA==" />
+		<POI MapID="38" xpos="-54.0291" ypos="28.8058" zpos="17.7753" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="qJ1s+VtveUe88nuOBbIoiB==" />
+
+		<POI MapID="38" xpos="210.71" ypos="35.8558" zpos="116.79" heightoffset="0.25" rotate-x="180" rotate-z="-15" type="rsp.ebg.off.catapults" GUID="AkAGeH+RzEi430mZJxPR6A==" />
+		<POI MapID="38" xpos="210.71" ypos="35.8558" zpos="116.79" info="Aim into the pillar on Stonemist to hit both walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="AkAGeH+RzEi430mZJxPR6B==" />
+		<POI MapID="38" xpos="210.71" ypos="35.8558" zpos="116.79" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="AkAGeH+RzEi430mZJxPR6C==" />
+
+		<POI MapID="38" xpos="190.357" ypos="39.098" zpos="26.3734" heightoffset="0.25" rotate-x="180" rotate-z="-45" type="rsp.ebg.off.catapults" GUID="GXtvkq4hSEeTnPO9waYjgw==" />
+		<POI MapID="38" xpos="190.357" ypos="39.098" zpos="26.3734" info="Aim into the pillar to hit both walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="GXtvkq4hSEeTnPO9waYjgA==" />
+		<POI MapID="38" xpos="190.357" ypos="39.098" zpos="26.3734" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="GXtvkq4hSEeTnPO9waYjgB==" />
 
 		<!-- Valley Keep -->
 		<POI MapID="38" xpos="583.638" ypos="32.4111" zpos="-596.2" heightoffset="0.25" rotate-x="180" rotate-z="140" type="rsp.ebg.off.catapults" GUID="tp8qsofy70m8BWXNjsF6IQ==" />
