@@ -73,7 +73,7 @@
 		<POI MapID="1099" xpos="42.1331" ypos="65.6802" zpos="148.644" type="rsp.rbl.def.arrow_carts" GUID="l+yy4xVANUW2s+Qf1L3Wyw=="/>
 		<POI MapID="1099" xpos="-17.3663" ypos="65.562" zpos="150.852" type="rsp.rbl.def.arrow_carts" GUID="kYsc78oBD0Go0OyX9kb4fA=="/>
 
-		<!-- West Keep -->
+		<!-- West Keep (Fire) -->
 		<POI MapID="1099" xpos="-706.98" ypos="25.4313" zpos="-210.607" type="rsp.rbl.def.arrow_carts" GUID="tSQ5w+pndk+EFf3Tk4omSQ=="/>
 		<POI MapID="1099" xpos="-681.447" ypos="25.0373" zpos="-211.13" type="rsp.rbl.def.arrow_carts" GUID="vdYnDMGjBEePmj0fz8gHuw=="/>
 		<POI MapID="1099" xpos="-634.495" ypos="25.3757" zpos="-211.113" type="rsp.rbl.def.arrow_carts" GUID="1pLA32L2FE6LJRuWdLmOsQ=="/>
@@ -101,7 +101,7 @@
 		<!-- Garrison -->
 		<POI MapID="1099" xpos="131.03" ypos="88.0648" zpos="360.746" type="rsp.rbl.def.ballistas" GUID="sH3y98ymV0y7+wPu1ltJmg=="/>
 
-		<!-- West Keep -->
+		<!-- West Keep (Fire) -->
 		<POI MapID="1099" xpos="-751.834" ypos="69.2805" zpos="-270.179" type="rsp.rbl.def.ballistas" GUID="1/pf7V32Mki0ijKe29vDYQ=="/>
 		<POI MapID="1099" xpos="-751.834" ypos="69.2805" zpos="-270.179" type="rsp.settings.info" info="This ballista is only needed if enemies are attacking with a catapult on the other side of the cliffs." triggerrange="10" GUID="1/pf7V32Mki0ijKe29vDYQ=="/>
 
@@ -183,7 +183,7 @@
 		<POI MapID="1099" xpos="-60.8095" ypos="74.1368" zpos="353.639" heightoffset="0.25" rotate-x="180" rotate-z="45" type="rsp.rbl.off.catapults" GUID="qZSzc9anp0KbYF09/c9Tqw=="/>
 		<POI MapID="1099" xpos="-60.8095" ypos="74.1368" zpos="353.639" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="qZSzc9anp0KbYF09/c9Tqw=="/>
 
-		<!-- West Keep -->
+		<!-- West Keep (Fire) -->
 		<POI MapID="1099" xpos="-613.151" ypos="77.3764" zpos="-318.902" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rsp.rbl.off.catapults" GUID="EUbprKpyGkuaAjSUVuXmKA=="/>
 		<POI MapID="1099" xpos="-613.151" ypos="77.3764" zpos="-318.902" info="Aim towards the wall of the keep." triggerrange="10" type="rsp.settings.info" GUID="EUbprKpyGkuaAjSUVuXmKB=="/>
 		<POI MapID="1099" xpos="-613.151" ypos="77.3764" zpos="-318.902" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="EUbprKpyGkuaAjSUVuXmKC=="/>
@@ -248,7 +248,7 @@
 		<POI MapID="1099" xpos="99.8153" ypos="70.5796" zpos="344.777" type="rsp.rbl.off.flame_rams" GUID="3uY6JpAU60maOPWfKLtY8A=="/>
 		<POI MapID="1099" xpos="108.787" ypos="70.517" zpos="334.302" type="rsp.rbl.off.flame_rams" GUID="JGzdXtiRZECaDpFgFxNKcQ=="/>
 
-		<!-- West Keep -->
+		<!-- West Keep (Fire) -->
 		<POI MapID="1099" xpos="-751.785" ypos="42.6885" zpos="-168.716" type="rsp.rbl.off.flame_rams" GUID="pHfbNiBb0EW+BG+ypORqSw=="/>
 		<POI MapID="1099" xpos="-752.248" ypos="42.5527" zpos="-155.252" type="rsp.rbl.off.flame_rams" GUID="mxx6lFMCCkuSgZDwkx3exQ=="/>
 		<POI MapID="1099" xpos="-751.453" ypos="42.6874" zpos="-13.0639" type="rsp.rbl.off.flame_rams" GUID="pJb+Ik1nr0aYgLGARI6K1Q=="/>
