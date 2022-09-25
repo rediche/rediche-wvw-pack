@@ -69,18 +69,18 @@ We do not recommend using this pack with TacO because the marker pack heavily re
     - [x] Southeast Camp
     - [x] Southwest Camp
 
-- [ ] Blue Borderlands (Can we mirror green bl markers?)
-    - [ ] Garrison
-    - [ ] Northeast Tower
-    - [ ] Northwest Tower
+- [x] Blue Borderlands
+    - [x] Garrison
+    - [x] Northeast Tower
+    - [x] Northwest Tower
     - [x] Northeast Camp
     - [x] Northwest Camp
     - [x] North Camp
     - [x] South Camp
-    - [ ] East Keep
-    - [ ] West Keep
-    - [ ] Southeast Tower
-    - [ ] Southwest Tower
+    - [x] East Keep
+    - [x] West Keep
+    - [x] Southeast Tower
+    - [x] Southwest Tower
     - [x] Southeast Camp
     - [x] Southwest Camp
 
