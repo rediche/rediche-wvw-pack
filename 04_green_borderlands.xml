@@ -97,6 +97,16 @@
 		<POI MapID="95" xpos="298.835" ypos="25.3312" zpos="-433.638" type="rsp.gbl.def.arrow_carts" GUID="AIVjnzu60Uql9vBSZdanrQ=="/>
 		<POI MapID="95" xpos="301.359" ypos="40.0951" zpos="-453.857" type="rsp.gbl.def.arrow_carts" GUID="K8S8s0MwmkKpXKn9ayCxHg=="/>
 
+		<!-- Southwest Tower -->
+		<POI MapID="95" xpos="-217.283" ypos="32.4654" zpos="-438.5" type="rsp.gbl.def.arrow_carts" GUID="WmGj1khtYUGJamBflo4fnw=="/>
+		<POI MapID="95" xpos="-194.321" ypos="23.7944" zpos="-465.88" type="rsp.gbl.def.arrow_carts" GUID="0+NkfVpZUEqyJp0WPl1Pow=="/>
+		<POI MapID="95" xpos="-190.226" ypos="23.5498" zpos="-482.715" type="rsp.gbl.def.arrow_carts" GUID="7WL1YWF8yk+ARvIcNUBDeA=="/>
+		<POI MapID="95" xpos="-168.234" ypos="23.5934" zpos="-482.676" type="rsp.gbl.def.arrow_carts" GUID="/bWu+rT1vUyFGCo+5Ch9/g=="/>
+		<POI MapID="95" xpos="-169.27" ypos="23.6149" zpos="-447.175" type="rsp.gbl.def.arrow_carts" GUID="p5ADnYfZD02M5uj5gc0g5Q=="/>
+		<POI MapID="95" xpos="-186.978" ypos="25.0432" zpos="-434.858" type="rsp.gbl.def.arrow_carts" GUID="+ogh0Rq2+UCPVDSEDpUPvA=="/>
+		<POI MapID="95" xpos="-203.577" ypos="34.3296" zpos="-419.218" type="rsp.gbl.def.arrow_carts" GUID="RFAUjog8LEiMajcuAWiBHw=="/>
+		<POI MapID="95" xpos="-197.072" ypos="33.5604" zpos="-418.751" type="rsp.gbl.def.arrow_carts" GUID="C7HER+tz3EO7++K9ay75oA=="/>
+
 		<!-- West Keep (Hills) -->
 		<POI MapID="95" xpos="-389.054" ypos="32.2246" zpos="-201.868" type="rsp.gbl.def.arrow_carts" GUID="gdAoj6w0bku0xKQQNfjByw=="/>
 		<POI MapID="95" xpos="-398.42" ypos="34.4812" zpos="-235.328" type="rsp.gbl.def.arrow_carts" GUID="VhXsKAg3W0G3OtaENJcTgQ=="/>
@@ -189,6 +199,14 @@
 		<POI MapID="95" xpos="-419.006" ypos="100.053" zpos="507.781" heightoffset="0.25" rotate-x="180" rotate-z="25" type="rsp.gbl.off.catapults" GUID="sawMIOykck+On64Jd23Dng=="/>
 		<POI MapID="95" xpos="-419.006" ypos="100.053" zpos="507.781" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="sawMIOykck+On64Jd23DnA=="/>
 
+		<!-- Southwest Tower -->
+		<POI MapID="95" xpos="-217.219" ypos="23.6716" zpos="-404.987" heightoffset="0.25" rotate-x="180" rotate-z="25" type="rsp.gbl.off.catapults" GUID="mWrXmit2rkSQn/cjBETMhA=="/>
+		<POI MapID="95" xpos="-217.219" ypos="23.6716" zpos="-404.987" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="mWrXmit2rkSQn/cjBETMhB=="/>
+
+		<POI MapID="95" xpos="-57.0875" ypos="20.8952" zpos="-497.228" heightoffset="0.25" rotate-x="180" rotate-z="-110" type="rsp.gbl.off.catapults" GUID="S0PNGoV/TUmg0jGSGQzyHw=="/>
+		<POI MapID="95" xpos="-57.0875" ypos="20.8952" zpos="-497.228" type="rsp.settings.info" info="Aim towards the tower to the west." triggerrange="10" GUID="S0PNGoV/TUmg0jGSGQzyHA=="/>
+		<POI MapID="95" xpos="-57.0875" ypos="20.8952" zpos="-497.228" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="S0PNGoV/TUmg0jGSGQzyHB=="/>
+
 		<!-- West Keep (Bay) -->
 		<POI MapID="95" xpos="-351.163" ypos="3.73677" zpos="-97.1394" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.gbl.off.catapults" GUID="ylmJldba4kSy/J27lAZNRA=="/>
 		<POI MapID="95" xpos="-351.163" ypos="3.73677" zpos="-97.1394" info="Aim for the connection between the two destroyable walls. This will hit both and deal more damage." triggerrange="10" type="rsp.settings.info" GUID="ylmJldba4kSy/J27lAZNRB=="/>
@@ -274,6 +292,10 @@
 		<POI MapID="95" xpos="-325.978" ypos="77.524" zpos="402.767" type="rsp.gbl.off.flame_rams" GUID="Ux9P0Ye3u0iO5rZwIgmaTA=="/>
 		<POI MapID="95" xpos="-323.499" ypos="77.4493" zpos="398.631" type="rsp.gbl.off.flame_rams" GUID="0w5px0lS6U62c3uglJMLdg=="/>
 
+		<!-- Southwest Tower -->
+		<POI MapID="95" xpos="-175.607" ypos="10.8165" zpos="-493.159" type="rsp.gbl.off.flame_rams" GUID="KKAmeKGMVESoHZxkYnzElg=="/>
+		<POI MapID="95" xpos="-180.427" ypos="10.8945" zpos="-493.093" type="rsp.gbl.off.flame_rams" GUID="M5LWDFQ5UUuw6pxjClt/jA=="/>
+
 		<!-- West Keep (Bay) -->
 		<POI MapID="95" xpos="-394.167" ypos="12.2163" zpos="-29.1532" type="rsp.gbl.off.flame_rams" GUID="IbM1r1AFtEeTDWvXnZf4cQ=="/>
 		<POI MapID="95" xpos="-400.761" ypos="12.3197" zpos="-23.3695" type="rsp.gbl.off.flame_rams" GUID="Af5hVPzA9kiUL+T4H60Ubg=="/>
@@ -318,6 +340,11 @@
 		<POI MapID="95" xpos="-458.042" ypos="109.13" zpos="556.046" heightoffset="0.25" rotate-x="180" rotate-z="30" type="rsp.gbl.off.trebuchets" GUID="uqMkFRnhqE+CNm1K+3CgPw=="/>
 		<POI MapID="95" xpos="-458.042" ypos="109.13" zpos="556.046" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="uqMkFRnhqE+CNm1K+3CgPA=="/>
 		
+		<!-- Southwest Tower -->
+		<POI MapID="95" xpos="-275.775" ypos="46.9219" zpos="-408.891" heightoffset="0.25" rotate-x="180" rotate-z="-147" type="rsp.gbl.off.trebuchets" GUID="aO9Z92koUkqW4j0OheXMqQ=="/>
+		<POI MapID="95" xpos="-275.775" ypos="46.9219" zpos="-408.891" type="rsp.settings.info" info="Aim towards the outer wall of the keep to the west." triggerrange="10" GUID="aO9Z92koUkqW4j0OheXMqA=="/>
+		<POI MapID="95" xpos="-275.775" ypos="46.9219" zpos="-408.891" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="aO9Z92koUkqW4j0OheXMqB=="/>
+
         <!--
             Trebuchets: Defensive
         -->
