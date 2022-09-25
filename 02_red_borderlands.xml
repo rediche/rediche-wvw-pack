@@ -92,7 +92,7 @@
 			Ballistas: Offensive
 		-->
 
-		<!-- None, yet -->
+		<!-- None,  -->
 
 		<!--
 			Ballistas: Defensive
@@ -100,6 +100,10 @@
 
 		<!-- Garrison -->
 		<POI MapID="1099" xpos="131.03" ypos="88.0648" zpos="360.746" type="rsp.rbl.def.ballistas" GUID="sH3y98ymV0y7+wPu1ltJmg=="/>
+
+		<!-- West Keep -->
+		<POI MapID="1099" xpos="-751.834" ypos="69.2805" zpos="-270.179" type="rsp.rbl.def.ballistas" GUID="1/pf7V32Mki0ijKe29vDYQ=="/>
+		<POI MapID="1099" xpos="-751.834" ypos="69.2805" zpos="-270.179" type="rsp.settings.info" info="This ballista is only needed if enemies are attacking with a catapult on the other side of the cliffs." triggerrange="10" GUID="1/pf7V32Mki0ijKe29vDYQ=="/>
 
 		<!--
 			Catapults: Offensive
@@ -183,6 +187,28 @@
 		<POI MapID="1099" xpos="-613.151" ypos="77.3764" zpos="-318.902" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rsp.rbl.off.catapults" GUID="EUbprKpyGkuaAjSUVuXmKA=="/>
 		<POI MapID="1099" xpos="-613.151" ypos="77.3764" zpos="-318.902" info="Aim towards the wall of the keep." triggerrange="10" type="rsp.settings.info" GUID="EUbprKpyGkuaAjSUVuXmKB=="/>
 		<POI MapID="1099" xpos="-613.151" ypos="77.3764" zpos="-318.902" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="EUbprKpyGkuaAjSUVuXmKC=="/>
+
+		<POI MapID="1099" xpos="-712.255" ypos="14.178" zpos="-227.552" heightoffset="0.25" rotate-x="180" rotate-z="145" type="rsp.rbl.off.catapults" GUID="Od5DCMC1lUGrkKjVpdgZZA=="/>
+		<POI MapID="1099" xpos="-712.255" ypos="14.178" zpos="-227.552" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="Od5DCMC1lUGrkKjVpdgZZB=="/>
+
+		<POI MapID="1099" xpos="-622.869" ypos="15.1186" zpos="-226.571" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rsp.rbl.off.catapults" GUID="2TvYSlcHyUKc+da+X7A//A=="/>
+		<POI MapID="1099" xpos="-622.869" ypos="15.1186" zpos="-226.571" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="2TvYSlcHyUKc+da+X7A//B=="/>
+
+		<POI MapID="1099" xpos="-564.811" ypos="26.0025" zpos="-272.961" heightoffset="0.25" rotate-x="180" rotate-z="-145" type="rsp.rbl.off.catapults" GUID="zq6WruE/CUivs53cjYdXZQ=="/>
+		<POI MapID="1099" xpos="-564.811" ypos="26.0025" zpos="-272.961" info="Aim towards the wall of the keep." triggerrange="10" type="rsp.settings.info" GUID="zq6WruE/CUivs53cjYdXZA=="/>
+		<POI MapID="1099" xpos="-564.811" ypos="26.0025" zpos="-272.961" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="zq6WruE/CUivs53cjYdXZA=="/>
+
+		<POI MapID="1099" xpos="-545.735" ypos="2.59639" zpos="-144.758" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.rbl.off.catapults" GUID="frlafn9kj0aOB7jnf/kmhQ=="/>
+		<POI MapID="1099" xpos="-545.735" ypos="2.59639" zpos="-144.758" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="frlafn9kj0aOB7jnf/kmhA=="/>
+
+		<POI MapID="1099" xpos="-559.058" ypos="11.4012" zpos="14.6224" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.rbl.off.catapults" GUID="5Egq/XsEHUC2i1lV3duzKA=="/>
+		<POI MapID="1099" xpos="-559.058" ypos="11.4012" zpos="14.6224" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="5Egq/XsEHUC2i1lV3duzKB=="/>
+
+		<POI MapID="1099" xpos="-615.351" ypos="11.4788" zpos="74.591" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.rbl.off.catapults" GUID="gYQ218Tgj0erRSOUs4sbGw=="/>
+		<POI MapID="1099" xpos="-615.351" ypos="11.4788" zpos="74.591" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="gYQ218Tgj0erRSOUs4sbGA=="/>
+
+		<POI MapID="1099" xpos="-733.546" ypos="9.28145" zpos="139.708" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.rbl.off.catapults" GUID="N+B1bSQTCEakUbnBD0QDtQ=="/>
+		<POI MapID="1099" xpos="-733.546" ypos="9.28145" zpos="139.708" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.catapults" GUID="N+B1bSQTCEakUbnBD0QDtA=="/>
 
 		<!--
 			Catapults: Defensive
