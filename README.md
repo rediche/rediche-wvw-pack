@@ -13,7 +13,9 @@ We do not recommend using this pack with TacO because the marker pack heavily re
 ## Pack completion for v1
 
 - [ ] Eternal Battlegrounds
-    - [ ] Stonemist Castle (A few catapult spots that need direction markers)
+    - [ ] Stonemist Castle
+        - [ ] Catapults need directional markers
+        - [ ] Defensive ACs on inner wall
     - [ ] Greens
         - [x] Aldon's Ledge
         - [x] Golanta's Clearing
@@ -21,7 +23,8 @@ We do not recommend using this pack with TacO because the marker pack heavily re
         - [x] Klovan's Gully
         - [x] Lowlands Keep
         - [x] Rouge's Quarry
-        - [x] Wildcreek Run
+        - [ ] Wildcreek Run
+            - [ ] Offensive trebuchet from SM
     - [ ] Reds
         - [x] Anzalias Pass
         - [ ] Mendon's Gap (Missing all siege)

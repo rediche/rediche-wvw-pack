@@ -105,6 +105,25 @@
 		<POI MapID="38" xpos="252.369" ypos="47.0627" zpos="-164.323" type="rsp.ebg.def.arrow_carts" GUID="oVlf0IBImE+sCcqZ37sQsw=="/>
 		<POI MapID="38" xpos="223.851" ypos="52.0361" zpos="-75.3698" type="rsp.ebg.def.arrow_carts" GUID="V8z0DOtZb0CcantITQpWvQ=="/>
 		<POI MapID="38" xpos="224.476" ypos="52.386" zpos="-57.3738" type="rsp.ebg.def.arrow_carts" GUID="mLd3biC4v06DNmN3vNGtXA=="/>
+		<POI MapID="38" xpos="203.824" ypos="52.4094" zpos="-19.9428" type="rsp.ebg.def.arrow_carts" GUID="4tjJ0RqfJUqxqbnwMGjrXw=="/>
+		<POI MapID="38" xpos="190.335" ypos="52.1343" zpos="-9.47436" type="rsp.ebg.def.arrow_carts" GUID="j0zhj2QnoEeo5GmA/IS2Hg=="/>
+		<POI MapID="38" xpos="175.221" ypos="52.1343" zpos="11.3945" type="rsp.ebg.def.arrow_carts" GUID="oYg9oGQDw02Amw6koBFIVg=="/>
+		<POI MapID="38" xpos="155.852" ypos="52.2487" zpos="27.1495" type="rsp.ebg.def.arrow_carts" GUID="x5nygNLMHEK9G6zi69NxqA=="/>
+		<POI MapID="38" xpos="133.921" ypos="44.0201" zpos="26.5888" type="rsp.ebg.def.arrow_carts" GUID="Ed+vUadZJke5eXnxzhYAFQ=="/>
+		<POI MapID="38" xpos="117.755" ypos="44.0437" zpos="23.2901" type="rsp.ebg.def.arrow_carts" GUID="2E58gh6ZSE+J+urGFVAlCg=="/>
+		<POI MapID="38" xpos="88.3154" ypos="44.264" zpos="27.7323" type="rsp.ebg.def.arrow_carts" GUID="Jt1gmTtvCUypkK/F06pt2w=="/>
+		<POI MapID="38" xpos="42.9997" ypos="44.2648" zpos="28.2419" type="rsp.ebg.def.arrow_carts" GUID="gSfgrEowDk+iuDeQ4s6S+Q=="/>
+		<POI MapID="38" xpos="13.7917" ypos="44.0891" zpos="24.9247" type="rsp.ebg.def.arrow_carts" GUID="A9LslbN2nUW5a/E7vm4jzA=="/>
+		<POI MapID="38" xpos="-5.1909" ypos="44.2334" zpos="26.6901" type="rsp.ebg.def.arrow_carts" GUID="BAJOr/7dKUuROHgIG7fllg=="/>
+		<POI MapID="38" xpos="-38.4885" ypos="41.4943" zpos="7.02052" type="rsp.ebg.def.arrow_carts" GUID="graPXBIOPUuCBLR17VIJLw=="/>
+		<POI MapID="38" xpos="-59.9693" ypos="41.6472" zpos="-29.4083" type="rsp.ebg.def.arrow_carts" GUID="feesZWYfS06i33ht+jSpeQ=="/>
+		<POI MapID="38" xpos="-60.3416" ypos="43.9835" zpos="-53.7907" type="rsp.ebg.def.arrow_carts" GUID="G9sh0AFPWE2EYwHTBKjEhA=="/>
+		<POI MapID="38" xpos="-62.2534" ypos="44.052" zpos="-70.4793" type="rsp.ebg.def.arrow_carts" GUID="m54KZRVkSEi21yCV81Oh4g=="/>
+		<POI MapID="38" xpos="-71.1278" ypos="43.9179" zpos="-78.9305" type="rsp.ebg.def.arrow_carts" GUID="dRO97T2P2UqzLblduzgtxA=="/>
+		<POI MapID="38" xpos="-87.2385" ypos="43.9573" zpos="-101.699" type="rsp.ebg.def.arrow_carts" GUID="4jDX+4r3u0uB39yWYriyxg=="/>
+		<POI MapID="38" xpos="-104.632" ypos="44.0604" zpos="-141.271" type="rsp.ebg.def.arrow_carts" GUID="d0JBROq6/ke0TW3RFuNSZQ=="/>
+		<POI MapID="38" xpos="-118.926" ypos="44.0811" zpos="-175.992" type="rsp.ebg.def.arrow_carts" GUID="xN87QsAhwUqHWGc4tX7hsQ=="/>
+		<POI MapID="38" xpos="-107.755" ypos="44.0195" zpos="-178.38" type="rsp.ebg.def.arrow_carts" GUID="jbHnvUHt3kOGCG3fp8ih1Q=="/>
 
 		<!-- Durios Gulch -->
 		<POI MapID="38" xpos="459.039" ypos="28.5938" zpos="-114.138" type="rsp.ebg.def.arrow_carts" GUID="Z7GeFcZwmkGlN3BM10W0Jw==" />
@@ -334,6 +353,18 @@
 		<POI MapID="38" xpos="-152.725" ypos="0.29685" zpos="-435.57" type="rsp.ebg.off.flame_rams" GUID="tf6jCTJDPUarax9wzKMeYw=="/>
 		<POI MapID="38" xpos="-152.861" ypos="0.295541" zpos="-440.396" type="rsp.ebg.off.flame_rams" GUID="ReFUJf163EOS1nfPwPLkgw=="/>
 
+		<!-- Langor Gulch -->
+		<POI MapID="38" xpos="528.409" ypos="35.0544" zpos="-670.194" type="rsp.ebg.off.flame_rams" GUID="o7Bm73rR9UuhsSAaoeXbqQ=="/>
+		<POI MapID="38" xpos="526.123" ypos="35.1106" zpos="-674.572" type="rsp.ebg.off.flame_rams" GUID="p+EP+TFFFE6DHly6/wNjgw=="/>
+
+		<!-- Lowlands Keep -->
+		<POI MapID="38" xpos="-603.213" ypos="9.87337" zpos="-526.226" type="rsp.ebg.off.flame_rams" GUID="lFWyEke+Ik+2LRHfczXSZA=="/>
+		<POI MapID="38" xpos="-595.435" ypos="9.8735" zpos="-535.884" type="rsp.ebg.off.flame_rams" GUID="kwmE6iO5UkK98Np89k+dwQ=="/>
+		<POI MapID="38" xpos="-512.444" ypos="19.4654" zpos="-470.015" type="rsp.ebg.off.flame_rams" GUID="reCTWrXbJUy/Xq4skCEQZQ=="/>
+		<POI MapID="38" xpos="-521.502" ypos="19.4513" zpos="-459.377" type="rsp.ebg.off.flame_rams" GUID="WTQSxHPhvkakDGMxnBssIw=="/>
+		<POI MapID="38" xpos="-369.926" ypos="5.05543" zpos="-343.781" type="rsp.ebg.off.flame_rams" GUID="tcD7KvdYikWy6PUMVhKRfw=="/>
+		<POI MapID="38" xpos="-378.673" ypos="5.02917" zpos="-333.463" type="rsp.ebg.off.flame_rams" GUID="latHzwN9hU+O9rylhqojNQ=="/>
+
 		<!-- Overlook Keep -->
 		<POI MapID="38" xpos="173.977" ypos="58.5355" zpos="462.168" type="rsp.ebg.off.flame_rams" GUID="Suyb4hGgq06saHg3UF+QjA=="/>
 		<POI MapID="38" xpos="161.766" ypos="58.5356" zpos="461.959" type="rsp.ebg.off.flame_rams" GUID="MAJh+PtWA0Kyz8eoRKdVDw=="/>
@@ -348,17 +379,19 @@
 		<POI MapID="38" xpos="306.457" ypos="14.4067" zpos="211.927" type="rsp.ebg.off.flame_rams" GUID="gbgN1tEiP0aKWK9DhhKuHw=="/>
 		<POI MapID="38" xpos="303.206" ypos="14.4933" zpos="206.559" type="rsp.ebg.off.flame_rams" GUID="QzJHhksXxkakl1alvN7ziQ=="/>
 
-		<!-- Langor Gulch -->
-		<POI MapID="38" xpos="528.409" ypos="35.0544" zpos="-670.194" type="rsp.ebg.off.flame_rams" GUID="o7Bm73rR9UuhsSAaoeXbqQ=="/>
-		<POI MapID="38" xpos="526.123" ypos="35.1106" zpos="-674.572" type="rsp.ebg.off.flame_rams" GUID="p+EP+TFFFE6DHly6/wNjgw=="/>
-
-		<!-- Lowlands Keep -->
-		<POI MapID="38" xpos="-603.213" ypos="9.87337" zpos="-526.226" type="rsp.ebg.off.flame_rams" GUID="lFWyEke+Ik+2LRHfczXSZA=="/>
-		<POI MapID="38" xpos="-595.435" ypos="9.8735" zpos="-535.884" type="rsp.ebg.off.flame_rams" GUID="kwmE6iO5UkK98Np89k+dwQ=="/>
-		<POI MapID="38" xpos="-512.444" ypos="19.4654" zpos="-470.015" type="rsp.ebg.off.flame_rams" GUID="reCTWrXbJUy/Xq4skCEQZQ=="/>
-		<POI MapID="38" xpos="-521.502" ypos="19.4513" zpos="-459.377" type="rsp.ebg.off.flame_rams" GUID="WTQSxHPhvkakDGMxnBssIw=="/>
-		<POI MapID="38" xpos="-369.926" ypos="5.05543" zpos="-343.781" type="rsp.ebg.off.flame_rams" GUID="tcD7KvdYikWy6PUMVhKRfw=="/>
-		<POI MapID="38" xpos="-378.673" ypos="5.02917" zpos="-333.463" type="rsp.ebg.off.flame_rams" GUID="latHzwN9hU+O9rylhqojNQ=="/>
+		<!-- Stonemist Castle -->
+		<POI MapID="38" xpos="-67.2838" ypos="30.6684" zpos="-219.512" type="rsp.ebg.off.flame_rams" GUID="5ceuRpBxRUeEYyI/o9aVlw=="/>
+		<POI MapID="38" xpos="-71.9631" ypos="30.945" zpos="-206.643" type="rsp.ebg.off.flame_rams" GUID="WMP38CqwWkONVPPdkfNkOA=="/>
+		<POI MapID="38" xpos="66.821" ypos="31.3145" zpos="-264.341" type="rsp.ebg.off.flame_rams" GUID="qvcSJxIwaEGk4/bZ99x2nA=="/>
+		<POI MapID="38" xpos="80.9909" ypos="31.3145" zpos="-264.065" type="rsp.ebg.off.flame_rams" GUID="mdeKTSJvkUmuRn2/vOzigg=="/>
+		<POI MapID="38" xpos="209.855" ypos="31.3329" zpos="-221.883" type="rsp.ebg.off.flame_rams" GUID="xNuiujqewEu+bSYtMgZlMg=="/>
+		<POI MapID="38" xpos="202.431" ypos="31.3164" zpos="-234.27" type="rsp.ebg.off.flame_rams" GUID="vSCJBuYFdU+nOlInSwQnDQ=="/>
+		<POI MapID="38" xpos="131.976" ypos="38.4217" zpos="-58.8082" type="rsp.ebg.off.flame_rams" GUID="vqZG6SXO50mdktSsYHR58A=="/>
+		<POI MapID="38" xpos="119.733" ypos="38.1607" zpos="-51.4323" type="rsp.ebg.off.flame_rams" GUID="FkA+OZXmo0amgB0CgzZZKg=="/>
+		<POI MapID="38" xpos="58.774" ypos="30.7832" zpos="34.6469" type="rsp.ebg.off.flame_rams" GUID="RMBwcZeajUeH+VFevvX9Jg=="/>
+		<POI MapID="38" xpos="72.4904" ypos="30.9007" zpos="34.7754" type="rsp.ebg.off.flame_rams" GUID="ys3GYTy6OkSjNW0h/wQppA=="/>
+		<POI MapID="38" xpos="1.08305" ypos="31.0269" zpos="-54.2044" type="rsp.ebg.off.flame_rams" GUID="SLdkBUFt3E6QunkikDo5Zg=="/>
+		<POI MapID="38" xpos="-10.0789" ypos="31.0269" zpos="-62.9613" type="rsp.ebg.off.flame_rams" GUID="aNw4ehJkIkqoRTHz6zaMZQ=="/>
 
 		<!-- Valley Keep -->
 		<POI MapID="38" xpos="676.334" ypos="41.9213" zpos="-544.497" type="rsp.ebg.off.flame_rams" GUID="UUEfvg6GzEWL/opB+C5TAA=="/>
@@ -415,6 +448,7 @@
 		<POI MapID="38" xpos="-144.78" ypos="50.8929" zpos="469.175" rotate-x="90" rotate-z="-120" type="rsp.ebg.off.trebuchets" GUID="1LoUEYcNjEKP2J6zhTJIZg=="/>
 		<POI MapID="38" xpos="288.865" ypos="62.5146" zpos="549.328" rotate-x="90" rotate-z="150" type="rsp.ebg.off.trebuchets" GUID="O2KtTab9wkSDIY3xBtimBw=="/>
 
+		<!-- Stonemist Castle -->
 		<POI MapID="38" xpos="-164.638" ypos="42.7071" zpos="155.801" heightoffset="0.25" rotate-x="180" rotate-z="45" type="rsp.ebg.off.trebuchets" GUID="Br/TRB6iTUKousmOqLZWqg=="/>
 		<POI MapID="38" xpos="-164.638" ypos="42.7071" zpos="155.801" info="Aim towards Stonemist Castle to hit its outer wall." triggerrange="10" type="rsp.settings.info" GUID="Br/TRB6iTUKousmOqLZWqA=="/>
 		<POI MapID="38" xpos="-164.638" ypos="42.7071" zpos="155.801" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="Br/TRB6iTUKousmOqLZWqA=="/>
