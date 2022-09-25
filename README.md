@@ -39,7 +39,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
         - [x] Umberglade Woods
         - [x] Valley Keep
 
-- [ ] Red Borderlands
+- [x] Red Borderlands
     - [x] Garrison
     - [x] Northeast Tower
     - [x] Northwest Tower
@@ -47,7 +47,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
     - [x] Northwest Camp
     - [x] North Camp
     - [x] South Camp
-    - [ ] East Keep (Missing all siege)
+    - [x] East Keep
     - [x] West Keep
     - [x] Southeast Tower
     - [x] Southwest Tower
