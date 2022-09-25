@@ -13,7 +13,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
 ## Pack completion for v1
 
 - [ ] Eternal Battlegrounds
-    - [x] Stonemist Castle
+    - [ ] Stonemist Castle (A few catapult spots that need direction markers)
     - [ ] Greens
         - [x] Aldon's Ledge
         - [x] Golanta's Clearing
@@ -23,7 +23,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
         - [x] Rouge's Quarry
         - [x] Wildcreek Run
     - [ ] Reds
-        - [ ] Anzalias Pass (Missing all siege)
+        - [x] Anzalias Pass
         - [ ] Mendon's Gap (Missing all siege)
         - [ ] Ogrewatch Cut (A few markers showing incorrectly)
         - [x] Overlook Keep
@@ -33,7 +33,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
     - [ ] Blues
         - [ ] Bravost Encampment (Missing offensive trebuchets)
         - [x] Danelon Passage
-        - [x] Durios Gulch
+        - [ ] Durios Gulch (Missing rams & direction markers for catas)
         - [x] Langor Gulch
         - [x] Quentin Lake
         - [x] Umberglade Woods
