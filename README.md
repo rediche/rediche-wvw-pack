@@ -14,7 +14,8 @@ We do not recommend using this pack with TacO because the marker pack heavily re
 
 - [ ] Eternal Battlegrounds
     - [ ] Stonemist Castle
-        - [ ] Catapults need directional markers
+        - [ ] Offensive cata from Durios
+        - [ ] Offensive treb from Ogrewatch
     - [ ] Greens
         - [x] Aldon's Ledge
         - [x] Golanta's Clearing
