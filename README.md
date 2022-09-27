@@ -1,89 +1,24 @@
 # Rediche's World vs. World Marker Pack
 
-## Manual Installation
+World vs. World can be a difficult game mode to learn and this marker pack sets out to help new players get accostomed to placement of siege and additional information on why certain locations work, even though they seem like they might not.
+
+Currently you can find siege placements for every World vs. World map, not including Edge of the Mists.
+
+## Installation
 
 ### Blish HUD
 
-Coming soon.
+It is recommended for you to install the marker pack directly through the pathing module in BlishHUD.
+
+To install manually follow these steps:
+
+1. Download the latest marker file: [RedicheWvwPack.taco](https://github.com/rediche/rediche-wvw-pack/raw/main/rediche-wvw-pack/RedicheWvwPack.taco).
+2. Move the file to `C:\Users\YOUR_USERNAME\Documents\Guild Wars 2\addons\blishhud\markers`.
+3. Restart BlishHUD.
 
 ### TacO
 
 We do not recommend using this pack with TacO because the marker pack heavily relies on features that TacO does not support.
-
-## Pack completion for v1
-
-- [ ] Eternal Battlegrounds
-    - [x] Stonemist Castle
-    - [x] Greens
-        - [x] Aldon's Ledge
-        - [x] Golanta's Clearing
-        - [x] Jerrifer's Slough
-        - [x] Klovan's Gully
-        - [x] Lowlands Keep
-        - [x] Rouge's Quarry
-        - [x] Wildcreek Run
-    - [x] Reds
-        - [x] Anzalias Pass
-        - [x] Mendon's Gap
-        - [x] Ogrewatch Cut
-        - [x] Overlook Keep
-        - [x] Pangloss Rise
-        - [x] Speldans Clearcut
-        - [x] Veloka Slope
-    - [x] Blues
-        - [x] Bravost Escarpment
-        - [x] Danelon Passage
-        - [x] Durios Gulch
-        - [x] Langor Gulch
-        - [x] Quentin Lake
-        - [x] Umberglade Woods
-        - [x] Valley Keep
-
-- [x] Red Borderlands
-    - [x] Garrison
-    - [x] Northeast Tower
-    - [x] Northwest Tower
-    - [x] Northeast Camp
-    - [x] Northwest Camp
-    - [x] North Camp
-    - [x] South Camp
-    - [x] East Keep
-    - [x] West Keep
-    - [x] Southeast Tower
-    - [x] Southwest Tower
-    - [x] Southeast Camp
-    - [x] Southwest Camp
-
-- [x] Green Borderlands
-    - [x] Garrison
-    - [x] Northeast Tower
-    - [x] Northwest Tower
-    - [x] Northeast Camp
-    - [x] Northwest Camp
-    - [x] North Camp
-    - [x] South Camp
-    - [x] East Keep
-    - [x] West Keep
-    - [x] Southeast Tower
-    - [x] Southwest Tower
-    - [x] Southeast Camp
-    - [x] Southwest Camp
-
-- [x] Blue Borderlands
-    - [x] Garrison
-    - [x] Northeast Tower
-    - [x] Northwest Tower
-    - [x] Northeast Camp
-    - [x] Northwest Camp
-    - [x] North Camp
-    - [x] South Camp
-    - [x] East Keep
-    - [x] West Keep
-    - [x] Southeast Tower
-    - [x] Southwest Tower
-    - [x] Southeast Camp
-    - [x] Southwest Camp
-
 
 ## Contributions
 
