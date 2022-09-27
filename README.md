@@ -33,7 +33,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
         - [x] Speldans Clearcut
         - [x] Veloka Slope
     - [ ] Blues
-        - [x] Bravost Encampment
+        - [x] Bravost Escarpment
         - [x] Danelon Passage
         - [ ] Durios Gulch (Missing rams & direction markers for catas)
         - [x] Langor Gulch
