@@ -4,6 +4,8 @@ World vs. World can be a difficult game mode to learn and this marker pack sets 
 
 Currently you can find siege placements for every World vs. World map, not including Edge of the Mists.
 
+### Download latest version here: [RedicheWvwPack.taco](https://github.com/rediche/rediche-wvw-pack/raw/main/RedicheWvwPack.taco)
+
 ## Installation
 
 ### Blish HUD
@@ -12,7 +14,7 @@ It is recommended for you to install the marker pack directly through the pathin
 
 To install manually follow these steps:
 
-1. Download the latest marker file: [RedicheWvwPack.taco](https://github.com/rediche/rediche-wvw-pack/raw/main/rediche-wvw-pack/RedicheWvwPack.taco).
+1. Download the latest marker file: [RedicheWvwPack.taco](https://github.com/rediche/rediche-wvw-pack/raw/main/RedicheWvwPack.taco).
 2. Move the file to `C:\Users\YOUR_USERNAME\Documents\Guild Wars 2\addons\blishhud\markers`.
 3. Restart BlishHUD.
 
