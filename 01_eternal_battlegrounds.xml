@@ -221,9 +221,16 @@
 		<POI MapID="38" xpos="-129.182" ypos="18.308" zpos="175.75" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="vIqXe4huCEizpJXhxF65sB=="/>
 
 		<!-- Bravost Escarpment -->
-		<POI MapID="38" xpos="754.885" ypos="28.2129" zpos="-321.821" type="rsp.ebg.off.catapults" GUID="4IkUOko18Umv/hRTf3YUjQ==" />
-		<POI MapID="38" xpos="704.865" ypos="15.5424" zpos="-253.877" type="rsp.ebg.off.catapults" GUID="OW2D47Xci0KqK2BbiqGVyQ==" />
-		<POI MapID="38" xpos="604.273" ypos="27.994" zpos="-259.011" type="rsp.ebg.off.catapults" GUID="/5lJgRYLKEiALEBgbSXRpg==" />
+		<POI MapID="38" xpos="754.885" ypos="28.2129" zpos="-321.821" heightoffset="0.25" rotate-x="180" rotate-z="-145" type="rsp.ebg.off.catapults" GUID="4IkUOko18Umv/hRTf3YUjQ==" />
+		<POI MapID="38" xpos="754.885" ypos="28.2129" zpos="-321.821" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="4IkUOko18Umv/hRTf3YUjA==" />
+
+		<POI MapID="38" xpos="703.751" ypos="14.3171" zpos="-252.84" heightoffset="0.25" rotate-x="180" rotate-z="35" type="rsp.ebg.off.catapults" GUID="7PA8ZsydYEC1Djql7Jmx6A=="/>
+		<POI MapID="38" xpos="703.751" ypos="14.3171" zpos="-252.84" info="Shoot at the cliff to hit the wall above." triggerrange="10" type="rsp.settings.info" GUID="7PA8ZsydYEC1Djql7Jmx6B=="/>
+		<POI MapID="38" xpos="703.751" ypos="14.3171" zpos="-252.84" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="7PA8ZsydYEC1Djql7Jmx6C=="/>
+
+		<POI MapID="38" xpos="604.273" ypos="27.994" zpos="-259.011" heightoffset="0.25" rotate-x="180" rotate-z="75" type="rsp.ebg.off.catapults" GUID="/5lJgRYLKEiALEBgbSXRpg==" />
+		<POI MapID="38" xpos="604.273" ypos="27.994" zpos="-259.011" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="/5lJgRYLKEiALEBgbSXRpA==" />
+
 
 		<!-- Durios Gulch -->
 		<POI MapID="38" xpos="540.379" ypos="17.7496" zpos="-86.4463" type="rsp.ebg.off.catapults" GUID="DLrQHNInXUOWLfOzcXIMrA==" />
@@ -502,6 +509,11 @@
 		<POI MapID="38" xpos="-330.254" ypos="12.6354" zpos="-128.288" heightoffset="0.25" rotate-x="180" rotate-z="75" type="rsp.ebg.off.trebuchets" GUID="II5v6MOva0qDqxpef6wD7A=="/>
 		<POI MapID="38" xpos="-330.254" ypos="12.6354" zpos="-128.288" info="Aim towards Stonemist Castle to hit its outer wall." triggerrange="10" type="rsp.settings.info" GUID="II5v6MOva0qDqxpef6wD7B=="/>
 		<POI MapID="38" xpos="-330.254" ypos="12.6354" zpos="-128.288" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="II5v6MOva0qDqxpef6wD7C=="/>
+
+		<!-- Valley Keey -->
+		<POI MapID="38" xpos="747.076" ypos="40.7751" zpos="-275.428" heightoffset="0.25" rotate-x="180" rotate-z="-20" type="rsp.ebg.off.trebuchets" GUID="ZohLKKUXZ0euZEwIiJfZSw=="/>
+		<POI MapID="38" xpos="747.076" ypos="40.7751" zpos="-275.428" info="Aim towards the keep to hit its outer wall." triggerrange="10" type="rsp.settings.info" GUID="ZohLKKUXZ0euZEwIiJfZSA=="/>
+		<POI MapID="38" xpos="747.076" ypos="40.7751" zpos="-275.428" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="ZohLKKUXZ0euZEwIiJfZSB=="/>
 
 		<!-- Wildcreek Run -->
 		<POI MapID="38" xpos="-98.856" ypos="43.7251" zpos="-157.782" heightoffset="0.25" rotate-x="180" rotate-z="-100" type="rsp.ebg.off.trebuchets" GUID="YLuVHaoQNEuAcqe1NQKNsQ=="/>
