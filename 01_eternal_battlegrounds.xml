@@ -348,9 +348,17 @@
 		<POI MapID="38" xpos="722.838" ypos="32.4973" zpos="-441.433" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="Bm84KTKynkqMj6St0V5D9Q==" />
 
 		<!-- Veloka Slope -->
-		<POI MapID="38" xpos="367.153" ypos="37.4515" zpos="493.257" type="rsp.ebg.off.catapults" GUID="Wjkw5zppJUGS0Fj/LjnjIA=="/>
-		<POI MapID="38" xpos="382.972" ypos="36.6408" zpos="435.424" type="rsp.ebg.off.catapults" GUID="04Hd5b7snUSZ5+zKAspuCQ=="/>
-		<POI MapID="38" xpos="309.371" ypos="29.8143" zpos="471.855" type="rsp.ebg.off.catapults" GUID="G2DGDSmCXUKL3Fs2N9fZJA=="/>
+		<POI MapID="38" xpos="369.894" ypos="37.5325" zpos="495.055" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.ebg.off.catapults" GUID="859HjmDLxkSvor89a6bazA=="/>
+		<POI MapID="38" xpos="369.894" ypos="37.5325" zpos="495.055" info="Beware the ease at which the enemies can hit you with Arrow Cart fire in this location." triggerrange="10" type="rsp.settings.info" GUID="859HjmDLxkSvor89a6bazB=="/>
+		<POI MapID="38" xpos="369.894" ypos="37.5325" zpos="495.055" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="859HjmDLxkSvor89a6bazC=="/>
+
+		<POI MapID="38" xpos="382.972" ypos="36.6408" zpos="435.424" heightoffset="0.25" rotate-x="180" rotate-z="-160" type="rsp.ebg.off.catapults" GUID="04Hd5b7snUSZ5+zKAspuCQ=="/>
+		<POI MapID="38" xpos="382.972" ypos="36.6408" zpos="435.424" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="04Hd5b7snUSZ5+zKAspuCA=="/>
+
+		<POI MapID="38" xpos="307.298" ypos="28.156" zpos="471.748" heightoffset="0.25" rotate-x="180" rotate-z="120" type="rsp.ebg.off.catapults" GUID="EBRf5D7tH064oquRq1wnIA=="/>
+		<POI MapID="38" xpos="307.298" ypos="28.156" zpos="471.748" info="Aim into the cliff below the bridge to hit Veloka Slope's wall with splash damage." triggerrange="10" type="rsp.settings.info" GUID="EBRf5D7tH064oquRq1wnIA=="/>
+		<POI MapID="38" xpos="307.298" ypos="28.156" zpos="471.748" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="EBRf5D7tH064oquRq1wnIA=="/>
+
 
 		<!-- Wildcreek Run -->
 		<POI MapID="38" xpos="-277.276" ypos="4.30672" zpos="-137.015" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.ebg.off.catapults" GUID="4HCdyT6aKkyNWBCfgNVx1A=="/>
@@ -461,6 +469,10 @@
 		<POI MapID="38" xpos="555.603" ypos="32.2005" zpos="-445.541" type="rsp.ebg.off.flame_rams" GUID="J8uf2TBbCE+8nF/mZpdHuA=="/>
 		<POI MapID="38" xpos="563.123" ypos="32.1788" zpos="-435.578" type="rsp.ebg.off.flame_rams" GUID="Vu/SM7Uf+kmCwnAFabj4sQ=="/>
 
+		<!-- Veloka Slope -->
+		<POI MapID="38" xpos="299.222" ypos="37.2532" zpos="505.629" type="rsp.ebg.off.flame_rams" GUID="KtDDDWAWfUeCpJ+eWMx6hQ=="/>
+		<POI MapID="38" xpos="302.705" ypos="37.3176" zpos="500.416" type="rsp.ebg.off.flame_rams" GUID="weXDh2kmn0WUC8th3UdkAQ=="/>
+
 		<!-- Wildcreek Run -->
 		<POI MapID="38" xpos="-338.321" ypos="1.89759" zpos="-154.812" type="rsp.ebg.off.flame_rams" GUID="ZgLFxt4eqUSifWgSzVMaYw=="/>
 		<POI MapID="38" xpos="-341.916" ypos="1.92003" zpos="-151.521" type="rsp.ebg.off.flame_rams" GUID="tbLSh7kcMkKIJQYBTsIZEg=="/>
@@ -506,8 +518,12 @@
 
 		<!-- Overlook Keep -->
 		<POI MapID="38" xpos="-46.6333" ypos="61.7426" zpos="221.681" rotate-x="90" rotate-z="-43" type="rsp.ebg.off.trebuchets" GUID="uaAeRBNH70eFvqTeIpVkDA=="/>
+
 		<POI MapID="38" xpos="-144.78" ypos="50.8929" zpos="469.175" rotate-x="90" rotate-z="-120" type="rsp.ebg.off.trebuchets" GUID="1LoUEYcNjEKP2J6zhTJIZg=="/>
-		<POI MapID="38" xpos="288.865" ypos="62.5146" zpos="549.328" rotate-x="90" rotate-z="150" type="rsp.ebg.off.trebuchets" GUID="O2KtTab9wkSDIY3xBtimBw=="/>
+
+		<POI MapID="38" xpos="286.46" ypos="62.5297" zpos="546.87" heightoffset="0.25" rotate-x="180" rotate-z="-25" type="rsp.ebg.off.trebuchets" GUID="eFNXL78Jhk2KdTFGOqsbrQ=="/>		
+		<POI MapID="38" xpos="286.46" ypos="62.5297" zpos="546.87" info="Aim towards Overlook keep to hit its outer wall." triggerrange="10" type="rsp.settings.info" GUID="eFNXL78Jhk2KdTFGOqsbrA=="/>		
+		<POI MapID="38" xpos="286.46" ypos="62.5297" zpos="546.87" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="eFNXL78Jhk2KdTFGOqsbrB=="/>		
 
 		<!-- Stonemist Castle -->
 		<POI MapID="38" xpos="-164.638" ypos="42.7071" zpos="155.801" heightoffset="0.25" rotate-x="180" rotate-z="45" type="rsp.ebg.off.trebuchets" GUID="Br/TRB6iTUKousmOqLZWqg=="/>
