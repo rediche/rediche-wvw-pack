@@ -13,10 +13,8 @@ We do not recommend using this pack with TacO because the marker pack heavily re
 ## Pack completion for v1
 
 - [ ] Eternal Battlegrounds
-    - [ ] Stonemist Castle
-        - [ ] Offensive cata from Durios
-        - [ ] Offensive treb from Ogrewatch
-    - [ ] Greens
+    - [x] Stonemist Castle
+    - [x] Greens
         - [x] Aldon's Ledge
         - [x] Golanta's Clearing
         - [x] Jerrifer's Slough
@@ -32,10 +30,10 @@ We do not recommend using this pack with TacO because the marker pack heavily re
         - [x] Pangloss Rise
         - [x] Speldans Clearcut
         - [x] Veloka Slope
-    - [ ] Blues
+    - [x] Blues
         - [x] Bravost Escarpment
         - [x] Danelon Passage
-        - [ ] Durios Gulch (Missing rams & direction markers for catas)
+        - [x] Durios Gulch
         - [x] Langor Gulch
         - [x] Quentin Lake
         - [x] Umberglade Woods
