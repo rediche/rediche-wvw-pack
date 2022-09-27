@@ -361,7 +361,6 @@
 		<POI MapID="38" xpos="307.298" ypos="28.156" zpos="471.748" info="Aim into the cliff below the bridge to hit Veloka Slope's wall with splash damage." triggerrange="10" type="rsp.settings.info" GUID="EBRf5D7tH064oquRq1wnIA=="/>
 		<POI MapID="38" xpos="307.298" ypos="28.156" zpos="471.748" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="EBRf5D7tH064oquRq1wnIA=="/>
 
-
 		<!-- Wildcreek Run -->
 		<POI MapID="38" xpos="-277.276" ypos="4.30672" zpos="-137.015" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.ebg.off.catapults" GUID="4HCdyT6aKkyNWBCfgNVx1A=="/>
 		<POI MapID="38" xpos="-277.276" ypos="4.30672" zpos="-137.015" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="4HCdyT6aKkyNWBCfgNVx1B=="/>
@@ -370,14 +369,31 @@
 		<POI MapID="38" xpos="-200.536" ypos="18.1062" zpos="-108.748" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="bnq2CaTe2EWrSClb7XN26B=="/>
 
 		<!-- Overlook Keep -->
-		<POI MapID="38" xpos="45.0972" ypos="33.1993" zpos="295.341" rotate-x="90" rotate-z="-32" type="rsp.ebg.off.catapults" GUID="YDpdeD+tO0KkgaAWxaP5kg=="/>
-		<POI MapID="38" xpos="7.63235" ypos="31.8277" zpos="325.133" rotate-x="90" rotate-z="-75" type="rsp.ebg.off.catapults" GUID="zs1ZpDwt8k+AITkQ2Vay3g=="/>
-		<POI MapID="38" xpos="105.213" ypos="61.7454" zpos="380.415" rotate-x="90" rotate-z="-45" type="rsp.ebg.off.catapults" GUID="HYxRnvJ4GEW11rYDVW6MQA=="/>
-		<POI MapID="38" xpos="101.541" ypos="58.6822" zpos="398.505" rotate-x="90" rotate-z="-90" type="rsp.ebg.off.catapults" GUID="uIfusAg7LUGEVAre6SEPMA=="/>
-		<POI MapID="38" xpos="137.265" ypos="48.3261" zpos="364.859" rotate-x="90" rotate-z="0" type="rsp.ebg.off.catapults" GUID="s0sTRLaqckOoLJ8TV4Tozw=="/>
-		<POI MapID="38" xpos="230.206" ypos="65.4201" zpos="413.628" rotate-x="90" rotate-z="90" type="rsp.ebg.off.catapults" GUID="WvcUa7zfLUuy9Db2lGLSog=="/>
-		<POI MapID="38" xpos="228.331" ypos="64.7787" zpos="395.585" rotate-x="90" rotate-z="45" type="rsp.ebg.off.catapults" GUID="ew5LCGmprkaVQL8oMAgbyQ=="/>
-		<POI MapID="38" xpos="-49.407" ypos="61.5278" zpos="224.692" rotate-x="90" rotate-z="-39" type="rsp.ebg.off.catapults" GUID="1J3+lxqtPUijc/NMlWkxhQ=="/>
+		<POI MapID="38" xpos="-49.5607" ypos="61.4387" zpos="224.463" heightoffset="0.25" rotate-x="180" rotate-z="150" type="rsp.ebg.off.catapults" GUID="Gi7DeH/NZEaOMzlBZ2nhHA=="/>
+		<POI MapID="38" xpos="-49.5607" ypos="61.4387" zpos="224.463" info="Try to aim at the pillars between the walls so you can hit two walls at a time." type="rsp.settings.info" GUID="Gi7DeH/NZEaOMzlBZ2nhHA=="/>
+		<POI MapID="38" xpos="-49.5607" ypos="61.4387" zpos="224.463" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="Gi7DeH/NZEaOMzlBZ2nhHB=="/>
+
+		<POI MapID="38" xpos="6.79871" ypos="31.7189" zpos="324.654" heightoffset="0.25" rotate-x="180" rotate-z="110" type="rsp.ebg.off.catapults" GUID="iNZoS6tGrEaV1rfcWIJacg=="/>
+		<POI MapID="38" xpos="6.79871" ypos="31.7189" zpos="324.654" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="iNZoS6tGrEaV1rfcWIJacA=="/>
+
+		<POI MapID="38" xpos="44.5298" ypos="33.1427" zpos="293.997" heightoffset="0.25" rotate-x="180" rotate-z="150" type="rsp.ebg.off.catapults" GUID="V4gpeTYQnUWTS6kWyJ0qow=="/>
+		<POI MapID="38" xpos="44.5298" ypos="33.1427" zpos="293.997" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="V4gpeTYQnUWTS6kWyJ0qoA=="/>
+
+		<POI MapID="38" xpos="231.621" ypos="64.9241" zpos="413.567" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.ebg.off.catapults" GUID="f7i0ab2dE0+IJRVYdd3DrQ=="/>
+		<POI MapID="38" xpos="231.621" ypos="64.9241" zpos="413.567" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="f7i0ab2dE0+IJRVYdd3DrA=="/>
+
+		<POI MapID="38" xpos="229.657" ypos="64.1085" zpos="394.511" heightoffset="0.25" rotate-x="180" rotate-z="-140" type="rsp.ebg.off.catapults" GUID="c1NDEHgxwkql3qm6QemILQ=="/>
+		<POI MapID="38" xpos="229.657" ypos="64.1085" zpos="394.511" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="c1NDEHgxwkql3qm6QemILA=="/>
+
+		<POI MapID="38" xpos="136.736" ypos="46.6125" zpos="362.195" heightoffset="0.25" rotate-x="180" rotate-z="170" type="rsp.ebg.off.catapults" GUID="GbyJ0qy3f0ulzGXFdkm2HQ=="/>
+		<POI MapID="38" xpos="136.736" ypos="46.6125" zpos="362.195" info="Aim into the cliff to hit the wall with splash damage." triggerrange="10" type="rsp.settings.info" GUID="GbyJ0qy3f0ulzGXFdkm2HA=="/>
+		<POI MapID="38" xpos="136.736" ypos="46.6125" zpos="362.195" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="GbyJ0qy3f0ulzGXFdkm2HB=="/>
+
+		<POI MapID="38" xpos="105.213" ypos="61.7454" zpos="380.415" heightoffset="0.25" rotate-x="180" rotate-z="130" type="rsp.ebg.off.catapults" GUID="HYxRnvJ4GEW11rYDVW6MQA=="/>
+		<POI MapID="38" xpos="105.213" ypos="61.7454" zpos="380.415" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="HYxRnvJ4GEW11rYDVW6MQB=="/>
+
+		<POI MapID="38" xpos="101.541" ypos="58.6822" zpos="398.505" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.ebg.off.catapults" GUID="uIfusAg7LUGEVAre6SEPMA=="/>
+		<POI MapID="38" xpos="101.541" ypos="58.6822" zpos="398.505" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="uIfusAg7LUGEVAre6SEPMB=="/>
 
 		<!--
 			Catapults: Defensive
@@ -521,9 +537,13 @@
 		<POI MapID="38" xpos="-663.752" ypos="19.7327" zpos="-325.737" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="NS660hewVEy1/g1sMUGlbA=="/>
 
 		<!-- Overlook Keep -->
-		<POI MapID="38" xpos="-46.6333" ypos="61.7426" zpos="221.681" rotate-x="90" rotate-z="-43" type="rsp.ebg.off.trebuchets" GUID="uaAeRBNH70eFvqTeIpVkDA=="/>
+		<POI MapID="38" xpos="-46.0435" ypos="61.7672" zpos="221.294" heightoffset="0.25" rotate-x="180" rotate-z="130" type="rsp.ebg.off.trebuchets" GUID="qBB4Kwqb/UeC6V+Q8vlrLQ=="/>
+		<POI MapID="38" xpos="-46.0435" ypos="61.7672" zpos="221.294" info="You can hit both the outer wall and the inner wall with this trebuchet. The arrow on the ground is the direction at which you can hit the inner wall." triggerrange="10" type="rsp.settings.info" GUID="qBB4Kwqb/UeC6V+Q8vlrLA=="/>
+		<POI MapID="38" xpos="-46.0435" ypos="61.7672" zpos="221.294" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="qBB4Kwqb/UeC6V+Q8vlrLB=="/>
 
-		<POI MapID="38" xpos="-144.78" ypos="50.8929" zpos="469.175" rotate-x="90" rotate-z="-120" type="rsp.ebg.off.trebuchets" GUID="1LoUEYcNjEKP2J6zhTJIZg=="/>
+		<POI MapID="38" xpos="-144.914" ypos="50.8929" zpos="469.954" heightoffset="0.25" rotate-x="180" rotate-z="55" type="rsp.ebg.off.trebuchets" GUID="UrHD+P1uPUi6UqyrENo5YQ=="/>
+		<POI MapID="38" xpos="-144.914" ypos="50.8929" zpos="469.954" info="Yes, you can hit the outer wall of the keep from here with a trebuchet." triggerrange="10" type="rsp.settings.info" GUID="UrHD+P1uPUi6UqyrENo5YA=="/>
+		<POI MapID="38" xpos="-144.914" ypos="50.8929" zpos="469.954" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="UrHD+P1uPUi6UqyrENo5YB=="/>
 
 		<POI MapID="38" xpos="286.46" ypos="62.5297" zpos="546.87" heightoffset="0.25" rotate-x="180" rotate-z="-25" type="rsp.ebg.off.trebuchets" GUID="eFNXL78Jhk2KdTFGOqsbrQ=="/>		
 		<POI MapID="38" xpos="286.46" ypos="62.5297" zpos="546.87" info="Aim towards Overlook keep to hit its outer wall." triggerrange="10" type="rsp.settings.info" GUID="eFNXL78Jhk2KdTFGOqsbrA=="/>		

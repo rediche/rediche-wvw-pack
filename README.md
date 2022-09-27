@@ -26,7 +26,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
         - [x] Anzalias Pass
         - [ ] Mendon's Gap (Missing all siege)
         - [x] Ogrewatch Cut
-        - [ ] Overlook Keep (Directions)
+        - [ ] Overlook Keep (Directions, defensive trebs)
         - [x] Pangloss Rise
         - [x] Speldans Clearcut
         - [x] Veloka Slope
