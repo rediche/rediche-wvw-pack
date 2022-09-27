@@ -16,7 +16,6 @@ We do not recommend using this pack with TacO because the marker pack heavily re
     - [ ] Stonemist Castle
         - [ ] Offensive cata from Durios
         - [ ] Offensive treb from Ogrewatch
-        - [ ] Offensive treb from Wildcreek
     - [ ] Greens
         - [x] Aldon's Ledge
         - [x] Golanta's Clearing
@@ -24,8 +23,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
         - [x] Klovan's Gully
         - [x] Lowlands Keep
         - [x] Rouge's Quarry
-        - [ ] Wildcreek Run
-            - [ ] Offensive trebuchet from SM
+        - [x] Wildcreek Run
     - [ ] Reds
         - [x] Anzalias Pass
         - [ ] Mendon's Gap (Missing all siege)

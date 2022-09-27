@@ -472,8 +472,15 @@
 			Trebuchets: Offensive
 		-->
 
-		<!-- Which tower? -->
-		<POI MapID="38" xpos="261.643" ypos="26.1685" zpos="-503.496" type="rsp.ebg.off.trebuchets" GUID="IzmC3xfJqEaKGm7XdhWNxg==" />
+		<!-- Anzalias Pass -->
+		<POI MapID="38" xpos="-17.947" ypos="42.9661" zpos="2.22704" heightoffset="0.25" rotate-x="180" rotate-z="-145" type="rsp.ebg.off.trebuchets" GUID="fMYLEsnRskmO/zGKu4WWVw=="/>
+		<POI MapID="38" xpos="-17.947" ypos="42.9661" zpos="2.22704" info="Aim towards Anzalias Pass to hit its outer wall." triggerrange="10" type="rsp.settings.info" GUID="fMYLEsnRskmO/zGKu4WWVA=="/>
+		<POI MapID="38" xpos="-17.947" ypos="42.9661" zpos="2.22704" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="fMYLEsnRskmO/zGKu4WWVB=="/>
+
+		<!-- Durios Gulch -->
+		<POI MapID="38" xpos="239.895" ypos="45.1559" zpos="-167.587" heightoffset="0.25" rotate-x="180" rotate-z="100" type="rsp.ebg.off.trebuchets" GUID="jgv8EP0rP0iJO5pcAs4MJg=="/>
+		<POI MapID="38" xpos="239.895" ypos="45.1559" zpos="-167.587" info="Aim towards Durios Gulch to hit its outer wall." triggerrange="10" type="rsp.settings.info" GUID="jgv8EP0rP0iJO5pcAs4MJA=="/>
+		<POI MapID="38" xpos="239.895" ypos="45.1559" zpos="-167.587" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="jgv8EP0rP0iJO5pcAs4MJB=="/>
 
 		<!-- Lowlands Keep -->
 		<POI MapID="38" xpos="-396.212" ypos="18.7332" zpos="-635.814" heightoffset="0.25" rotate-x="180" rotate-z="-147" type="rsp.ebg.off.trebuchets" GUID="8EVSRAA2J0mFIqwfHdpoLA=="/>
@@ -491,6 +498,15 @@
 		<POI MapID="38" xpos="-164.638" ypos="42.7071" zpos="155.801" heightoffset="0.25" rotate-x="180" rotate-z="45" type="rsp.ebg.off.trebuchets" GUID="Br/TRB6iTUKousmOqLZWqg=="/>
 		<POI MapID="38" xpos="-164.638" ypos="42.7071" zpos="155.801" info="Aim towards Stonemist Castle to hit its outer wall." triggerrange="10" type="rsp.settings.info" GUID="Br/TRB6iTUKousmOqLZWqA=="/>
 		<POI MapID="38" xpos="-164.638" ypos="42.7071" zpos="155.801" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="Br/TRB6iTUKousmOqLZWqA=="/>
+
+		<POI MapID="38" xpos="-330.254" ypos="12.6354" zpos="-128.288" heightoffset="0.25" rotate-x="180" rotate-z="75" type="rsp.ebg.off.trebuchets" GUID="II5v6MOva0qDqxpef6wD7A=="/>
+		<POI MapID="38" xpos="-330.254" ypos="12.6354" zpos="-128.288" info="Aim towards Stonemist Castle to hit its outer wall." triggerrange="10" type="rsp.settings.info" GUID="II5v6MOva0qDqxpef6wD7B=="/>
+		<POI MapID="38" xpos="-330.254" ypos="12.6354" zpos="-128.288" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="II5v6MOva0qDqxpef6wD7C=="/>
+
+		<!-- Wildcreek Run -->
+		<POI MapID="38" xpos="-98.856" ypos="43.7251" zpos="-157.782" heightoffset="0.25" rotate-x="180" rotate-z="-100" type="rsp.ebg.off.trebuchets" GUID="YLuVHaoQNEuAcqe1NQKNsQ=="/>
+		<POI MapID="38" xpos="-98.856" ypos="43.7251" zpos="-157.782" info="Aim towards Wildcreek Run to hit its wall." triggerrange="10" type="rsp.settings.info" GUID="YLuVHaoQNEuAcqe1NQKNsA=="/>
+		<POI MapID="38" xpos="-98.856" ypos="43.7251" zpos="-157.782" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="YLuVHaoQNEuAcqe1NQKNsB=="/>
 
 		<!--
 			Trebuchets: Defensive
