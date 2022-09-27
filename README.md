@@ -1,6 +1,6 @@
 # Rediche's World vs. World Marker Pack
 
-World vs. World can be a difficult game mode to learn and this marker pack sets out to help new players get accostomed to placement of siege and additional information on why certain locations work, even though they seem like they might not.
+World vs. World can be a difficult game mode to learn and this marker pack sets out to help new players get accustomed to placement of siege and additional information on why certain locations work, even though they seem like they might not.
 
 Currently you can find siege placements for every World vs. World map, not including Edge of the Mists.
 
