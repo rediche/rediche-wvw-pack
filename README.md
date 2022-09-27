@@ -22,11 +22,11 @@ We do not recommend using this pack with TacO because the marker pack heavily re
         - [x] Lowlands Keep
         - [x] Rouge's Quarry
         - [x] Wildcreek Run
-    - [ ] Reds
+    - [x] Reds
         - [x] Anzalias Pass
         - [x] Mendon's Gap
         - [x] Ogrewatch Cut
-        - [ ] Overlook Keep (Directions, defensive trebs)
+        - [x] Overlook Keep
         - [x] Pangloss Rise
         - [x] Speldans Clearcut
         - [x] Veloka Slope

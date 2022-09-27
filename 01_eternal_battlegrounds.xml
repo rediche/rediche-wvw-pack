@@ -549,6 +549,10 @@
 		<POI MapID="38" xpos="-663.752" ypos="19.7327" zpos="-325.737" heightoffset="0.25" rotate-x="180" rotate-z="70" type="rsp.ebg.off.trebuchets" GUID="NS660hewVEy1/g1sMUGlbw=="/>
 		<POI MapID="38" xpos="-663.752" ypos="19.7327" zpos="-325.737" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="NS660hewVEy1/g1sMUGlbA=="/>
 
+		<!-- Ogrewatch Cut -->
+		<POI MapID="38" xpos="209.7" ypos="73.8819" zpos="384.168" heightoffset="0.25" rotate-x="180" rotate-z="40" type="rsp.ebg.def.trebuchets" GUID="qwtm0OKChUuTLpgGkqz4vg=="/>
+		<POI MapID="38" xpos="209.7" ypos="73.8819" zpos="384.168" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.def.trebuchets" GUID="qwtm0OKChUuTLpgGkqz4vA=="/>
+
 		<!-- Overlook Keep -->
 		<POI MapID="38" xpos="-46.0435" ypos="61.7672" zpos="221.294" heightoffset="0.25" rotate-x="180" rotate-z="130" type="rsp.ebg.off.trebuchets" GUID="qBB4Kwqb/UeC6V+Q8vlrLQ=="/>
 		<POI MapID="38" xpos="-46.0435" ypos="61.7672" zpos="221.294" info="You can hit both the outer wall and the inner wall with this trebuchet. The arrow on the ground is the direction at which you can hit the inner wall." triggerrange="10" type="rsp.settings.info" GUID="qBB4Kwqb/UeC6V+Q8vlrLA=="/>
@@ -594,10 +598,9 @@
 		<POI MapID="38" xpos="-407.396" ypos="17.2036" zpos="-331.245" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.def.trebuchets" GUID="KXOqFlyjwECZJP5Y5HkgrA=="/>
 
 		<!-- Overlook Keep -->
-		<POI MapID="38" xpos="209.7" ypos="73.8819" zpos="384.168" type="rsp.ebg.def.trebuchets" GUID="qwtm0OKChUuTLpgGkqz4vg=="/>
-		<POI MapID="38" xpos="212.265" ypos="78.5853" zpos="425.704" type="rsp.ebg.def.trebuchets" GUID="EOXpaIGZEUiwcQESV91SRg=="/>
-		<POI MapID="38" xpos="74.6754" ypos="43.0025" zpos="312.628" type="rsp.ebg.def.trebuchets" GUID="dbfM6eJJc0G24TvXAIe5Dw=="/>
-		<POI MapID="38" xpos="41.0395" ypos="44.6401" zpos="336.925" type="rsp.ebg.def.trebuchets" GUID="ZQJjVO+IPkyNUcz8UNLS2A=="/>
+		<POI MapID="38" xpos="38.0963" ypos="44.46" zpos="335.458" heightoffset="0.25" rotate-x="180" rotate-z="-35" type="rsp.ebg.def.trebuchets" GUID="DlMoV9FxC0aGTaGgVDZ9VA=="/>
+		<POI MapID="38" xpos="38.0963" ypos="44.46" zpos="335.458" info="You can use this trebuchet to either attack Anzalias Pass or defend against catapults and trebuchets on top of the cliff." triggerrange="10" type="rsp.settings.info" GUID="DlMoV9FxC0aGTaGgVDZ9VB=="/>
+		<POI MapID="38" xpos="38.0963" ypos="44.46" zpos="335.458" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="DlMoV9FxC0aGTaGgVDZ9VC=="/>
 
 		<!-- Ogrewatch Cut -->
 		<POI MapID="38" xpos="319.367" ypos="32.0998" zpos="213.382" heightoffset="0.25" rotate-x="180" rotate-z="85" type="rsp.ebg.def.trebuchets" GUID="pwuiqwjzu06fmharNyEHpg=="/>
