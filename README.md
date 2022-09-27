@@ -24,7 +24,7 @@ We do not recommend using this pack with TacO because the marker pack heavily re
         - [x] Wildcreek Run
     - [ ] Reds
         - [x] Anzalias Pass
-        - [ ] Mendon's Gap (Missing all siege)
+        - [x] Mendon's Gap
         - [x] Ogrewatch Cut
         - [ ] Overlook Keep (Directions, defensive trebs)
         - [x] Pangloss Rise

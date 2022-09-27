@@ -82,6 +82,11 @@
 		<POI MapID="38" xpos="-370.515" ypos="17.2339" zpos="-354.237" type="rsp.ebg.def.arrow_carts" GUID="id8xwpSC6kG5yDz59isRyg=="/>
 		<POI MapID="38" xpos="-389.729" ypos="17.7564" zpos="-332.666" type="rsp.ebg.def.arrow_carts" GUID="eQ+d4wNRqEqhxEjoy08lGA=="/>
 
+		<!-- Mendon's Gap -->
+		<POI MapID="38" xpos="-160.307" ypos="55.0063" zpos="591.19" type="rsp.ebg.def.arrow_carts" GUID="4w5fwMw0Vka8TvZNSott/Q=="/>
+		<POI MapID="38" xpos="-162.631" ypos="55.1029" zpos="573.189" type="rsp.ebg.def.arrow_carts" GUID="3CY5gtI5JUCZ0yqDbctXHQ=="/>
+		<POI MapID="38" xpos="-117.639" ypos="54.959" zpos="591.467" type="rsp.ebg.def.arrow_carts" GUID="IKOMUxUMI0u7xpiwuGlf7g=="/>
+
 		<!-- Quentin Lake -->
 		<POI MapID="38" xpos="272.995" ypos="26.1548" zpos="-520.371" type="rsp.ebg.def.arrow_carts" GUID="dnReY7wFWUmv2LQ0Y9utLA==" />
 		<POI MapID="38" xpos="284.723" ypos="26.1644" zpos="-529.827" type="rsp.ebg.def.arrow_carts" GUID="bqQBTZBEf0G/W8oN7Jp2fw==" />
@@ -279,6 +284,10 @@
 		<POI MapID="38" xpos="-338.806" ypos="32.2971" zpos="-560.926" heightoffset="0.25" rotate-x="180" rotate-z="220" type="rsp.ebg.off.catapults" GUID="6bDuJl0cFU2kuiuqVWs7cQ=="/>
 		<POI MapID="38" xpos="-338.806" ypos="32.2971" zpos="-560.926" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="6bDuJl0cFU2kuiuqVWs7cQ=="/>
 
+		<!-- Mendon's Gap -->
+		<POI MapID="38" xpos="-248.456" ypos="43.0541" zpos="641.566" heightoffset="0.25" rotate-x="180" rotate-z="60" type="rsp.ebg.off.catapults" GUID="aihAuIioFE2ufwqyT+GNVw=="/>
+		<POI MapID="38" xpos="-248.456" ypos="43.0541" zpos="641.566" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="aihAuIioFE2ufwqyT+GNVA=="/>
+
 		<!-- Ogrewatch Cut -->
 		<POI MapID="38" xpos="463.064" ypos="42.3998" zpos="200.349" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.ebg.off.catapults" GUID="mLvC1qh3c0OOZ/0ycIh11w==" />
 		<POI MapID="38" xpos="463.064" ypos="42.3998" zpos="200.349" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="mLvC1qh3c0OOZ/0ycIh11A==" />
@@ -446,6 +455,10 @@
 		<POI MapID="38" xpos="-521.502" ypos="19.4513" zpos="-459.377" type="rsp.ebg.off.flame_rams" GUID="WTQSxHPhvkakDGMxnBssIw=="/>
 		<POI MapID="38" xpos="-369.926" ypos="5.05543" zpos="-343.781" type="rsp.ebg.off.flame_rams" GUID="tcD7KvdYikWy6PUMVhKRfw=="/>
 		<POI MapID="38" xpos="-378.673" ypos="5.02917" zpos="-333.463" type="rsp.ebg.off.flame_rams" GUID="latHzwN9hU+O9rylhqojNQ=="/>
+
+		<!-- Mendon's Gap -->
+		<POI MapID="38" xpos="-137.662" ypos="43.7632" zpos="601.333" type="rsp.ebg.off.flame_rams" GUID="YwdYA3La2kGNC46BoCdVyQ=="/>
+		<POI MapID="38" xpos="-142.716" ypos="43.7636" zpos="601.645" type="rsp.ebg.off.flame_rams" GUID="Dn59O8SH0ketuKWzCTCs6w=="/>
 
 		<!-- Overlook Keep -->
 		<POI MapID="38" xpos="173.977" ypos="58.5355" zpos="462.168" type="rsp.ebg.off.flame_rams" GUID="Suyb4hGgq06saHg3UF+QjA=="/>
