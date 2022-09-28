@@ -211,6 +211,10 @@
 		<POI MapID="95" xpos="189.484" ypos="22.937" zpos="-337.464" type="rsp.settings.info" info="Aim towards the tower to the south." triggerrange="10" GUID="CO/4Qm9fhEqiQD9FtFFDrA=="/>
 		<POI MapID="95" xpos="189.484" ypos="22.937" zpos="-337.464" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="CO/4Qm9fhEqiQD9FtFFDrB=="/>
 
+		<POI MapID="95" xpos="397.88" ypos="35.9911" zpos="-469.269" heightoffset="0.25" rotate-x="180" rotate-z="-108" type="rsp.gbl.off.catapults" GUID="ijzAmeRCWEamGkjM/O5v9w=="/>
+		<POI MapID="95" xpos="397.88" ypos="35.9911" zpos="-469.269" type="rsp.settings.info" info="Follow the arrow directions very carefully and fully charge the shot to hit the southern wall of the tower." triggerrange="10" GUID="ijzAmeRCWEamGkjM/O5v9w=="/>
+		<POI MapID="95" xpos="397.88" ypos="35.9911" zpos="-469.269" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="ijzAmeRCWEamGkjM/O5v9w=="/>
+
 		<!-- Southwest Tower -->
 		<POI MapID="95" xpos="-217.219" ypos="23.6716" zpos="-404.987" heightoffset="0.25" rotate-x="180" rotate-z="25" type="rsp.gbl.off.catapults" GUID="mWrXmit2rkSQn/cjBETMhA=="/>
 		<POI MapID="95" xpos="-217.219" ypos="23.6716" zpos="-404.987" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="mWrXmit2rkSQn/cjBETMhB=="/>
