@@ -340,7 +340,10 @@
             Trebuchets: Offensive
         -->
         
-		<!-- None, yet -->
+		<!-- East Keep (Air) -->
+		<POI MapID="1099" xpos="670.688" ypos="123.258" zpos="-447.072" heightoffset="0.25" rotate-x="180" rotate-z="-160" type="rsp.rbl.off.trebuchets" GUID="zHnHLtwKYE6LWd38PQpPGQ=="/>
+		<POI MapID="1099" xpos="670.688" ypos="123.258" zpos="-447.072" info="Use the arrow precisely and charge your shot 80-90% and you will hit the outer wall of Air keep." triggerrange="10" type="rsp.settings.info" GUID="zHnHLtwKYE6LWd38PQpPGA=="/>
+		<POI MapID="1099" xpos="670.688" ypos="123.258" zpos="-447.072" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.rbl.off.trebuchets" GUID="zHnHLtwKYE6LWd38PQpPGB=="/>
 		
         <!--
             Trebuchets: Defensive
