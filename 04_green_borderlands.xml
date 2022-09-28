@@ -356,7 +356,6 @@
 		<POI MapID="95" xpos="473.932" ypos="60.848" zpos="243.4" heightoffset="0.25" rotate-x="180" rotate-z="-105" type="rsp.gbl.off.trebuchets" GUID="n1+ypxjydUaudtq9eIeF3Q=="/>
 		<POI MapID="95" xpos="473.932" ypos="60.848" zpos="243.4" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="n1+ypxjydUaudtq9eIeF3Q=="/>
 
-
 		<!-- Northwest Tower -->
 		<POI MapID="95" xpos="-458.042" ypos="109.13" zpos="556.046" heightoffset="0.25" rotate-x="180" rotate-z="30" type="rsp.gbl.off.trebuchets" GUID="uqMkFRnhqE+CNm1K+3CgPw=="/>
 		<POI MapID="95" xpos="-458.042" ypos="109.13" zpos="556.046" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="uqMkFRnhqE+CNm1K+3CgPA=="/>
