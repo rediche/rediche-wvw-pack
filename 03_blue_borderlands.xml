@@ -171,6 +171,10 @@
 		<POI MapID="96" xpos="480.853" ypos="69.5007" zpos="-225.085" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.bbl.off.catapults" GUID="YLEhqIcuVUSYLDZIgzaUwQ=="/>
 		<POI MapID="96" xpos="480.853" ypos="69.5007" zpos="-225.085" info="Aim towards the wall upstairs.&#xA;&#xA;Splash damage will still hit it and you will be less exposed down here." triggerrange="10" type="rsp.settings.info" GUID="YLEhqIcuVUSYLDZIgzaUwB=="/>
 		<POI MapID="96" xpos="480.853" ypos="69.5007" zpos="-225.085" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.off.catapults" GUID="YLEhqIcuVUSYLDZIgzaUwA=="/>
+		
+		<POI MapID="96" xpos="542.274" ypos="53.75" zpos="74.1426" heightoffset="0.25" rotate-x="180" rotate-z="-5" type="rsp.bbl.off.catapults" GUID="GpGf9z8BdEKCGR2gvZ7LbA=="/>
+		<POI MapID="96" xpos="542.274" ypos="53.75" zpos="74.1426" info="Charge fully to hit the outer wall of the keep." triggerrange="10" GUID="GpGf9z8BdEKCGR2gvZ7LbB=="/>
+		<POI MapID="96" xpos="542.274" ypos="53.75" zpos="74.1426" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.off.catapults" GUID="GpGf9z8BdEKCGR2gvZ7LbC=="/>
 
 		<!-- Garrison -->
 		<POI MapID="96" xpos="-152.96" ypos="73.1926" zpos="226.934" heightoffset="0.25" rotate-x="180" rotate-z="60" type="rsp.bbl.off.catapults" GUID="YVdpxTEXQUeGgfXc4ssT3A=="/>
@@ -350,8 +354,8 @@
 		
 		<!-- East Keep (Hills) -->
 		<POI MapID="96" xpos="595.049" ypos="70.63" zpos="192.909" heightoffset="0.25" rotate-x="180" rotate-z="-15" type="rsp.bbl.off.trebuchets" GUID="QPC9nJgTP0eb1Ql5M23fMw=="/>
-		<POI MapID="96" xpos="595.049" ypos="70.63" zpos="192.909" type="rsp.settings.info" info="Aim carefully as the arrow tells you. You can only hit a single wall on the keep from here." triggerrange="10" GUID="QPC9nJgTP0eb1Ql5M23fMw=="/>
-		<POI MapID="96" xpos="595.049" ypos="70.63" zpos="192.909" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.off.trebuchets" GUID="QPC9nJgTP0eb1Ql5M23fMw=="/>
+		<POI MapID="96" xpos="595.049" ypos="70.63" zpos="192.909" type="rsp.settings.info" info="Aim carefully as the arrow tells you. You can only hit a single wall on the keep from here." triggerrange="10" GUID="QPC9nJgTP0eb1Ql5M23fMA=="/>
+		<POI MapID="96" xpos="595.049" ypos="70.63" zpos="192.909" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.off.trebuchets" GUID="QPC9nJgTP0eb1Ql5M23fMB=="/>
 
 		<!-- Garrison -->
 		<POI MapID="96" xpos="-358.295" ypos="92.9191" zpos="358.685" heightoffset="0.25" rotate-x="180" rotate-z="55" type="rsp.bbl.off.trebuchets" GUID="jMV4+Odd5k6NKeuAZVNmSg=="/>
