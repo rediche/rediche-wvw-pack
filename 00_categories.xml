@@ -88,6 +88,7 @@
 			<MarkerCategory DisplayName="Rediche.6821" name="credit_rediche" isSeparator="1" />
 			<MarkerCategory DisplayName="OneHitWonder.5741" name="credit_boogie" isSeparator="1" />
 			<MarkerCategory DisplayName="Sheff.4851" name="credit_sheff" isSeparator="1" />
+			<MarkerCategory DisplayName="nordilf.1732" name="credit_nordilf" isSeparator="1" />
 		</MarkerCategory>
 
 		<MarkerCategory DisplayName="Links:" name="links" bh-isSeparator="1">
