@@ -240,9 +240,9 @@
 		<POI MapID="38" xpos="540.379" ypos="17.7496" zpos="-86.4463" heightoffset="0.25" rotate-x="180" rotate-z="-75" type="rsp.ebg.off.catapults" GUID="DLrQHNInXUOWLfOzcXIMrA==" />
 		<POI MapID="38" xpos="540.379" ypos="17.7496" zpos="-86.4463" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="DLrQHNInXUOWLfOzcXIMrB==" />
 
-		<POI MapID="38" xpos="469.885" ypos="30.3709" zpos="-5.53607" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.ebg.off.catapults" GUID="EyTavlKfSU2Vd/duE5tzBg==" />
-		<POI MapID="38" xpos="469.885" ypos="30.3709" zpos="-5.53607" info="Shoot towards Durios Gulch. The splash damage of the catapult shot will hit the wall." triggerrange="10" type="rsp.settings.info" GUID="EyTavlKfSU2Vd/duE5tzBA==" />
-		<POI MapID="38" xpos="469.885" ypos="30.3709" zpos="-5.53607" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="EyTavlKfSU2Vd/duE5tzBB==" />
+		<POI MapID="38" xpos="461.946" ypos="56.688" zpos="23.782" heightoffset="0.25" rotate-x="180" rotate-z="10" type="rsp.ebg.off.catapults" GUID="EyTavlKfSU2Vd/duE5tzBg==" />
+		<POI MapID="38" xpos="461.946" ypos="56.688" zpos="23.782" info="Shoot towards Durios Gulch. The splash damage of the catapult shot will hit the wall." triggerrange="10" type="rsp.settings.info" GUID="EyTavlKfSU2Vd/duE5tzBA==" />
+		<POI MapID="38" xpos="461.946" ypos="56.688" zpos="23.782" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="EyTavlKfSU2Vd/duE5tzBB==" />
 
 		<!-- Jerrifer's Slough -->
 		<POI MapID="38" xpos="-438.549" ypos="13.1073" zpos="-659.312" heightoffset="0.25" rotate-x="180" rotate-z="-190" type="rsp.ebg.off.catapults" GUID="aG1bW8OcNEmTEOz/e13xsw=="/>
