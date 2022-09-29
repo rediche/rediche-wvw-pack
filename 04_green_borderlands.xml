@@ -238,6 +238,10 @@
 		<POI MapID="95" xpos="-57.0875" ypos="20.8952" zpos="-497.228" type="rsp.settings.info" info="Aim towards the tower to the west." triggerrange="10" GUID="S0PNGoV/TUmg0jGSGQzyHA=="/>
 		<POI MapID="95" xpos="-57.0875" ypos="20.8952" zpos="-497.228" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="S0PNGoV/TUmg0jGSGQzyHB=="/>
 
+		<POI MapID="95" xpos="-231.561" ypos="32.6948" zpos="-317.48" heightoffset="0.25" rotate-x="180" rotate-z="10" type="rsp.gbl.off.catapults" GUID="eA5Vh69CqkiNhtzujffs7w=="/>
+		<POI MapID="95" xpos="-231.561" ypos="32.6948" zpos="-317.48" type="rsp.settings.info" info="Splash damage will hit the wall if you just shoot straight ahead." triggerrange="10" GUID="eA5Vh69CqkiNhtzujffs7A=="/>
+		<POI MapID="95" xpos="-231.561" ypos="32.6948" zpos="-317.48" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="eA5Vh69CqkiNhtzujffs7B=="/>
+
 		<!-- West Keep (Bay) -->
 		<POI MapID="95" xpos="-351.163" ypos="3.73677" zpos="-97.1394" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.gbl.off.catapults" GUID="ylmJldba4kSy/J27lAZNRA=="/>
 		<POI MapID="95" xpos="-351.163" ypos="3.73677" zpos="-97.1394" info="Aim for the connection between the two destroyable walls. This will hit both and deal more damage." triggerrange="10" type="rsp.settings.info" GUID="ylmJldba4kSy/J27lAZNRB=="/>
