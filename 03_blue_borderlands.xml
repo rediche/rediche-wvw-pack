@@ -173,7 +173,7 @@
 		<POI MapID="96" xpos="480.853" ypos="69.5007" zpos="-225.085" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.off.catapults" GUID="YLEhqIcuVUSYLDZIgzaUwA=="/>
 		
 		<POI MapID="96" xpos="542.274" ypos="53.75" zpos="74.1426" heightoffset="0.25" rotate-x="180" rotate-z="-5" type="rsp.bbl.off.catapults" GUID="GpGf9z8BdEKCGR2gvZ7LbA=="/>
-		<POI MapID="96" xpos="542.274" ypos="53.75" zpos="74.1426" info="Charge fully to hit the outer wall of the keep." triggerrange="10" GUID="GpGf9z8BdEKCGR2gvZ7LbB=="/>
+		<POI MapID="96" xpos="542.274" ypos="53.75" zpos="74.1426" info="Charge fully to hit the outer wall of the keep." triggerrange="10" type="rsp.settings.info" GUID="GpGf9z8BdEKCGR2gvZ7LbB=="/>
 		<POI MapID="96" xpos="542.274" ypos="53.75" zpos="74.1426" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.off.catapults" GUID="GpGf9z8BdEKCGR2gvZ7LbC=="/>
 
 		<!-- Garrison -->
