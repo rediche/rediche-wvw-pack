@@ -211,8 +211,8 @@
 		<POI MapID="96" xpos="-381.046" ypos="80.6114" zpos="401.147" heightoffset="0.25" rotate-x="180" rotate-z="70" type="rsp.bbl.off.catapults" GUID="fJzIRH8tt0W22AlXEI0g0g=="/>
 		<POI MapID="96" xpos="-381.046" ypos="80.6114" zpos="401.147" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.off.catapults" GUID="fJzIRH8tt0W22AlXEI0g0A=="/>
 
-		<POI MapID="96" xpos="-419.006" ypos="100.053" zpos="507.781" heightoffset="0.25" rotate-x="180" rotate-z="25" type="rsp.bbl.off.catapults" GUID="sawMIOykck+On64Jd23Dng=="/>
-		<POI MapID="96" xpos="-419.006" ypos="100.053" zpos="507.781" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.off.catapults" GUID="sawMIOykck+On64Jd23DnA=="/>
+		<POI MapID="96" xpos="-451.013" ypos="106.134" zpos="503.961" heightoffset="0.25" rotate-x="180" rotate-z="35" type="rsp.bbl.off.catapults" GUID="sawMIOykck+On64Jd23Dng=="/>
+		<POI MapID="96" xpos="-451.013" ypos="106.134" zpos="503.961" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.off.catapults" GUID="sawMIOykck+On64Jd23DnA=="/>
 
 		<!-- Southeast Tower -->
 		<POI MapID="96" xpos="237.288" ypos="13.7652" zpos="-430.263" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.bbl.off.catapults" GUID="MuEDryXwh0uX50H+8YO/XQ=="/>
