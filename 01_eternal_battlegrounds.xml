@@ -600,12 +600,12 @@
 		<!-- Overlook Keep -->
 		<POI MapID="38" xpos="38.0963" ypos="44.46" zpos="335.458" heightoffset="0.25" rotate-x="180" rotate-z="-35" type="rsp.ebg.def.trebuchets" GUID="DlMoV9FxC0aGTaGgVDZ9VA=="/>
 		<POI MapID="38" xpos="38.0963" ypos="44.46" zpos="335.458" info="You can use this trebuchet to either attack Anzalias Pass or defend against catapults and trebuchets on top of the cliff." triggerrange="10" type="rsp.settings.info" GUID="DlMoV9FxC0aGTaGgVDZ9VB=="/>
-		<POI MapID="38" xpos="38.0963" ypos="44.46" zpos="335.458" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="DlMoV9FxC0aGTaGgVDZ9VC=="/>
+		<POI MapID="38" xpos="38.0963" ypos="44.46" zpos="335.458" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.def.trebuchets" GUID="DlMoV9FxC0aGTaGgVDZ9VC=="/>
 
 		<!-- Ogrewatch Cut -->
 		<POI MapID="38" xpos="319.367" ypos="32.0998" zpos="213.382" heightoffset="0.25" rotate-x="180" rotate-z="85" type="rsp.ebg.def.trebuchets" GUID="pwuiqwjzu06fmharNyEHpg=="/>
 		<POI MapID="38" xpos="319.367" ypos="32.0998" zpos="213.382" info="Shoot towards attackers inside the Ogre camp." triggerrange="10" type="rsp.settings.info" GUID="pwuiqwjzu06fmharNyEHpg=="/>
-		<POI MapID="38" xpos="319.367" ypos="32.0998" zpos="213.382" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.trebuchets" GUID="pwuiqwjzu06fmharNyEHpg=="/>
+		<POI MapID="38" xpos="319.367" ypos="32.0998" zpos="213.382" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.def.trebuchets" GUID="pwuiqwjzu06fmharNyEHpg=="/>
 
 	</POIs>
 </OverlayData>

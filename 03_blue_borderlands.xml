@@ -279,9 +279,9 @@
 
 		<!-- East Keep (Hills) -->
 
-		<POI MapID="96" xpos="593.426" ypos="85.5938" zpos="-128.933" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.bbl.off.catapults" GUID="punuAI/uj0me9/lvIdPfDw=="/>
+		<POI MapID="96" xpos="593.426" ypos="85.5938" zpos="-128.933" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.bbl.def.catapults" GUID="punuAI/uj0me9/lvIdPfDw=="/>
 		<POI MapID="96" xpos="593.426" ypos="85.5938" zpos="-128.933" info="Don't charge your shot as you want to hit the gate from the inside." triggerrange="10" type="rsp.settings.info" GUID="punuAI/uj0me9/lvIdPfDA="/>
-		<POI MapID="96" xpos="593.426" ypos="85.5938" zpos="-128.933" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.off.catapults" GUID="punuAI/uj0me9/lvIdPfDB=="/>
+		<POI MapID="96" xpos="593.426" ypos="85.5938" zpos="-128.933" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.def.catapults" GUID="punuAI/uj0me9/lvIdPfDB=="/>
 
 		<!--
 			Flame Rams: Offensive
@@ -395,9 +395,9 @@
         -->
         
 		<!-- West Keep (Hills) -->
-		<POI MapID="96" xpos="-602.388" ypos="15.6166" zpos="-210.032" heightoffset="0.25" rotate-x="180" rotate-z="40" type="rsp.bbl.off.trebuchets" GUID="BD6Rwh4P6EGtvNec+5vBIQ=="/>
+		<POI MapID="96" xpos="-602.388" ypos="15.6166" zpos="-210.032" heightoffset="0.25" rotate-x="180" rotate-z="40" type="rsp.bbl.def.trebuchets" GUID="BD6Rwh4P6EGtvNec+5vBIQ=="/>
 		<POI MapID="96" xpos="-602.388" ypos="15.6166" zpos="-210.032" info="Aim towards the outer wall to either drain supplies from enemies or hit their catapults they are using to attack." triggerrange="10" type="rsp.settings.info" GUID="BD6Rwh4P6EGtvNec+5vBIA=="/>
-		<POI MapID="96" xpos="-602.388" ypos="15.6166" zpos="-210.032" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.off.trebuchets" GUID="BD6Rwh4P6EGtvNec+5vBIB=="/>
+		<POI MapID="96" xpos="-602.388" ypos="15.6166" zpos="-210.032" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.def.trebuchets" GUID="BD6Rwh4P6EGtvNec+5vBIB=="/>
 
 	</POIs>
 </OverlayData>
