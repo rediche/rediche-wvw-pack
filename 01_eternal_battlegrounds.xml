@@ -358,6 +358,10 @@
 		<POI MapID="38" xpos="722.838" ypos="32.4973" zpos="-441.433" heightoffset="0.25" rotate-x="180" rotate-z="-40" type="rsp.ebg.off.catapults" GUID="Bm84KTKynkqMj6St0V5D9Q==" />
 		<POI MapID="38" xpos="722.838" ypos="32.4973" zpos="-441.433" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="Bm84KTKynkqMj6St0V5D9Q==" />
 
+		<POI MapID="38" xpos="561.907" ypos="12.2957" zpos="-382.109" heightoffset="0.25" rotate-x="180" rotate-z="45" type="rsp.ebg.off.catapults" GUID="AypgIMmzr0eyuWv2jIjXAw=="/>
+		<POI MapID="38" xpos="561.907" ypos="12.2957" zpos="-382.109" info="Shoot straight ahead and you will hit the wall with splash damage.&#xA;&#xA;About 50% charge." triggerrange="10" type="rsp.settings.info" GUID="AypgIMmzr0eyuWv2jIjXAB=="/>
+		<POI MapID="38" xpos="561.907" ypos="12.2957" zpos="-382.109" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.ebg.off.catapults" GUID="AypgIMmzr0eyuWv2jIjXAC=="/>
+
 		<!-- Veloka Slope -->
 		<POI MapID="38" xpos="369.894" ypos="37.5325" zpos="495.055" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.ebg.off.catapults" GUID="859HjmDLxkSvor89a6bazA=="/>
 		<POI MapID="38" xpos="369.894" ypos="37.5325" zpos="495.055" info="Beware the ease at which the enemies can hit you with Arrow Cart fire in this location." triggerrange="10" type="rsp.settings.info" GUID="859HjmDLxkSvor89a6bazB=="/>
