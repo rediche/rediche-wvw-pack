@@ -175,6 +175,10 @@
 		<POI MapID="96" xpos="542.274" ypos="53.75" zpos="74.1426" heightoffset="0.25" rotate-x="180" rotate-z="-5" type="rsp.bbl.off.catapults" GUID="GpGf9z8BdEKCGR2gvZ7LbA=="/>
 		<POI MapID="96" xpos="542.274" ypos="53.75" zpos="74.1426" info="Charge fully to hit the outer wall of the keep." triggerrange="10" type="rsp.settings.info" GUID="GpGf9z8BdEKCGR2gvZ7LbB=="/>
 		<POI MapID="96" xpos="542.274" ypos="53.75" zpos="74.1426" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.off.catapults" GUID="GpGf9z8BdEKCGR2gvZ7LbC=="/>
+		
+		<POI MapID="96" xpos="475.076" ypos="70.9316" zpos="-64.6093" heightoffset="0.25" rotate-x="180" rotate-z="10" type="rsp.bbl.off.catapults" GUID="EMga4T5HiEKy1okwSUn8Zg=="/>
+		<POI MapID="96" xpos="475.076" ypos="70.9316" zpos="-64.6093" info="Tuck the catapult as far into the corner as possible. It will make it more difficult to hit." triggerrange="10" type="rsp.settings.info" GUID="EMga4T5HiEKy1okwSUn8ZA=="/>
+		<POI MapID="96" xpos="475.076" ypos="70.9316" zpos="-64.6093" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.off.catapults" GUID="EMga4T5HiEKy1okwSUn8ZB=="/>
 
 		<!-- Garrison -->
 		<POI MapID="96" xpos="-152.96" ypos="73.1926" zpos="226.934" heightoffset="0.25" rotate-x="180" rotate-z="60" type="rsp.bbl.off.catapults" GUID="YVdpxTEXQUeGgfXc4ssT3A=="/>
