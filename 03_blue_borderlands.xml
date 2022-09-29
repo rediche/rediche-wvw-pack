@@ -347,6 +347,11 @@
 		<!--
             Trebuchets: Offensive
         -->
+		
+		<!-- East Keep (Hills) -->
+		<POI MapID="96" xpos="595.049" ypos="70.63" zpos="192.909" heightoffset="0.25" rotate-x="180" rotate-z="-15" type="rsp.bbl.off.trebuchets" GUID="QPC9nJgTP0eb1Ql5M23fMw=="/>
+		<POI MapID="96" xpos="595.049" ypos="70.63" zpos="192.909" type="rsp.settings.info" info="Aim carefully as the arrow tells you. You can only hit a single wall on the keep from here." triggerrange="10" GUID="QPC9nJgTP0eb1Ql5M23fMw=="/>
+		<POI MapID="96" xpos="595.049" ypos="70.63" zpos="192.909" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.bbl.off.trebuchets" GUID="QPC9nJgTP0eb1Ql5M23fMw=="/>
 
 		<!-- Garrison -->
 		<POI MapID="96" xpos="-358.295" ypos="92.9191" zpos="358.685" heightoffset="0.25" rotate-x="180" rotate-z="55" type="rsp.bbl.off.trebuchets" GUID="jMV4+Odd5k6NKeuAZVNmSg=="/>
