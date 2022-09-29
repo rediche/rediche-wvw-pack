@@ -86,6 +86,7 @@
 
 		<MarkerCategory DisplayName="Contributors:" name="credits" bh-isSeparator="1">
 			<MarkerCategory DisplayName="Rediche.6821" name="credit_rediche" isSeparator="1" />
+			<MarkerCategory DisplayName="Sheff.4851" name="credit_sheff" isSeparator="1" />
 		</MarkerCategory>
 
 		<MarkerCategory DisplayName="Links:" name="links" bh-isSeparator="1">
