@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <OverlayData>
-	<MarkerCategory DisplayName="Rediche's Siege Pack" name="rsp" iconSize="1">
+	<MarkerCategory DisplayName="Rediche's Siege Pack" name="rsp">
 
 		<MarkerCategory DisplayName="Eternal Battlegrounds" name="ebg">
 			<MarkerCategory DisplayName="Offensive" name="off">
