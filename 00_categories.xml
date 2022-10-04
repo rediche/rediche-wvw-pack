@@ -93,7 +93,7 @@
 
 		<MarkerCategory DisplayName="Links:" name="links" bh-isSeparator="1">
 			<MarkerCategory DisplayName="Discord: https://gw2.link/discord" name="link_discord" isSeparator="1" />
-			<MarkerCategory DisplayName="GitHub: https://gw2.link/rsp" name="link_github" isSeparator="1" />
+			<MarkerCategory DisplayName="GitHub: https://github.com/rediche/rediche-wvw-pack" name="link_github" isSeparator="1" />
 			<MarkerCategory DisplayName="Twitter: https://twitter.com/RedicheGG" name="link_twitter" isSeparator="1" />
 		</MarkerCategory>
 
