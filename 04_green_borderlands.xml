@@ -13,10 +13,6 @@
 		-->
 
 		<!-- East Keep (Hills) -->
-		<POI MapID="95" xpos="494.222" ypos="82.6211" zpos="-67.5343" type="rsp.gbl.def.arrow_carts" GUID="1AOlgh5N10+8BYMM0GOm+g=="/>
-		<POI MapID="95" xpos="490.495" ypos="82.6235" zpos="-94.6624" type="rsp.gbl.def.arrow_carts" GUID="MPyNYWKTgUyvsZd7Z3Eviw=="/>
-		<POI MapID="95" xpos="526.648" ypos="82.4706" zpos="-36.4737" type="rsp.gbl.def.arrow_carts" GUID="uazYxzCX1E+NfX6nga8i6w=="/>
-		<POI MapID="95" xpos="541.771" ypos="82.5444" zpos="-37.5741" type="rsp.gbl.def.arrow_carts" GUID="oOusK9lNq0a8szi3oclZKQ=="/>
 		<POI MapID="95" xpos="494.222" ypos="82.6211" zpos="-67.5343" type="rsp.gbl.def.arrow_carts" GUID="Bg77qOBy5kyTJxuoOXd9oQ==" />
 		<POI MapID="95" xpos="490.495" ypos="82.6235" zpos="-94.6624" type="rsp.gbl.def.arrow_carts" GUID="rs5xeNKPQUSOZl5+2LCWWA==" />
 		<POI MapID="95" xpos="513.505" ypos="82.2477" zpos="-52.102" type="rsp.gbl.def.arrow_carts" GUID="rgLKM0uzv0eehOTEduyLMw==" />
