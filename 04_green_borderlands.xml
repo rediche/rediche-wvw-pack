@@ -13,132 +13,132 @@
 		-->
 
 		<!-- East Keep (Hills) -->
-		<POI MapID="95" xpos="494.222" ypos="82.6211" zpos="-67.5343" type="rsp.gbl.def.arrow_carts" GUID="1AOlgh5N10+8BYMM0GOm+g=="/>
-		<POI MapID="95" xpos="490.495" ypos="82.6235" zpos="-94.6624" type="rsp.gbl.def.arrow_carts" GUID="MPyNYWKTgUyvsZd7Z3Eviw=="/>
-		<POI MapID="95" xpos="513.505" ypos="82.2477" zpos="-52.102" type="rsp.gbl.def.arrow_carts" GUID="gJNvNuUYW02rsy2SEnn8RA=="/>
-		<POI MapID="95" xpos="526.648" ypos="82.4706" zpos="-36.4737" type="rsp.gbl.def.arrow_carts" GUID="uazYxzCX1E+NfX6nga8i6w=="/>
-		<POI MapID="95" xpos="541.771" ypos="82.5444" zpos="-37.5741" type="rsp.gbl.def.arrow_carts" GUID="oOusK9lNq0a8szi3oclZKQ=="/>
-		<POI MapID="95" xpos="678.121" ypos="101.204" zpos="-51.6179" type="rsp.gbl.def.arrow_carts" GUID="lTPwNfMh6UKyQXKmG6XQyQ=="/>
-		<POI MapID="95" xpos="714.017" ypos="101.292" zpos="-51.7409" type="rsp.gbl.def.arrow_carts" GUID="t6HX8XrT10W5C48Wf7WqFA=="/>
-		<POI MapID="95" xpos="708.717" ypos="101.784" zpos="-61.2858" type="rsp.gbl.def.arrow_carts" GUID="IPOEbRMLHUi1dT5pPBgKKw=="/>
-		<POI MapID="95" xpos="576.02" ypos="92.1796" zpos="-152.127" type="rsp.gbl.def.arrow_carts" GUID="Aw0D+5zpIU+UMIC2nPdl3w=="/>
-		<POI MapID="95" xpos="605.891" ypos="91.5309" zpos="-155.974" type="rsp.gbl.def.arrow_carts" GUID="RP1iSV9FmEqCzlS0N9rJHw=="/>
-		<POI MapID="95" xpos="573.494" ypos="92.2934" zpos="-138.263" type="rsp.gbl.def.arrow_carts" GUID="krs18Kbtm0WQ/6YCcE3Czw=="/>
-		<POI MapID="95" xpos="573.189" ypos="91.9917" zpos="-111.377" type="rsp.gbl.def.arrow_carts" GUID="0h3ZpOh7UEaEg9shH/vCJQ=="/>
-		<POI MapID="95" xpos="573.174" ypos="92.08" zpos="-104.18" type="rsp.gbl.def.arrow_carts" GUID="vHfSHgVPE0++A2+6C5KOSA=="/>
-		<POI MapID="95" xpos="607.397" ypos="91.5309" zpos="-102.738" type="rsp.gbl.def.arrow_carts" GUID="FMCP6ZQcXkK0K5GL6aZjMA=="/>
-		<POI MapID="95" xpos="506.243" ypos="90.2359" zpos="-95.2155" type="rsp.gbl.def.arrow_carts" GUID="mdaGkfvB2kugvsf4dPaCWw=="/>
-		<POI MapID="95" xpos="510.002" ypos="90.3494" zpos="-140.998" type="rsp.gbl.def.arrow_carts" GUID="riV5S3J7LUKPIIhTlmcnig=="/>
-		<POI MapID="95" xpos="513.585" ypos="93.5926" zpos="-166.827" type="rsp.gbl.def.arrow_carts" GUID="Jqut+DW02ESCihgoZjP+ow=="/>
-		<POI MapID="95" xpos="514.196" ypos="93.7581" zpos="-183.277" type="rsp.gbl.def.arrow_carts" GUID="2VcUPeZTh0mZWxsFFyeSlQ=="/>
-		<POI MapID="95" xpos="513.207" ypos="96.6023" zpos="-221.763" type="rsp.gbl.def.arrow_carts" GUID="4zQQdt2+pkCXw83iYBVkaA=="/>
-		<POI MapID="95" xpos="511.585" ypos="100.215" zpos="-246.861" type="rsp.gbl.def.arrow_carts" GUID="bplVk/i8sUCFKzhLvW9esQ=="/>
-		<POI MapID="95" xpos="513.315" ypos="104.103" zpos="-268.962" type="rsp.gbl.def.arrow_carts" GUID="6c2Feqh9lECR5OFbgHY8OQ=="/>
-		<POI MapID="95" xpos="526.704" ypos="86.5987" zpos="-265.646" type="rsp.gbl.def.arrow_carts" GUID="a1nZOa2lVkmMIfT5szeIQA=="/>
-		<POI MapID="95" xpos="534.762" ypos="64.4181" zpos="-263.774" type="rsp.gbl.def.arrow_carts" GUID="XJeszgVuxEWb19m+bRyZ2Q=="/>
-		<POI MapID="95" xpos="569.166" ypos="69.1014" zpos="-273.891" type="rsp.gbl.def.arrow_carts" GUID="thcPp00xREKOMsb5fqQetQ=="/>
+		<POI MapID="95" xpos="494.222" ypos="82.6211" zpos="-67.5343" type="rsp.gbl.def.arrow_carts" GUID="Bg77qOBy5kyTJxuoOXd9oQ==" />
+		<POI MapID="95" xpos="490.495" ypos="82.6235" zpos="-94.6624" type="rsp.gbl.def.arrow_carts" GUID="rs5xeNKPQUSOZl5+2LCWWA==" />
+		<POI MapID="95" xpos="513.505" ypos="82.2477" zpos="-52.102" type="rsp.gbl.def.arrow_carts" GUID="rgLKM0uzv0eehOTEduyLMw==" />
+		<POI MapID="95" xpos="526.648" ypos="82.4706" zpos="-36.4737" type="rsp.gbl.def.arrow_carts" GUID="LR9WFJj2bkqL2uVH6DRzbw==" />
+		<POI MapID="95" xpos="541.771" ypos="82.5444" zpos="-37.5741" type="rsp.gbl.def.arrow_carts" GUID="6ZDXgCkrME6HeYNaj/uoHg==" />
+		<POI MapID="95" xpos="678.121" ypos="101.204" zpos="-51.6179" type="rsp.gbl.def.arrow_carts" GUID="Usn+E5oLQUO4wBPUAN6uXg==" />
+		<POI MapID="95" xpos="714.017" ypos="101.292" zpos="-51.7409" type="rsp.gbl.def.arrow_carts" GUID="NUAgQwStik6SFYrzVs8Nqg==" />
+		<POI MapID="95" xpos="708.717" ypos="101.784" zpos="-61.2858" type="rsp.gbl.def.arrow_carts" GUID="lUkgUH+hvUS3+7P9YRchaw==" />
+		<POI MapID="95" xpos="576.02" ypos="92.1796" zpos="-152.127" type="rsp.gbl.def.arrow_carts" GUID="3acKSceV50+GOCZ6bIMWJw==" />
+		<POI MapID="95" xpos="605.891" ypos="91.5309" zpos="-155.974" type="rsp.gbl.def.arrow_carts" GUID="L+ibYboQy0awDnxHJC+X+Q==" />
+		<POI MapID="95" xpos="573.494" ypos="92.2934" zpos="-138.263" type="rsp.gbl.def.arrow_carts" GUID="8THa49FPC0SVnqmGzvNpdQ==" />
+		<POI MapID="95" xpos="573.189" ypos="91.9917" zpos="-111.377" type="rsp.gbl.def.arrow_carts" GUID="kjzhlJHmIkONYnZjo84UVg==" />
+		<POI MapID="95" xpos="573.174" ypos="92.08" zpos="-104.18" type="rsp.gbl.def.arrow_carts" GUID="dKfhOLJfhEKARHqUkSq2+w==" />
+		<POI MapID="95" xpos="607.397" ypos="91.5309" zpos="-102.738" type="rsp.gbl.def.arrow_carts" GUID="KAEDNuhuOEWZUpKiWvTaFA==" />
+		<POI MapID="95" xpos="506.243" ypos="90.2359" zpos="-95.2155" type="rsp.gbl.def.arrow_carts" GUID="LHnMH9UitUitzMEWiLXVyw==" />
+		<POI MapID="95" xpos="510.002" ypos="90.3494" zpos="-140.998" type="rsp.gbl.def.arrow_carts" GUID="chgpVZQ8Nk+4tF56bAHPpQ==" />
+		<POI MapID="95" xpos="513.585" ypos="93.5926" zpos="-166.827" type="rsp.gbl.def.arrow_carts" GUID="stXITm/lmkKddX9UMvBNoQ==" />
+		<POI MapID="95" xpos="514.196" ypos="93.7581" zpos="-183.277" type="rsp.gbl.def.arrow_carts" GUID="FNrmdMSP3ku1M5Ig+QF7ZQ==" />
+		<POI MapID="95" xpos="513.207" ypos="96.6023" zpos="-221.763" type="rsp.gbl.def.arrow_carts" GUID="2uGboF/MJEC1x4c6c0C3GA==" />
+		<POI MapID="95" xpos="511.585" ypos="100.215" zpos="-246.861" type="rsp.gbl.def.arrow_carts" GUID="sitBej36LUmTdy3WO9CyvQ==" />
+		<POI MapID="95" xpos="513.315" ypos="104.103" zpos="-268.962" type="rsp.gbl.def.arrow_carts" GUID="gj4E0Fen+U+i9PFOv6vKBw==" />
+		<POI MapID="95" xpos="526.704" ypos="86.5987" zpos="-265.646" type="rsp.gbl.def.arrow_carts" GUID="JXmQr+8cOEmrhtdDStYkQg==" />
+		<POI MapID="95" xpos="534.762" ypos="64.4181" zpos="-263.774" type="rsp.gbl.def.arrow_carts" GUID="IFGIZF7rAEe2Fgy4grsb8g==" />
+		<POI MapID="95" xpos="569.166" ypos="69.1014" zpos="-273.891" type="rsp.gbl.def.arrow_carts" GUID="LFOCg0cB4EKgEi1CNOy5jg==" />
 
 		<!-- Garrison -->
-		<POI MapID="95" xpos="-84.0655" ypos="81.4198" zpos="297.141" type="rsp.gbl.def.arrow_carts" GUID="+/axf57EREmwcfizsFF1oQ=="/>
-		<POI MapID="95" xpos="-112.142" ypos="83.5566" zpos="247.245" type="rsp.gbl.def.arrow_carts" GUID="CCe1/U2UvkqiRHD0rGrNvA=="/>
-		<POI MapID="95" xpos="-162.898" ypos="85.3223" zpos="173.708" type="rsp.gbl.def.arrow_carts" GUID="4ESdoHj7i0Wmpk7ChAF58g=="/>
-		<POI MapID="95" xpos="-152.866" ypos="85.4066" zpos="188.932" type="rsp.gbl.def.arrow_carts" GUID="yJajT76HvUSgX713laKstw=="/>
-		<POI MapID="95" xpos="-135.313" ypos="85.4222" zpos="214.65" type="rsp.gbl.def.arrow_carts" GUID="OAHxxAsW00qJWwDC3fkP0g=="/>
-		<POI MapID="95" xpos="-114.24" ypos="83.6584" zpos="254.25" type="rsp.gbl.def.arrow_carts" GUID="SGGWGO5LN0SVdniIlpKbXA=="/>
-		<POI MapID="95" xpos="-96.7883" ypos="81.8924" zpos="282.682" type="rsp.gbl.def.arrow_carts" GUID="Ffr/hmuPI0e+6lkscGz2uA=="/>
-		<POI MapID="95" xpos="23.7927" ypos="83.25" zpos="285.52" type="rsp.gbl.def.arrow_carts" GUID="IyTrlOITuUS+s7nBzB6DDw=="/>
-		<POI MapID="95" xpos="26.1659" ypos="83.5739" zpos="257.668" type="rsp.gbl.def.arrow_carts" GUID="6cpgTgWOT0KjdBulN1o1Rw=="/>
-		<POI MapID="95" xpos="36.7319" ypos="83.3876" zpos="247.472" type="rsp.gbl.def.arrow_carts" GUID="d1OHxFgq6E2EWgcbc1i8nQ=="/>
-		<POI MapID="95" xpos="75.9814" ypos="83.7826" zpos="247.83" type="rsp.gbl.def.arrow_carts" GUID="1bsNRo2TCESdsOpQ9F4hzA=="/>
-		<POI MapID="95" xpos="102.455" ypos="83.7812" zpos="222.597" type="rsp.gbl.def.arrow_carts" GUID="PD6ib+chd0qtw1Rf3+C1vQ=="/>
-		<POI MapID="95" xpos="100.884" ypos="83.7037" zpos="199.809" type="rsp.gbl.def.arrow_carts" GUID="lsfT7eNjc0C/FkgESCB9pQ=="/>
-		<POI MapID="95" xpos="96.1404" ypos="72.3595" zpos="176" type="rsp.gbl.def.arrow_carts" GUID="JM51e7sb4Uq8U+uzcwcyUQ=="/>
-		<POI MapID="95" xpos="110.207" ypos="59.0156" zpos="122.717" type="rsp.gbl.def.arrow_carts" GUID="BDLU1GfPyEiuKBX4zdSEEA=="/>
-		<POI MapID="95" xpos="12.5464" ypos="83.6421" zpos="207.419" type="rsp.gbl.def.arrow_carts" GUID="m82kcTvaDkq1oweUigNj5w=="/>
-		<POI MapID="95" xpos="12.9163" ypos="83.4774" zpos="225.235" type="rsp.gbl.def.arrow_carts" GUID="vu6fyAa8C0Sv1oEevxu/Ew=="/>
-		<POI MapID="95" xpos="-27.9965" ypos="83.6236" zpos="226.466" type="rsp.gbl.def.arrow_carts" GUID="cwE7Q/KLEEeUF8NvzXeS7A=="/>
-		<POI MapID="95" xpos="-36.0855" ypos="83.7308" zpos="225.061" type="rsp.gbl.def.arrow_carts" GUID="sAVhkj2PoEiuLd8nc8HvGQ=="/>
-		<POI MapID="95" xpos="-37.7088" ypos="83.5275" zpos="206.838" type="rsp.gbl.def.arrow_carts" GUID="YxsEj7CDRkO8AL3dKTl7Lg=="/>
-		<POI MapID="95" xpos="-58.0054" ypos="86.4648" zpos="163.891" type="rsp.gbl.def.arrow_carts" GUID="9wcvOVTkzEyOELPR0EIUMg=="/>
-		<POI MapID="95" xpos="-136.426" ypos="90.2775" zpos="143.917" type="rsp.gbl.def.arrow_carts" GUID="xMN+3oqkPU2mTMvmIVnXPQ=="/>
-		<POI MapID="95" xpos="-110.982" ypos="89.5228" zpos="148.742" type="rsp.gbl.def.arrow_carts" GUID="XPqe/wPpfkuOzc1WuxSMOA=="/>
-		<POI MapID="95" xpos="-12.0825" ypos="104.55" zpos="203.146" type="rsp.gbl.def.arrow_carts" GUID="8AAzxfCCxkmw/YJ6tLogtA=="/>
-		<POI MapID="95" xpos="-12.8908" ypos="86.7234" zpos="206.356" type="rsp.gbl.def.arrow_carts" GUID="n15nQajcc0SsjPo/tMIVhg=="/>
-		<POI MapID="95" xpos="-33.0075" ypos="86.4648" zpos="105.671" type="rsp.gbl.def.arrow_carts" GUID="Q21+zryvUU62OtUHZ7inVw=="/>
-		<POI MapID="95" xpos="17.1912" ypos="86.4648" zpos="109.354" type="rsp.gbl.def.arrow_carts" GUID="JWZf8Ojnv02qffamJGxemQ=="/>
-		<POI MapID="95" xpos="16.0012" ypos="44.4042" zpos="35.1847" type="rsp.gbl.def.arrow_carts" GUID="PcXRiICx8kuiCHhl1exetA=="/>
-		<POI MapID="95" xpos="20.0425" ypos="43.7612" zpos="72.5894" type="rsp.gbl.def.arrow_carts" GUID="PpxQ+L8Al0GHWX/H2ETsvg=="/>
-		<POI MapID="95" xpos="23.2076" ypos="69.4186" zpos="87.9001" type="rsp.gbl.def.arrow_carts" GUID="WejV3KwoWEuzmcZVneZjvw=="/>
-		<POI MapID="95" xpos="80.0147" ypos="44.4007" zpos="68.8687" type="rsp.gbl.def.arrow_carts" GUID="eZPzAF6TNU+Uu5u1dPeOog=="/>
+		<POI MapID="95" xpos="-84.0655" ypos="81.4198" zpos="297.141" type="rsp.gbl.def.arrow_carts" GUID="YIOBwqfUXE+aLC8L94NkOg==" />
+		<POI MapID="95" xpos="-112.142" ypos="83.5566" zpos="247.245" type="rsp.gbl.def.arrow_carts" GUID="Ko1iUAGqJEq1cgo9xTrtHQ==" />
+		<POI MapID="95" xpos="-162.898" ypos="85.3223" zpos="173.708" type="rsp.gbl.def.arrow_carts" GUID="8JVbuVRh/EWtrbQs083rdg==" />
+		<POI MapID="95" xpos="-152.866" ypos="85.4066" zpos="188.932" type="rsp.gbl.def.arrow_carts" GUID="Rl30JPqYXEitCwwnNE//sQ==" />
+		<POI MapID="95" xpos="-135.313" ypos="85.4222" zpos="214.65" type="rsp.gbl.def.arrow_carts" GUID="NzJrUwJsUkGICvlMm57x6A==" />
+		<POI MapID="95" xpos="-114.24" ypos="83.6584" zpos="254.25" type="rsp.gbl.def.arrow_carts" GUID="N4yz5Bj02EGhQVyz0hVrnQ==" />
+		<POI MapID="95" xpos="-96.7883" ypos="81.8924" zpos="282.682" type="rsp.gbl.def.arrow_carts" GUID="CE33mXYKQEOqd/bUIeK3mg==" />
+		<POI MapID="95" xpos="23.7927" ypos="83.25" zpos="285.52" type="rsp.gbl.def.arrow_carts" GUID="6IDBrb/w00yaa1nhgec04Q==" />
+		<POI MapID="95" xpos="26.1659" ypos="83.5739" zpos="257.668" type="rsp.gbl.def.arrow_carts" GUID="279OosTvjUa2IfsAGV6m0w==" />
+		<POI MapID="95" xpos="36.7319" ypos="83.3876" zpos="247.472" type="rsp.gbl.def.arrow_carts" GUID="hdCs0HU8DEetPN3LYjTF5w==" />
+		<POI MapID="95" xpos="75.9814" ypos="83.7826" zpos="247.83" type="rsp.gbl.def.arrow_carts" GUID="xaTJ2xKaukeJO6I+Ywql4A==" />
+		<POI MapID="95" xpos="102.455" ypos="83.7812" zpos="222.597" type="rsp.gbl.def.arrow_carts" GUID="/BBrjYCx4U2r9T42pEbKdA==" />
+		<POI MapID="95" xpos="100.884" ypos="83.7037" zpos="199.809" type="rsp.gbl.def.arrow_carts" GUID="rrGADcYMQ0Sy0MK8L0OBug==" />
+		<POI MapID="95" xpos="96.1404" ypos="72.3595" zpos="176" type="rsp.gbl.def.arrow_carts" GUID="qE85foSAykWBECKVGeisIA==" />
+		<POI MapID="95" xpos="110.207" ypos="59.0156" zpos="122.717" type="rsp.gbl.def.arrow_carts" GUID="5nJq5Ujma0qvY/1IjleYMw==" />
+		<POI MapID="95" xpos="12.5464" ypos="83.6421" zpos="207.419" type="rsp.gbl.def.arrow_carts" GUID="7SUZdD9LfEyFmO0cqFPYlg==" />
+		<POI MapID="95" xpos="12.9163" ypos="83.4774" zpos="225.235" type="rsp.gbl.def.arrow_carts" GUID="mJ9U8bG1i0K+cA1cPY30rQ==" />
+		<POI MapID="95" xpos="-27.9965" ypos="83.6236" zpos="226.466" type="rsp.gbl.def.arrow_carts" GUID="JpXhWlbaBkapziLtWr9H+w==" />
+		<POI MapID="95" xpos="-36.0855" ypos="83.7308" zpos="225.061" type="rsp.gbl.def.arrow_carts" GUID="O4yOJc+Aj0WUK5FEVUJkKQ==" />
+		<POI MapID="95" xpos="-37.7088" ypos="83.5275" zpos="206.838" type="rsp.gbl.def.arrow_carts" GUID="KPVE4LjhYkyivFPQ/RgPtw==" />
+		<POI MapID="95" xpos="-58.0054" ypos="86.4648" zpos="163.891" type="rsp.gbl.def.arrow_carts" GUID="1Bv5cSVr+U+I8ivk1WnjVA==" />
+		<POI MapID="95" xpos="-136.426" ypos="90.2775" zpos="143.917" type="rsp.gbl.def.arrow_carts" GUID="W2tZbxImzUma7OqbbICwQg==" />
+		<POI MapID="95" xpos="-110.982" ypos="89.5228" zpos="148.742" type="rsp.gbl.def.arrow_carts" GUID="KD+k1RiACkCo5uxJBV3dug==" />
+		<POI MapID="95" xpos="-12.0825" ypos="104.55" zpos="203.146" type="rsp.gbl.def.arrow_carts" GUID="OkHX8Lcb8ECxIOuXXpgaSg==" />
+		<POI MapID="95" xpos="-12.8908" ypos="86.7234" zpos="206.356" type="rsp.gbl.def.arrow_carts" GUID="mx8sn6ocP0CPdEisyjmPsQ==" />
+		<POI MapID="95" xpos="-33.0075" ypos="86.4648" zpos="105.671" type="rsp.gbl.def.arrow_carts" GUID="CHghaJrbgkOehvyrPudu3g==" />
+		<POI MapID="95" xpos="17.1912" ypos="86.4648" zpos="109.354" type="rsp.gbl.def.arrow_carts" GUID="GPEFxzuw+UK0CcOL9vxs/Q==" />
+		<POI MapID="95" xpos="16.0012" ypos="44.4042" zpos="35.1847" type="rsp.gbl.def.arrow_carts" GUID="yOgwz/eepUCIpBYHXW8qIA==" />
+		<POI MapID="95" xpos="20.0425" ypos="43.7612" zpos="72.5894" type="rsp.gbl.def.arrow_carts" GUID="5Aj+0iSY5EOi9Qm8ZkRTJg==" />
+		<POI MapID="95" xpos="23.2076" ypos="69.4186" zpos="87.9001" type="rsp.gbl.def.arrow_carts" GUID="5xyM2a6+V0el07mhbOTKIQ==" />
+		<POI MapID="95" xpos="80.0147" ypos="44.4007" zpos="68.8687" type="rsp.gbl.def.arrow_carts" GUID="fkjec9tgVEa8z3FQfYjrlg==" />
 
 		<!-- Northeast Tower -->
-		<POI MapID="95" xpos="323.665" ypos="117.321" zpos="415.392" type="rsp.gbl.def.arrow_carts" GUID="yfGkBvkwdUKCNgJtWkXmFA=="/>
-		<POI MapID="95" xpos="355.747" ypos="108.415" zpos="374.176" type="rsp.gbl.def.arrow_carts" GUID="t7s1xnmDXE2VSOwl1nu5tw=="/>
-		<POI MapID="95" xpos="336.941" ypos="102.364" zpos="339.257" type="rsp.gbl.def.arrow_carts" GUID="DCshMWIFmkWURhMOZTG33g=="/>
-		<POI MapID="95" xpos="302.665" ypos="99.9028" zpos="343.64" type="rsp.gbl.def.arrow_carts" GUID="G/+tnnFOyU6rSLZ6GuV85w=="/>
-		<POI MapID="95" xpos="283.653" ypos="99.9191" zpos="329.638" type="rsp.gbl.def.arrow_carts" GUID="AOSAjYQNV0i+Lnihy5mEHw=="/>
-		<POI MapID="95" xpos="300.278" ypos="99.8464" zpos="312.121" type="rsp.gbl.def.arrow_carts" GUID="cbdXBTOaU0awl7xFHT2lgw=="/>
+		<POI MapID="95" xpos="323.665" ypos="117.321" zpos="415.392" type="rsp.gbl.def.arrow_carts" GUID="7As7gLaR0EqLPiXukrPQCw==" />
+		<POI MapID="95" xpos="355.747" ypos="108.415" zpos="374.176" type="rsp.gbl.def.arrow_carts" GUID="p4PJoKlNMUydL/TpC6U5eQ==" />
+		<POI MapID="95" xpos="336.941" ypos="102.364" zpos="339.257" type="rsp.gbl.def.arrow_carts" GUID="UdfRCYOdkEScEo8kXdcYeQ==" />
+		<POI MapID="95" xpos="302.665" ypos="99.9028" zpos="343.64" type="rsp.gbl.def.arrow_carts" GUID="EoFec8o7JU2PX8npMazKqg==" />
+		<POI MapID="95" xpos="283.653" ypos="99.9191" zpos="329.638" type="rsp.gbl.def.arrow_carts" GUID="mI9rxvZDRE+RU4gp8eT1WA==" />
+		<POI MapID="95" xpos="300.278" ypos="99.8464" zpos="312.121" type="rsp.gbl.def.arrow_carts" GUID="1JuDaya4ME6D6/F6rsT1FQ==" />
 
-        <!-- Northwest Tower -->
-		<POI MapID="95" xpos="-359.534" ypos="90.8352" zpos="391.353" type="rsp.gbl.def.arrow_carts" GUID="A+3CLCxIp0ifqSAw3lAqyQ=="/>
-		<POI MapID="95" xpos="-373.237" ypos="92.6227" zpos="384.134" type="rsp.gbl.def.arrow_carts" GUID="3rUGYIChREW/wXTnfSZqRg=="/>
-		<POI MapID="95" xpos="-375.68" ypos="93.6799" zpos="362.845" type="rsp.gbl.def.arrow_carts" GUID="VNtzGKzZxUynyCc1JpvR/g=="/>
-		<POI MapID="95" xpos="-342.113" ypos="90.0748" zpos="402.168" type="rsp.gbl.def.arrow_carts" GUID="JyZl+CSXwE+buZkoHB4riA=="/>
-		<POI MapID="95" xpos="-329.99" ypos="90.7444" zpos="385.411" type="rsp.gbl.def.arrow_carts" GUID="icYvRiWaY0+IXKD+jE0bdQ=="/>
-		<POI MapID="95" xpos="-333.669" ypos="90.8235" zpos="364.134" type="rsp.gbl.def.arrow_carts" GUID="wtQO9wquDUOEsATyxRN0zg=="/>
-		<POI MapID="95" xpos="-365.884" ypos="90.9741" zpos="341.585" type="rsp.gbl.def.arrow_carts" GUID="mGGb20dCIU2ZW/sSf7RBfw=="/>
+		<!-- Northwest Tower -->
+		<POI MapID="95" xpos="-359.534" ypos="90.8352" zpos="391.353" type="rsp.gbl.def.arrow_carts" GUID="fi+l53RTCUmjeXa77FUA7A==" />
+		<POI MapID="95" xpos="-373.237" ypos="92.6227" zpos="384.134" type="rsp.gbl.def.arrow_carts" GUID="PfAPdw3ZCEStIciCCMeU8w==" />
+		<POI MapID="95" xpos="-375.68" ypos="93.6799" zpos="362.845" type="rsp.gbl.def.arrow_carts" GUID="ppjylgX2nEul6n/JAFh50w==" />
+		<POI MapID="95" xpos="-342.113" ypos="90.0748" zpos="402.168" type="rsp.gbl.def.arrow_carts" GUID="LHw77MLVi0mUIX2HJmrv1g==" />
+		<POI MapID="95" xpos="-329.99" ypos="90.7444" zpos="385.411" type="rsp.gbl.def.arrow_carts" GUID="buSksmo/gUWUTJKWtt9U5w==" />
+		<POI MapID="95" xpos="-333.669" ypos="90.8235" zpos="364.134" type="rsp.gbl.def.arrow_carts" GUID="ipQeppv1YUuMbw2PXXE0eA==" />
+		<POI MapID="95" xpos="-365.884" ypos="90.9741" zpos="341.585" type="rsp.gbl.def.arrow_carts" GUID="rSmTim0sFU6BQdLSn01DEA==" />
 
 		<!-- Southeast Tower -->
-		<POI MapID="95" xpos="292.183" ypos="25.7289" zpos="-407.775" type="rsp.gbl.def.arrow_carts" GUID="ED1hc53WCUm5wPYM3TP1gA=="/>
-		<POI MapID="95" xpos="269.552" ypos="25.7711" zpos="-410.956" type="rsp.gbl.def.arrow_carts" GUID="OAhxkZ4vyk2IxdeJ99qlCQ=="/>
-		<POI MapID="95" xpos="251.146" ypos="25.7132" zpos="-442.167" type="rsp.gbl.def.arrow_carts" GUID="yDzzOt5GBk2l4Cro3yWWIQ=="/>
-		<POI MapID="95" xpos="251.512" ypos="25.8085" zpos="-448.301" type="rsp.gbl.def.arrow_carts" GUID="peh16HTrqkCuJ5uhDKIjmA=="/>
-		<POI MapID="95" xpos="286.592" ypos="25.5833" zpos="-439.856" type="rsp.gbl.def.arrow_carts" GUID="Ne4g8wZ4PE2rn6expvPGxg=="/>
-		<POI MapID="95" xpos="298.835" ypos="25.3312" zpos="-433.638" type="rsp.gbl.def.arrow_carts" GUID="AIVjnzu60Uql9vBSZdanrQ=="/>
-		<POI MapID="95" xpos="301.359" ypos="40.0951" zpos="-453.857" type="rsp.gbl.def.arrow_carts" GUID="K8S8s0MwmkKpXKn9ayCxHg=="/>
+		<POI MapID="95" xpos="292.183" ypos="25.7289" zpos="-407.775" type="rsp.gbl.def.arrow_carts" GUID="ZwC8ZIH/tk253UKlpx1xBg==" />
+		<POI MapID="95" xpos="269.552" ypos="25.7711" zpos="-410.956" type="rsp.gbl.def.arrow_carts" GUID="LxRd4wjuvka/M3Rp7d8Rxg==" />
+		<POI MapID="95" xpos="251.146" ypos="25.7132" zpos="-442.167" type="rsp.gbl.def.arrow_carts" GUID="MEMe7DaQ8Um3mplYJ9ximg==" />
+		<POI MapID="95" xpos="251.512" ypos="25.8085" zpos="-448.301" type="rsp.gbl.def.arrow_carts" GUID="47a02rofuUGxNYnzsedTEw==" />
+		<POI MapID="95" xpos="286.592" ypos="25.5833" zpos="-439.856" type="rsp.gbl.def.arrow_carts" GUID="NpyziDf9mk6d3vqlcx6zyw==" />
+		<POI MapID="95" xpos="298.835" ypos="25.3312" zpos="-433.638" type="rsp.gbl.def.arrow_carts" GUID="SdhcQsRMykuU72xVqrVtTw==" />
+		<POI MapID="95" xpos="301.359" ypos="40.0951" zpos="-453.857" type="rsp.gbl.def.arrow_carts" GUID="4k2ZTpe8IES9prIOBg0HqA==" />
 
 		<!-- Southwest Tower -->
-		<POI MapID="95" xpos="-217.283" ypos="32.4654" zpos="-438.5" type="rsp.gbl.def.arrow_carts" GUID="WmGj1khtYUGJamBflo4fnw=="/>
-		<POI MapID="95" xpos="-194.321" ypos="23.7944" zpos="-465.88" type="rsp.gbl.def.arrow_carts" GUID="0+NkfVpZUEqyJp0WPl1Pow=="/>
-		<POI MapID="95" xpos="-190.226" ypos="23.5498" zpos="-482.715" type="rsp.gbl.def.arrow_carts" GUID="7WL1YWF8yk+ARvIcNUBDeA=="/>
-		<POI MapID="95" xpos="-168.234" ypos="23.5934" zpos="-482.676" type="rsp.gbl.def.arrow_carts" GUID="/bWu+rT1vUyFGCo+5Ch9/g=="/>
-		<POI MapID="95" xpos="-169.27" ypos="23.6149" zpos="-447.175" type="rsp.gbl.def.arrow_carts" GUID="p5ADnYfZD02M5uj5gc0g5Q=="/>
-		<POI MapID="95" xpos="-186.978" ypos="25.0432" zpos="-434.858" type="rsp.gbl.def.arrow_carts" GUID="+ogh0Rq2+UCPVDSEDpUPvA=="/>
-		<POI MapID="95" xpos="-203.577" ypos="34.3296" zpos="-419.218" type="rsp.gbl.def.arrow_carts" GUID="RFAUjog8LEiMajcuAWiBHw=="/>
-		<POI MapID="95" xpos="-197.072" ypos="33.5604" zpos="-418.751" type="rsp.gbl.def.arrow_carts" GUID="C7HER+tz3EO7++K9ay75oA=="/>
+		<POI MapID="95" xpos="-217.283" ypos="32.4654" zpos="-438.5" type="rsp.gbl.def.arrow_carts" GUID="CL5KucLHpUaNO+nX1UXSAg==" />
+		<POI MapID="95" xpos="-194.321" ypos="23.7944" zpos="-465.88" type="rsp.gbl.def.arrow_carts" GUID="lIh8L7cPBk+MfPtsIybh+g==" />
+		<POI MapID="95" xpos="-190.226" ypos="23.5498" zpos="-482.715" type="rsp.gbl.def.arrow_carts" GUID="SpQhQrxVU0WW90USOz5+og==" />
+		<POI MapID="95" xpos="-168.234" ypos="23.5934" zpos="-482.676" type="rsp.gbl.def.arrow_carts" GUID="m8X7r+G95Uas1WZmT9OcaA==" />
+		<POI MapID="95" xpos="-169.27" ypos="23.6149" zpos="-447.175" type="rsp.gbl.def.arrow_carts" GUID="pIWJ5xxiIE6ePCVKRDZHkA==" />
+		<POI MapID="95" xpos="-186.978" ypos="25.0432" zpos="-434.858" type="rsp.gbl.def.arrow_carts" GUID="qMWfgGdSiU2YCUnpo/TmZA==" />
+		<POI MapID="95" xpos="-203.577" ypos="34.3296" zpos="-419.218" type="rsp.gbl.def.arrow_carts" GUID="Vi5CfkNTNEmQ4QpRBLBc3Q==" />
+		<POI MapID="95" xpos="-197.072" ypos="33.5604" zpos="-418.751" type="rsp.gbl.def.arrow_carts" GUID="CRuMSEokX0+668V6OtJsGw==" />
 
 		<!-- West Keep (Hills) -->
-		<POI MapID="95" xpos="-389.054" ypos="32.2246" zpos="-201.868" type="rsp.gbl.def.arrow_carts" GUID="gdAoj6w0bku0xKQQNfjByw=="/>
-		<POI MapID="95" xpos="-398.42" ypos="34.4812" zpos="-235.328" type="rsp.gbl.def.arrow_carts" GUID="VhXsKAg3W0G3OtaENJcTgQ=="/>
-		<POI MapID="95" xpos="-438.251" ypos="35.8419" zpos="-257.146" type="rsp.gbl.def.arrow_carts" GUID="eWSpDMfkTUCrFBCiKRu0Ng=="/>
-		<POI MapID="95" xpos="-459.719" ypos="36.0563" zpos="-271.821" type="rsp.gbl.def.arrow_carts" GUID="OmIKXyxGfUe+/TNnfVwsGw=="/>
-		<POI MapID="95" xpos="-470.024" ypos="38.7072" zpos="-281.446" type="rsp.gbl.def.arrow_carts" GUID="tL/1qNkjCkWWhzv0UcqwbA=="/>
-		<POI MapID="95" xpos="-477.541" ypos="39.385" zpos="-284.272" type="rsp.gbl.def.arrow_carts" GUID="rkl4ghQgY06QsyvQKAMB6w=="/>
-		<POI MapID="95" xpos="-508.596" ypos="38.9446" zpos="-304.318" type="rsp.gbl.def.arrow_carts" GUID="8o9VrTHAskK3RhxP3QKbAg=="/>
-		<POI MapID="95" xpos="-525.845" ypos="39.0366" zpos="-314.399" type="rsp.gbl.def.arrow_carts" GUID="FLEV3c1tX0+CgZunAZrnfg=="/>
-		<POI MapID="95" xpos="-589.354" ypos="16.9959" zpos="-204.387" type="rsp.gbl.def.arrow_carts" GUID="NNDnUS/i40WVxB4VgZiSYw=="/>
-		<POI MapID="95" xpos="-587.094" ypos="17.1149" zpos="-218.236" type="rsp.gbl.def.arrow_carts" GUID="rBykfdJQyESKhe3PjCDA1Q=="/>
-		<POI MapID="95" xpos="-613.081" ypos="17.0587" zpos="-243.683" type="rsp.gbl.def.arrow_carts" GUID="lxDxV/LuQkCWcHNX63sNnA=="/>
-		<POI MapID="95" xpos="-636.521" ypos="17.241" zpos="-245.903" type="rsp.gbl.def.arrow_carts" GUID="YLA10FVdO0OBc5oc6tUL9g=="/>
-		<POI MapID="95" xpos="-635.463" ypos="17.387" zpos="-225.299" type="rsp.gbl.def.arrow_carts" GUID="EwKdb9SSX02cbeCbEf+3Lw=="/>
-		<POI MapID="95" xpos="-631.817" ypos="17.4885" zpos="-214.097" type="rsp.gbl.def.arrow_carts" GUID="qtooa+DD70aC3Z/JOozcTw=="/>
-		<POI MapID="95" xpos="-585.583" ypos="17.0399" zpos="-197.614" type="rsp.gbl.def.arrow_carts" GUID="v9F0aEDazE2luS0nVsiL7w=="/>
-		<POI MapID="95" xpos="-585.257" ypos="17.0491" zpos="-153.112" type="rsp.gbl.def.arrow_carts" GUID="u4AgUrqG8kiofpI7ajgsKQ=="/>
-		<POI MapID="95" xpos="-589.136" ypos="17.0468" zpos="-145.636" type="rsp.gbl.def.arrow_carts" GUID="YDeyAUMxckabKkJTN8nWiQ=="/>
-		<POI MapID="95" xpos="-606.365" ypos="18.0959" zpos="-106.435" type="rsp.gbl.def.arrow_carts" GUID="4bODlGGPlUqLgYiil8qNXQ=="/>
-		<POI MapID="95" xpos="-620.279" ypos="18.2508" zpos="-103.661" type="rsp.gbl.def.arrow_carts" GUID="ciYWIHc3Q0WlEuzMpt/KUg=="/>
-		<POI MapID="95" xpos="-635.709" ypos="16.031" zpos="-120.113" type="rsp.gbl.def.arrow_carts" GUID="4MxoGR11HU+u/8BnEAM+pA=="/>
-		<POI MapID="95" xpos="-585.791" ypos="18.3203" zpos="-102.443" type="rsp.gbl.def.arrow_carts" GUID="A7FMuHeHpEyvJ2dFHnyEcw=="/>
-		<POI MapID="95" xpos="-568.012" ypos="19.4811" zpos="51.9196" type="rsp.gbl.def.arrow_carts" GUID="5jXR7mf3Z0qxVKgFTl42gA=="/>
-		<POI MapID="95" xpos="-604.279" ypos="20.0629" zpos="27.2504" type="rsp.gbl.def.arrow_carts" GUID="3KyZwhrDN0CeSVgwks6N8Q=="/>
-		<POI MapID="95" xpos="-573.658" ypos="19.4904" zpos="49.2829" type="rsp.gbl.def.arrow_carts" GUID="3BKa3bFEAEumpRQtgsMzcQ=="/>
-		<POI MapID="95" xpos="-449.714" ypos="24.6617" zpos="-1.35336" type="rsp.gbl.def.arrow_carts" GUID="mW+umnOJO0Gv6dVw3K2OBA=="/>
-		<POI MapID="95" xpos="-421.332" ypos="24.4969" zpos="-29.2428" type="rsp.gbl.def.arrow_carts" GUID="6bJt5beqxkarJ9XVUvpbuQ=="/>
-		<POI MapID="95" xpos="-399.343" ypos="24.5757" zpos="-50.3662" type="rsp.gbl.def.arrow_carts" GUID="8l3f1GQt+EmzJV3mb+bK0Q=="/>
-		<POI MapID="95" xpos="-389.669" ypos="24.5846" zpos="-55.5964" type="rsp.gbl.def.arrow_carts" GUID="PzfoC9sl+kORI4OzZXlunQ=="/>
-		<POI MapID="95" xpos="-383.577" ypos="26.6892" zpos="-64.4308" type="rsp.gbl.def.arrow_carts" GUID="s5+UUNkusEG5uRJHr/1hvQ=="/>
-		<POI MapID="95" xpos="-384.519" ypos="28.8139" zpos="-87.5645" type="rsp.gbl.def.arrow_carts" GUID="OFvT1t5YU0eC8KktiKvNZA=="/>
-		<POI MapID="95" xpos="-381.504" ypos="29.1902" zpos="-135.514" type="rsp.gbl.def.arrow_carts" GUID="wFO3mv3WjEyWnKaVOPK0cw=="/>
+		<POI MapID="95" xpos="-389.054" ypos="32.2246" zpos="-201.868" type="rsp.gbl.def.arrow_carts" GUID="EgzjOYyWekKSMaCYZZUKrA==" />
+		<POI MapID="95" xpos="-398.42" ypos="34.4812" zpos="-235.328" type="rsp.gbl.def.arrow_carts" GUID="MLGGi/u1p0yl7VQvnyixDw==" />
+		<POI MapID="95" xpos="-438.251" ypos="35.8419" zpos="-257.146" type="rsp.gbl.def.arrow_carts" GUID="n76sFbPJ70qNWyE6EUq4ew==" />
+		<POI MapID="95" xpos="-459.719" ypos="36.0563" zpos="-271.821" type="rsp.gbl.def.arrow_carts" GUID="33CqYFz/b0WUW1K63+KBzw==" />
+		<POI MapID="95" xpos="-470.024" ypos="38.7072" zpos="-281.446" type="rsp.gbl.def.arrow_carts" GUID="FSCJazjB+Em+u04K+ZquRQ==" />
+		<POI MapID="95" xpos="-477.541" ypos="39.385" zpos="-284.272" type="rsp.gbl.def.arrow_carts" GUID="LS7O+SqXoEqEbpOFwOPpCQ==" />
+		<POI MapID="95" xpos="-508.596" ypos="38.9446" zpos="-304.318" type="rsp.gbl.def.arrow_carts" GUID="jIo6fQhJvUG+YDkC5JN6zw==" />
+		<POI MapID="95" xpos="-525.845" ypos="39.0366" zpos="-314.399" type="rsp.gbl.def.arrow_carts" GUID="ts206JDS0UK8ZzYpLOlbJg==" />
+		<POI MapID="95" xpos="-589.354" ypos="16.9959" zpos="-204.387" type="rsp.gbl.def.arrow_carts" GUID="PGMs9ZD6xUS+Mu1wOk2mmg==" />
+		<POI MapID="95" xpos="-587.094" ypos="17.1149" zpos="-218.236" type="rsp.gbl.def.arrow_carts" GUID="9g6y0wOWfEquhUS6n+1Auw==" />
+		<POI MapID="95" xpos="-613.081" ypos="17.0587" zpos="-243.683" type="rsp.gbl.def.arrow_carts" GUID="tXjl4q3ReE+WePR09OZl3Q==" />
+		<POI MapID="95" xpos="-636.521" ypos="17.241" zpos="-245.903" type="rsp.gbl.def.arrow_carts" GUID="lVBomE23qUiAdt8Zf4YeNA==" />
+		<POI MapID="95" xpos="-635.463" ypos="17.387" zpos="-225.299" type="rsp.gbl.def.arrow_carts" GUID="xjxMmoXya0a94PD2I8evEw==" />
+		<POI MapID="95" xpos="-631.817" ypos="17.4885" zpos="-214.097" type="rsp.gbl.def.arrow_carts" GUID="aWccEGyy30W1c/TSmJ4STg==" />
+		<POI MapID="95" xpos="-585.583" ypos="17.0399" zpos="-197.614" type="rsp.gbl.def.arrow_carts" GUID="Ym2Pq7Il2kKZlvMvpKOLQg==" />
+		<POI MapID="95" xpos="-585.257" ypos="17.0491" zpos="-153.112" type="rsp.gbl.def.arrow_carts" GUID="0e14b+YY7UWpsKJTTJIibQ==" />
+		<POI MapID="95" xpos="-589.136" ypos="17.0468" zpos="-145.636" type="rsp.gbl.def.arrow_carts" GUID="qxbtqulsqE6/D8eG2ejS8Q==" />
+		<POI MapID="95" xpos="-606.365" ypos="18.0959" zpos="-106.435" type="rsp.gbl.def.arrow_carts" GUID="Kzwu6PxbgUu3tqD0EeSv1g==" />
+		<POI MapID="95" xpos="-620.279" ypos="18.2508" zpos="-103.661" type="rsp.gbl.def.arrow_carts" GUID="5f1aU4wPs0W21eEVIWyQ/w==" />
+		<POI MapID="95" xpos="-635.709" ypos="16.031" zpos="-120.113" type="rsp.gbl.def.arrow_carts" GUID="HoZ3DYk7ZEGVh0aXgW5gew==" />
+		<POI MapID="95" xpos="-585.791" ypos="18.3203" zpos="-102.443" type="rsp.gbl.def.arrow_carts" GUID="ko9W3JkELUOw/clHpN+olg==" />
+		<POI MapID="95" xpos="-568.012" ypos="19.4811" zpos="51.9196" type="rsp.gbl.def.arrow_carts" GUID="r1u7rJkaF0uCcnscmWWctg==" />
+		<POI MapID="95" xpos="-604.279" ypos="20.0629" zpos="27.2504" type="rsp.gbl.def.arrow_carts" GUID="C5JU5x9rQEGe5NzlyCRH+g==" />
+		<POI MapID="95" xpos="-573.658" ypos="19.4904" zpos="49.2829" type="rsp.gbl.def.arrow_carts" GUID="rCyhk01FREKhZeASl7F2fw==" />
+		<POI MapID="95" xpos="-449.714" ypos="24.6617" zpos="-1.35336" type="rsp.gbl.def.arrow_carts" GUID="5Hzw5H9H7UmworYOwWKHBw==" />
+		<POI MapID="95" xpos="-421.332" ypos="24.4969" zpos="-29.2428" type="rsp.gbl.def.arrow_carts" GUID="TYBegy1UC0uchyI/8lkmhw==" />
+		<POI MapID="95" xpos="-399.343" ypos="24.5757" zpos="-50.3662" type="rsp.gbl.def.arrow_carts" GUID="TYRh8HKc7kWCk75eTvLW5g==" />
+		<POI MapID="95" xpos="-389.669" ypos="24.5846" zpos="-55.5964" type="rsp.gbl.def.arrow_carts" GUID="mGhugcYLm0+ArB1/od9guQ==" />
+		<POI MapID="95" xpos="-383.577" ypos="26.6892" zpos="-64.4308" type="rsp.gbl.def.arrow_carts" GUID="k7lpD8s7tE2dlcseCvUzyw==" />
+		<POI MapID="95" xpos="-384.519" ypos="28.8139" zpos="-87.5645" type="rsp.gbl.def.arrow_carts" GUID="TBU47NbQZUObPZOIMvTZvA==" />
+		<POI MapID="95" xpos="-381.504" ypos="29.1902" zpos="-135.514" type="rsp.gbl.def.arrow_carts" GUID="FWj4ljt27EypfQ1ProuvOA==" />
 
 		<!--
 			Ballistas: Offensive
@@ -157,125 +157,125 @@
 		-->
 
 		<!-- East Keep (Hills) -->
-		<POI MapID="95" xpos="536.863" ypos="69.1828" zpos="-14.5467" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.gbl.off.catapults" GUID="iQGZdSO6ZUCMoOwwD3CCRA=="/>
-		<POI MapID="95" xpos="536.863" ypos="69.1828" zpos="-14.5467" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="iQGZdSO6ZUCMoOwwD3CCRB=="/>
+		<POI MapID="95" xpos="536.863" ypos="69.1828" zpos="-14.5467" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.gbl.off.catapults" GUID="fruLUvPK30KfSZ3WLRBjxg==" />
+		<POI MapID="95" xpos="536.863" ypos="69.1828" zpos="-14.5467" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="0UDNs7D9dU2RkYMg8xhN3g==" />
 
-		<POI MapID="95" xpos="484.785" ypos="74.5411" zpos="-118.218" heightoffset="0.25" rotate-x="180" rotate-z="60" type="rsp.gbl.off.catapults" GUID="LTD9jXrz1kSSL3bcqNXIXA=="/>
-		<POI MapID="95" xpos="484.785" ypos="74.5411" zpos="-118.218" info="You can hit both the outer and inner wall if aiming correctly.&#xA;&#xA;Make sure to hit the corner of the wall when shooting towards the inner wall as that will hit 2 destroyable walls inside." triggerrange="10" type="rsp.settings.info" GUID="LTD9jXrz1kSSL3bcqNXIXC=="/>
-		<POI MapID="95" xpos="484.785" ypos="74.5411" zpos="-118.218" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="LTD9jXrz1kSSL3bcqNXIXB=="/>
+		<POI MapID="95" xpos="484.785" ypos="74.5411" zpos="-118.218" heightoffset="0.25" rotate-x="180" rotate-z="60" type="rsp.gbl.off.catapults" GUID="vhIoeo0B+0WP89C0RuT/lQ==" />
+		<POI MapID="95" xpos="484.785" ypos="74.5411" zpos="-118.218" info="You can hit both the outer and inner wall if aiming correctly.&#xA;&#xA;Make sure to hit the corner of the wall when shooting towards the inner wall as that will hit 2 destroyable walls inside." triggerrange="10" type="rsp.settings.info" GUID="y2yZ7rbLNUK9WjBqrYWg4Q==" />
+		<POI MapID="95" xpos="484.785" ypos="74.5411" zpos="-118.218" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="a2mxdequUEOO2BxDyme2Ew==" />
 		
-		<POI MapID="95" xpos="483.112" ypos="83.7712" zpos="-211.667" heightoffset="0.25" rotate-x="180" rotate-z="120" type="rsp.gbl.off.catapults" GUID="2flXsA3zVkSItnz92Uc4qg=="/>
-		<POI MapID="95" xpos="483.112" ypos="83.7712" zpos="-211.667" info="You can hit both the outer and inner wall if aiming correctly.&#xA;&#xA;Make sure to hit the corner of the wall when shooting towards the inner wall as that will hit 2 destroyable walls inside." triggerrange="10" type="rsp.settings.info" GUID="2flXsA3zVkSItnz92Uc4qB=="/>
-		<POI MapID="95" xpos="483.112" ypos="83.7712" zpos="-211.667" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="2flXsA3zVkSItnz92Uc4qA=="/>
+		<POI MapID="95" xpos="483.112" ypos="83.7712" zpos="-211.667" heightoffset="0.25" rotate-x="180" rotate-z="120" type="rsp.gbl.off.catapults" GUID="7pX1jqd4+02wo8b9E00tuw==" />
+		<POI MapID="95" xpos="483.112" ypos="83.7712" zpos="-211.667" info="You can hit both the outer and inner wall if aiming correctly.&#xA;&#xA;Make sure to hit the corner of the wall when shooting towards the inner wall as that will hit 2 destroyable walls inside." triggerrange="10" type="rsp.settings.info" GUID="TJEEisO1vEqhmr4E+bymlQ==" />
+		<POI MapID="95" xpos="483.112" ypos="83.7712" zpos="-211.667" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="jv0g/K9/DkKFNqQQKYPmkw==" />
 		
-		<POI MapID="95" xpos="480.853" ypos="69.5007" zpos="-225.085" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.gbl.off.catapults" GUID="YLEhqIcuVUSYLDZIgzaUwQ=="/>
-		<POI MapID="95" xpos="480.853" ypos="69.5007" zpos="-225.085" info="Aim towards the wall upstairs.&#xA;&#xA;Splash damage will still hit it and you will be less exposed down here." triggerrange="10" type="rsp.settings.info" GUID="YLEhqIcuVUSYLDZIgzaUwB=="/>
-		<POI MapID="95" xpos="480.853" ypos="69.5007" zpos="-225.085" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="YLEhqIcuVUSYLDZIgzaUwA=="/>
+		<POI MapID="95" xpos="480.853" ypos="69.5007" zpos="-225.085" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.gbl.off.catapults" GUID="CA1uJMVip0qLQ1nE0+AkAA==" />
+		<POI MapID="95" xpos="480.853" ypos="69.5007" zpos="-225.085" info="Aim towards the wall upstairs.&#xA;&#xA;Splash damage will still hit it and you will be less exposed down here." triggerrange="10" type="rsp.settings.info" GUID="Qj94BPo7C0yQ7pl8wKm9sg==" />
+		<POI MapID="95" xpos="480.853" ypos="69.5007" zpos="-225.085" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="4eG4u0TkfUiB4cEzV9xe1A==" />
 
-		<POI MapID="95" xpos="542.274" ypos="53.75" zpos="74.1426" heightoffset="0.25" rotate-x="180" rotate-z="-5" type="rsp.gbl.off.catapults" GUID="GpGf9z8BdEKCGR2gvZ7LbA=="/>
-		<POI MapID="95" xpos="542.274" ypos="53.75" zpos="74.1426" info="Charge fully to hit the outer wall of the keep." triggerrange="10" type="rsp.settings.info" GUID="GpGf9z8BdEKCGR2gvZ7LbB=="/>
-		<POI MapID="95" xpos="542.274" ypos="53.75" zpos="74.1426" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="GpGf9z8BdEKCGR2gvZ7LbC=="/>
+		<POI MapID="95" xpos="542.274" ypos="53.75" zpos="74.1426" heightoffset="0.25" rotate-x="180" rotate-z="-5" type="rsp.gbl.off.catapults" GUID="zesxGh/UuU24UJb4UpgqqA==" />
+		<POI MapID="95" xpos="542.274" ypos="53.75" zpos="74.1426" info="Charge fully to hit the outer wall of the keep." triggerrange="10" type="rsp.settings.info" GUID="KKxyznFDpkihxVbv91gL+w==" />
+		<POI MapID="95" xpos="542.274" ypos="53.75" zpos="74.1426" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="vCJIEf67s0SakHAd4ctPuQ==" />
 
-		<POI MapID="95" xpos="475.076" ypos="70.9316" zpos="-64.6093" heightoffset="0.25" rotate-x="180" rotate-z="10" type="rsp.gbl.off.catapults" GUID="EMga4T5HiEKy1okwSUn8Zg=="/>
-		<POI MapID="95" xpos="475.076" ypos="70.9316" zpos="-64.6093" info="Tuck the catapult as far into the corner as possible. It will make it more difficult to hit." triggerrange="10" type="rsp.settings.info" GUID="EMga4T5HiEKy1okwSUn8ZA=="/>
-		<POI MapID="95" xpos="475.076" ypos="70.9316" zpos="-64.6093" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="EMga4T5HiEKy1okwSUn8ZB=="/>
+		<POI MapID="95" xpos="475.076" ypos="70.9316" zpos="-64.6093" heightoffset="0.25" rotate-x="180" rotate-z="10" type="rsp.gbl.off.catapults" GUID="Tdj4gaaZ+USLKH3e5Nu/iA==" />
+		<POI MapID="95" xpos="475.076" ypos="70.9316" zpos="-64.6093" info="Tuck the catapult as far into the corner as possible. It will make it more difficult to hit." triggerrange="10" type="rsp.settings.info" GUID="BtE+FzEabES62A+YVhcElA==" />
+		<POI MapID="95" xpos="475.076" ypos="70.9316" zpos="-64.6093" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="4RfY6ovpVUKLQcIGPqHxbA==" />
 
-		<POI MapID="95" xpos="589.707" ypos="79.7855" zpos="-86.669" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.gbl.off.catapults" GUID="bxYzV/TaWk2cT/oc9tU0XA=="/>
-		<POI MapID="95" xpos="589.707" ypos="79.7855" zpos="-86.669" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="bxYzV/TaWk2cT/oc9tU0XC=="/>
+		<POI MapID="95" xpos="589.707" ypos="79.7855" zpos="-86.669" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.gbl.off.catapults" GUID="KWT3ASqDe0q8sJ7dd6AsDQ==" />
+		<POI MapID="95" xpos="589.707" ypos="79.7855" zpos="-86.669" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="FY8RV3txzUK6paosXk7eNQ==" />
 
-		<POI MapID="95" xpos="570.678" ypos="82.297" zpos="-168.402" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rsp.gbl.off.catapults" GUID="hvVPWuYlZ06RJW6ZN/O9mg=="/>
-		<POI MapID="95" xpos="570.678" ypos="82.297" zpos="-168.402" info="Make sure to shoot straight ahead to hit both walls with splash damage." triggerrange="10" type="rsp.settings.info" GUID="hvVPWuYlZ06RJW6ZN/O9mA=="/>
-		<POI MapID="95" xpos="570.678" ypos="82.297" zpos="-168.402" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="hvVPWuYlZ06RJW6ZN/O9mB=="/>
+		<POI MapID="95" xpos="570.678" ypos="82.297" zpos="-168.402" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rsp.gbl.off.catapults" GUID="6n+9s0DuFEqJDAmRta9+Ig==" />
+		<POI MapID="95" xpos="570.678" ypos="82.297" zpos="-168.402" info="Make sure to shoot straight ahead to hit both walls with splash damage." triggerrange="10" type="rsp.settings.info" GUID="/TyrI1Ta90SOuFkCPOgtsg==" />
+		<POI MapID="95" xpos="570.678" ypos="82.297" zpos="-168.402" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="OxkVBRX9S0SdY5OMFV9ikQ==" />
 
-		<!-- Garrison -->
-		<POI MapID="95" xpos="-152.96" ypos="73.1926" zpos="226.934" heightoffset="0.25" rotate-x="180" rotate-z="60" type="rsp.gbl.off.catapults" GUID="YVdpxTEXQUeGgfXc4ssT3A=="/>
-		<POI MapID="95" xpos="-152.96" ypos="73.1926" zpos="226.934" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="YVdpxTEXQUeGgfXc4ssT3D=="/>
+		<!-- Garrison -->  
+		<POI MapID="95" xpos="-152.96" ypos="73.1926" zpos="226.934" heightoffset="0.25" rotate-x="180" rotate-z="60" type="rsp.gbl.off.catapults" GUID="AzLiJZVUdEO9Tdz6poj0ZQ==" />
+		<POI MapID="95" xpos="-152.96" ypos="73.1926" zpos="226.934" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="SZmManUueESO+2TwZOEurw==" />
 
-		<POI MapID="95" xpos="1.12453" ypos="71.0002" zpos="304.747" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.gbl.off.catapults" GUID="LPjC19LCiECbUXd+qchleg=="/>
-		<POI MapID="95" xpos="1.12453" ypos="71.0002" zpos="304.747" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="LPjC19LCiECbUXd+qchleA=="/>
+		<POI MapID="95" xpos="1.12453" ypos="71.0002" zpos="304.747" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.gbl.off.catapults" GUID="VySKQIrtC0mR2Jd26FZurQ==" />
+		<POI MapID="95" xpos="1.12453" ypos="71.0002" zpos="304.747" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="O7qUgi9da0WzGMMBKk+QtQ==" />
 
-		<POI MapID="95" xpos="121.688" ypos="71.1692" zpos="230.956" heightoffset="0.25" rotate-x="180" rotate-z="-60" type="rsp.gbl.off.catapults" GUID="vc6caAuRPUaVJ7+ZVpgDMQ=="/>
-		<POI MapID="95" xpos="121.688" ypos="71.1692" zpos="230.956" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="vc6caAuRPUaVJ7+ZVpgDMA=="/>
+		<POI MapID="95" xpos="121.688" ypos="71.1692" zpos="230.956" heightoffset="0.25" rotate-x="180" rotate-z="-60" type="rsp.gbl.off.catapults" GUID="cQBjSzaIo0qYJE9clFbGqA==" />
+		<POI MapID="95" xpos="121.688" ypos="71.1692" zpos="230.956" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="Yz0Rh1Ey50i6Nfan0pEgtQ==" />
 
 		<!-- Northeast Tower -->
-		<POI MapID="95" xpos="277.118" ypos="87.5396" zpos="310.245" heightoffset="0.25" rotate-x="180" rotate-z="130" type="rsp.gbl.off.catapults" GUID="lw1uaLshz0On/vF1JK3ISA=="/>
-		<POI MapID="95" xpos="277.118" ypos="87.5396" zpos="310.245" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="lw1uaLshz0On/vF1JK3ISd=="/>
+		<POI MapID="95" xpos="277.118" ypos="87.5396" zpos="310.245" heightoffset="0.25" rotate-x="180" rotate-z="130" type="rsp.gbl.off.catapults" GUID="ShnW63kQNE2OBe+Y7dkG5Q==" />
+		<POI MapID="95" xpos="277.118" ypos="87.5396" zpos="310.245" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="j0QMiAeDykm44Uw1cJrAuw==" />
 
-		<POI MapID="95" xpos="357.998" ypos="88.378" zpos="412.943" heightoffset="0.25" rotate-x="180" rotate-z="-30" type="rsp.gbl.off.catapults" GUID="sVAukYcbxEmiKy3NJPlb7A=="/>
-		<POI MapID="95" xpos="357.998" ypos="88.378" zpos="412.943" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="sVAukYcbxEmiKy3NJPlb7W=="/>
+		<POI MapID="95" xpos="357.998" ypos="88.378" zpos="412.943" heightoffset="0.25" rotate-x="180" rotate-z="-30" type="rsp.gbl.off.catapults" GUID="xYLpvbEwD0+pfcZsMU/64g==" />
+		<POI MapID="95" xpos="357.998" ypos="88.378" zpos="412.943" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="hAE9F4OXiE2HFbS51zh7Ug==" />
 
 		<!-- Northwest Tower -->
-		<POI MapID="95" xpos="-336.416" ypos="77.6605" zpos="339.104" heightoffset="0.25" rotate-x="180" rotate-z="-140" type="rsp.gbl.off.catapults" GUID="NybLLvulSEmM2TxT8ph1EQ=="/>
-		<POI MapID="95" xpos="-336.416" ypos="77.6605" zpos="339.104" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="NybLLvulSEmM2TxT8ph1EA=="/>
+		<POI MapID="95" xpos="-336.416" ypos="77.6605" zpos="339.104" heightoffset="0.25" rotate-x="180" rotate-z="-140" type="rsp.gbl.off.catapults" GUID="SQbXxd5w+USSfFKCg28wNA==" />
+		<POI MapID="95" xpos="-336.416" ypos="77.6605" zpos="339.104" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="k8llAnOH80+PXCf6oQDJMw==" />
 
-		<POI MapID="95" xpos="-381.046" ypos="80.6114" zpos="401.147" heightoffset="0.25" rotate-x="180" rotate-z="70" type="rsp.gbl.off.catapults" GUID="fJzIRH8tt0W22AlXEI0g0g=="/>
-		<POI MapID="95" xpos="-381.046" ypos="80.6114" zpos="401.147" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="fJzIRH8tt0W22AlXEI0g0A=="/>
+		<POI MapID="95" xpos="-381.046" ypos="80.6114" zpos="401.147" heightoffset="0.25" rotate-x="180" rotate-z="70" type="rsp.gbl.off.catapults" GUID="uYY3sT7syUq9nFOpkLzkHg==" />
+		<POI MapID="95" xpos="-381.046" ypos="80.6114" zpos="401.147" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="PZjgavWMF0KW6L9n3MNsiQ==" />
 
-		<POI MapID="95" xpos="-451.013" ypos="106.134" zpos="503.961" heightoffset="0.25" rotate-x="180" rotate-z="35" type="rsp.gbl.off.catapults" GUID="sawMIOykck+On64Jd23Dng=="/>
-		<POI MapID="95" xpos="-451.013" ypos="106.134" zpos="503.961" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="sawMIOykck+On64Jd23DnA=="/>
+		<POI MapID="95" xpos="-451.013" ypos="106.134" zpos="503.961" heightoffset="0.25" rotate-x="180" rotate-z="35" type="rsp.gbl.off.catapults" GUID="NkPHOaW1dU+Xza+WdcA/OA==" />
+		<POI MapID="95" xpos="-451.013" ypos="106.134" zpos="503.961" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="Iff9YbzUSUyFt3d2s0Jotg==" />
 
 		<!-- Southeast Tower -->
-		<POI MapID="95" xpos="237.288" ypos="13.7652" zpos="-430.263" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.gbl.off.catapults" GUID="MuEDryXwh0uX50H+8YO/XQ=="/>
-		<POI MapID="95" xpos="237.288" ypos="13.7652" zpos="-430.263" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="MuEDryXwh0uX50H+8YO/XA=="/>
+		<POI MapID="95" xpos="237.288" ypos="13.7652" zpos="-430.263" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.gbl.off.catapults" GUID="h1iziMviXk2pvW3/djANsg==" />
+		<POI MapID="95" xpos="237.288" ypos="13.7652" zpos="-430.263" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="fzUTaEzFFE+R+eFOUMsU3Q==" />
 
-		<POI MapID="95" xpos="158.398" ypos="22.69" zpos="-367.987" heightoffset="0.25" rotate-x="180" rotate-z="55" type="rsp.gbl.off.catapults" GUID="iE6N7b2yoEWH8+gh8nicJQ=="/>
-		<POI MapID="95" xpos="158.398" ypos="22.69" zpos="-367.987" type="rsp.settings.info" info="Aim towards the tower to the east." triggerrange="10" GUID="iE6N7b2yoEWH8+gh8nicJA=="/>
-		<POI MapID="95" xpos="158.398" ypos="22.69" zpos="-367.987" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="iE6N7b2yoEWH8+gh8nicJB=="/>
+		<POI MapID="95" xpos="158.398" ypos="22.69" zpos="-367.987" heightoffset="0.25" rotate-x="180" rotate-z="55" type="rsp.gbl.off.catapults" GUID="XVjcW6g6wUm1oFc6ad3C4w==" />
+		<POI MapID="95" xpos="158.398" ypos="22.69" zpos="-367.987" type="rsp.settings.info" info="Aim towards the tower to the east." triggerrange="10" GUID="ZPT1cYGdqU+2mKZhReIKTg==" />
+		<POI MapID="95" xpos="158.398" ypos="22.69" zpos="-367.987" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="ATU9UJOHDU2rNH8rZpmdsw==" />
 
-		<POI MapID="95" xpos="189.484" ypos="22.937" zpos="-337.464" heightoffset="0.25" rotate-x="180" rotate-z="35" type="rsp.gbl.off.catapults" GUID="CO/4Qm9fhEqiQD9FtFFDrg=="/>
-		<POI MapID="95" xpos="189.484" ypos="22.937" zpos="-337.464" type="rsp.settings.info" info="Aim towards the tower to the south." triggerrange="10" GUID="CO/4Qm9fhEqiQD9FtFFDrA=="/>
-		<POI MapID="95" xpos="189.484" ypos="22.937" zpos="-337.464" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="CO/4Qm9fhEqiQD9FtFFDrB=="/>
+		<POI MapID="95" xpos="189.484" ypos="22.937" zpos="-337.464" heightoffset="0.25" rotate-x="180" rotate-z="35" type="rsp.gbl.off.catapults" GUID="ZiuyCYzuOkqx86RhnpdGBQ==" />
+		<POI MapID="95" xpos="189.484" ypos="22.937" zpos="-337.464" type="rsp.settings.info" info="Aim towards the tower to the south." triggerrange="10" GUID="LNNFxwbXcU6Ypz0HxgL3SQ==" />
+		<POI MapID="95" xpos="189.484" ypos="22.937" zpos="-337.464" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="MktsbVVwHUO3baodgqcyfQ==" />
 
-		<POI MapID="95" xpos="397.88" ypos="35.9911" zpos="-469.269" heightoffset="0.25" rotate-x="180" rotate-z="-108" type="rsp.gbl.off.catapults" GUID="ijzAmeRCWEamGkjM/O5v9w=="/>
-		<POI MapID="95" xpos="397.88" ypos="35.9911" zpos="-469.269" type="rsp.settings.info" info="Follow the arrow directions very carefully and fully charge the shot to hit the southern wall of the tower." triggerrange="10" GUID="ijzAmeRCWEamGkjM/O5v9w=="/>
-		<POI MapID="95" xpos="397.88" ypos="35.9911" zpos="-469.269" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="ijzAmeRCWEamGkjM/O5v9w=="/>
+		<POI MapID="95" xpos="397.88" ypos="35.9911" zpos="-469.269" heightoffset="0.25" rotate-x="180" rotate-z="-108" type="rsp.gbl.off.catapults" GUID="7JyMku7bokObzBCT/dbfOA==" />
+		<POI MapID="95" xpos="397.88" ypos="35.9911" zpos="-469.269" type="rsp.settings.info" info="Follow the arrow directions very carefully and fully charge the shot to hit the southern wall of the tower." triggerrange="10" GUID="YecrNPECH0SA7FAgo58deg==" />
+		<POI MapID="95" xpos="397.88" ypos="35.9911" zpos="-469.269" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="RDTlHnW3S02gdRiZ5fLVJQ==" />
 
 		<!-- Southwest Tower -->
-		<POI MapID="95" xpos="-217.219" ypos="23.6716" zpos="-404.987" heightoffset="0.25" rotate-x="180" rotate-z="25" type="rsp.gbl.off.catapults" GUID="mWrXmit2rkSQn/cjBETMhA=="/>
-		<POI MapID="95" xpos="-217.219" ypos="23.6716" zpos="-404.987" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="mWrXmit2rkSQn/cjBETMhB=="/>
+		<POI MapID="95" xpos="-217.219" ypos="23.6716" zpos="-404.987" heightoffset="0.25" rotate-x="180" rotate-z="25" type="rsp.gbl.off.catapults" GUID="TGTeZVrF/kuIFSaeS6XZNA==" />
+		<POI MapID="95" xpos="-217.219" ypos="23.6716" zpos="-404.987" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="0QQVIKBCjku3MziOrBYxnw==" />
 
-		<POI MapID="95" xpos="-57.0875" ypos="20.8952" zpos="-497.228" heightoffset="0.25" rotate-x="180" rotate-z="-110" type="rsp.gbl.off.catapults" GUID="S0PNGoV/TUmg0jGSGQzyHw=="/>
-		<POI MapID="95" xpos="-57.0875" ypos="20.8952" zpos="-497.228" type="rsp.settings.info" info="Aim towards the tower to the west." triggerrange="10" GUID="S0PNGoV/TUmg0jGSGQzyHA=="/>
-		<POI MapID="95" xpos="-57.0875" ypos="20.8952" zpos="-497.228" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="S0PNGoV/TUmg0jGSGQzyHB=="/>
+		<POI MapID="95" xpos="-57.0875" ypos="20.8952" zpos="-497.228" heightoffset="0.25" rotate-x="180" rotate-z="-110" type="rsp.gbl.off.catapults" GUID="QwHbDEkxe0mneuS0dk+Tow==" />
+		<POI MapID="95" xpos="-57.0875" ypos="20.8952" zpos="-497.228" type="rsp.settings.info" info="Aim towards the tower to the west." triggerrange="10" GUID="OymVb815A0yMWxzp2zglsQ==" />
+		<POI MapID="95" xpos="-57.0875" ypos="20.8952" zpos="-497.228" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="t7xP/qkzlU6GSSHPC08MoA==" />
 
-		<POI MapID="95" xpos="-231.561" ypos="32.6948" zpos="-317.48" heightoffset="0.25" rotate-x="180" rotate-z="10" type="rsp.gbl.off.catapults" GUID="eA5Vh69CqkiNhtzujffs7w=="/>
-		<POI MapID="95" xpos="-231.561" ypos="32.6948" zpos="-317.48" type="rsp.settings.info" info="Splash damage will hit the wall if you just shoot straight ahead." triggerrange="10" GUID="eA5Vh69CqkiNhtzujffs7A=="/>
-		<POI MapID="95" xpos="-231.561" ypos="32.6948" zpos="-317.48" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="eA5Vh69CqkiNhtzujffs7B=="/>
+		<POI MapID="95" xpos="-231.561" ypos="32.6948" zpos="-317.48" heightoffset="0.25" rotate-x="180" rotate-z="10" type="rsp.gbl.off.catapults" GUID="ZmDs2CJU4km8LDy1HXND7Q==" />
+		<POI MapID="95" xpos="-231.561" ypos="32.6948" zpos="-317.48" type="rsp.settings.info" info="Splash damage will hit the wall if you just shoot straight ahead." triggerrange="10" GUID="ADGqUyRoxkqCShq1BKh4LQ==" />
+		<POI MapID="95" xpos="-231.561" ypos="32.6948" zpos="-317.48" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="PiADD1u8eEGrT6zzKKAsXA==" />
 
 		<!-- West Keep (Bay) -->
-		<POI MapID="95" xpos="-351.163" ypos="3.73677" zpos="-97.1394" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.gbl.off.catapults" GUID="ylmJldba4kSy/J27lAZNRA=="/>
-		<POI MapID="95" xpos="-351.163" ypos="3.73677" zpos="-97.1394" info="Aim for the connection between the two destroyable walls. This will hit both and deal more damage." triggerrange="10" type="rsp.settings.info" GUID="ylmJldba4kSy/J27lAZNRB=="/>
-		<POI MapID="95" xpos="-351.163" ypos="3.73677" zpos="-97.1394" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="ylmJldba4kSy/J27lAZNRC=="/>
+		<POI MapID="95" xpos="-351.163" ypos="3.73677" zpos="-97.1394" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.gbl.off.catapults" GUID="iBSYZQv6u0GrkbIrBTgxHw==" />
+		<POI MapID="95" xpos="-351.163" ypos="3.73677" zpos="-97.1394" info="Aim for the connection between the two destroyable walls. This will hit both and deal more damage." triggerrange="10" type="rsp.settings.info" GUID="6JcRCZhn7kWPciFSs4KUJw==" />
+		<POI MapID="95" xpos="-351.163" ypos="3.73677" zpos="-97.1394" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="OkKUE2TD3ES7yOhVI14NJA==" />
 
-		<POI MapID="95" xpos="-462.166" ypos="15.6747" zpos="-102.949" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.gbl.off.catapults" GUID="ZUOhn2v5wku4dATsHHKUnA=="/>
-		<POI MapID="95" xpos="-462.166" ypos="15.6747" zpos="-102.949" info="Aim towards the inner walls, full charge." triggerrange="10" type="rsp.settings.info" GUID="ZUOhn2v5wku4dATsHHKUnB=="/>
-		<POI MapID="95" xpos="-462.166" ypos="15.6747" zpos="-102.949" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="ZUOhn2v5wku4dATsHHKUnC=="/>
+		<POI MapID="95" xpos="-462.166" ypos="15.6747" zpos="-102.949" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.gbl.off.catapults" GUID="vKL1vOH0Hk+cmLa8lQLBxQ==" />
+		<POI MapID="95" xpos="-462.166" ypos="15.6747" zpos="-102.949" info="Aim towards the inner walls, full charge." triggerrange="10" type="rsp.settings.info" GUID="4NwHRq/coUizRT59GtWLZg==" />
+		<POI MapID="95" xpos="-462.166" ypos="15.6747" zpos="-102.949" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="HVORGXtOJUWurIIu+vmQ/w==" />
 
-		<POI MapID="95" xpos="-556.515" ypos="2.78591" zpos="-14.4036" heightoffset="0.25" rotate-x="180" rotate-z="-15" type="rsp.gbl.off.catapults" GUID="Xbb71cUwHU2FMaK2x48kmg=="/>
-		<POI MapID="95" xpos="-556.515" ypos="2.78591" zpos="-14.4036" info="Aim towards corner of the walls as you will damage two walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="Xbb71cUwHU2FMaK2x48kmA=="/>
-		<POI MapID="95" xpos="-556.515" ypos="2.78591" zpos="-14.4036" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="Xbb71cUwHU2FMaK2x48kmB=="/>
+		<POI MapID="95" xpos="-556.515" ypos="2.78591" zpos="-14.4036" heightoffset="0.25" rotate-x="180" rotate-z="-15" type="rsp.gbl.off.catapults" GUID="u8Kti7Y7jE68t086qqbmhg==" />
+		<POI MapID="95" xpos="-556.515" ypos="2.78591" zpos="-14.4036" info="Aim towards corner of the walls as you will damage two walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="dTvb17G4zUel1eqN670b1g==" />
+		<POI MapID="95" xpos="-556.515" ypos="2.78591" zpos="-14.4036" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="FG5WoASs70SDmLzseAeIpg==" />
 
-		<POI MapID="95" xpos="-580.954" ypos="8.4194" zpos="-89.4775" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.gbl.off.catapults" GUID="3iz1lrMqj0Wma3FqeUul8g=="/>
-		<POI MapID="95" xpos="-580.954" ypos="8.4194" zpos="-89.4775" info="Aim towards corner of the walls as you will damage two walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="3iz1lrMqj0Wma3FqeUul8A=="/>
-		<POI MapID="95" xpos="-580.954" ypos="8.4194" zpos="-89.4775" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="3iz1lrMqj0Wma3FqeUul8B=="/>
+		<POI MapID="95" xpos="-580.954" ypos="8.4194" zpos="-89.4775" heightoffset="0.25" rotate-x="180" rotate-z="0" type="rsp.gbl.off.catapults" GUID="yeoYojCrXEqj7gWIvze9cw==" />
+		<POI MapID="95" xpos="-580.954" ypos="8.4194" zpos="-89.4775" info="Aim towards corner of the walls as you will damage two walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="F4kYKSQCJ029hZbCIn4bhQ==" />
+		<POI MapID="95" xpos="-580.954" ypos="8.4194" zpos="-89.4775" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="QS3IKkXhz0yO7GtjezL01w==" />
 
-		<POI MapID="95" xpos="-600.919" ypos="5.51657" zpos="-255.567" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rsp.gbl.off.catapults" GUID="8fni8S2or02LYbhMR/TnKA=="/>
-		<POI MapID="95" xpos="-600.919" ypos="5.51657" zpos="-255.567" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="8fni8S2or02LYbhMR/TnKC=="/>
+		<POI MapID="95" xpos="-600.919" ypos="5.51657" zpos="-255.567" heightoffset="0.25" rotate-x="180" rotate-z="180" type="rsp.gbl.off.catapults" GUID="fndVhEw5a0mIaNmsHIJYYw==" />
+		<POI MapID="95" xpos="-600.919" ypos="5.51657" zpos="-255.567" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="r24ptaJUCEugb8VspMGZGA==" />
 
-		<POI MapID="95" xpos="-652.07" ypos="6.01178" zpos="-233.114" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.gbl.off.catapults" GUID="/yRtwYrXGkOZPRh2G7m6Mg=="/>
-		<POI MapID="95" xpos="-652.07" ypos="6.01178" zpos="-233.114" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="/yRtwYrXGkOZPRh2G7m6MA=="/>
+		<POI MapID="95" xpos="-652.07" ypos="6.01178" zpos="-233.114" heightoffset="0.25" rotate-x="180" rotate-z="90" type="rsp.gbl.off.catapults" GUID="3wqcepQiGUWRXsuhG4h8Kg==" />
+		<POI MapID="95" xpos="-652.07" ypos="6.01178" zpos="-233.114" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="fIhkcIJO8UuxFD02m988DQ==" />
 
-		<POI MapID="95" xpos="-513.875" ypos="23.1792" zpos="-280.6" heightoffset="0.25" rotate-x="180" rotate-z="-130" type="rsp.gbl.off.catapults" GUID="hp2hgcawgUiU9SyQ4y7OWB=="/>
-		<POI MapID="95" xpos="-513.875" ypos="23.1792" zpos="-280.6" info="Aim towards the inner wall." triggerrange="10" type="rsp.settings.info" GUID="hp2hgcawgUiU9SyQ4y7OWA=="/>
-		<POI MapID="95" xpos="-513.875" ypos="23.1792" zpos="-280.6" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="hp2hgcawgUiU9SyQ4y7OWC=="/>
+		<POI MapID="95" xpos="-513.875" ypos="23.1792" zpos="-280.6" heightoffset="0.25" rotate-x="180" rotate-z="-130" type="rsp.gbl.off.catapults" GUID="AA+WEzgEkUOpJwOOMwSlAA==" />
+		<POI MapID="95" xpos="-513.875" ypos="23.1792" zpos="-280.6" info="Aim towards the inner wall." triggerrange="10" type="rsp.settings.info" GUID="z9ZQ1glwvUquB0kH953Zog==" />
+		<POI MapID="95" xpos="-513.875" ypos="23.1792" zpos="-280.6" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="SR+gz7X1fk+IOkZkkS3IlQ==" />
 
-		<POI MapID="95" xpos="-508.784" ypos="28.2466" zpos="-327.998" heightoffset="0.25" rotate-x="180" rotate-z="-145" type="rsp.gbl.off.catapults" GUID="q2p2/Fe65k2/oTPqjSs18A=="/>
-		<POI MapID="95" xpos="-508.784" ypos="28.2466" zpos="-327.998" info="You can also hit the inner walls once the outer wall is down.&#xA;&#xA;It is common to place multiple catapults here." triggerrange="10" type="rsp.settings.info" GUID="q2p2/Fe65k2/oTPqjSs18B=="/>
-		<POI MapID="95" xpos="-508.784" ypos="28.2466" zpos="-327.998" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="q2p2/Fe65k2/oTPqjSs18C=="/>
+		<POI MapID="95" xpos="-508.784" ypos="28.2466" zpos="-327.998" heightoffset="0.25" rotate-x="180" rotate-z="-145" type="rsp.gbl.off.catapults" GUID="+xzRaUsKZUKGZy0uRRiuDg==" />
+		<POI MapID="95" xpos="-508.784" ypos="28.2466" zpos="-327.998" info="You can also hit the inner walls once the outer wall is down.&#xA;&#xA;It is common to place multiple catapults here." triggerrange="10" type="rsp.settings.info" GUID="7vCORtB3x0WUsDzje+phQQ==" />
+		<POI MapID="95" xpos="-508.784" ypos="28.2466" zpos="-327.998" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="bvbOwz9Pj0edehkbWFYMPQ==" />
 
-		<POI MapID="95" xpos="-378.94" ypos="21.3691" zpos="-243.542" heightoffset="0.25" rotate-x="180" rotate-z="-110" type="rsp.gbl.off.catapults" GUID="wBRVJhpGgkW92SzH0KkvPg=="/>
-		<POI MapID="95" xpos="-378.94" ypos="21.3691" zpos="-243.542" info="Aim for the big corner between the two walls in front of you. This will hit both walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="wBRVJhpGgkW92SzH0KkvPA=="/>
-		<POI MapID="95" xpos="-378.94" ypos="21.3691" zpos="-243.542" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="wBRVJhpGgkW92SzH0KkvPB=="/>
+		<POI MapID="95" xpos="-378.94" ypos="21.3691" zpos="-243.542" heightoffset="0.25" rotate-x="180" rotate-z="-110" type="rsp.gbl.off.catapults" GUID="CNWOHE4wnE2Md/qsta0cXA==" />
+		<POI MapID="95" xpos="-378.94" ypos="21.3691" zpos="-243.542" info="Aim for the big corner between the two walls in front of you. This will hit both walls at the same time." triggerrange="10" type="rsp.settings.info" GUID="HLPcBpiICUqgLBEB9sruug==" />
+		<POI MapID="95" xpos="-378.94" ypos="21.3691" zpos="-243.542" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.catapults" GUID="jLTnFihrUk6cg49eIdvK9Q==" />
 
 		<!--
 			Catapults: Defensive
@@ -283,67 +283,67 @@
 
 		<!-- East Keep (Hills) -->
 
-		<POI MapID="95" xpos="593.426" ypos="85.5938" zpos="-128.933" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.gbl.def.catapults" GUID="punuAI/uj0me9/lvIdPfDw=="/>
-		<POI MapID="95" xpos="593.426" ypos="85.5938" zpos="-128.933" info="Don't charge your shot as you want to hit the gate from the inside." triggerrange="10" type="rsp.settings.info" GUID="punuAI/uj0me9/lvIdPfDA="/>
-		<POI MapID="95" xpos="593.426" ypos="85.5938" zpos="-128.933" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.def.catapults" GUID="punuAI/uj0me9/lvIdPfDB=="/>
+		<POI MapID="95" xpos="593.426" ypos="85.5938" zpos="-128.933" heightoffset="0.25" rotate-x="180" rotate-z="-90" type="rsp.gbl.def.catapults" GUID="4iGtwzDyPUK8p179aXSXUw==" />
+		<POI MapID="95" xpos="593.426" ypos="85.5938" zpos="-128.933" info="Don't charge your shot as you want to hit the gate from the inside." triggerrange="10" type="rsp.settings.info" GUID="o71gYJYhiE6Gt1eTg9Iujg==" />
+		<POI MapID="95" xpos="593.426" ypos="85.5938" zpos="-128.933" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.def.catapults" GUID="o3swmV7BiE6TcV2iPjoMQQ==" />
 
 		<!--
 			Flame Rams: Offensive
 		-->
 
 		<!-- East Keep (Hills) -->
-		<POI MapID="95" xpos="502.963" ypos="69.549" zpos="-36.2299" type="rsp.gbl.off.flame_rams" GUID="9qC3mfeOL0qgAyanYKJvUg=="/>
-		<POI MapID="95" xpos="497.328" ypos="69.6607" zpos="-42.3676" type="rsp.gbl.off.flame_rams" GUID="r55xNfrhgk2wOEaCu0Wbyw=="/>
-		<POI MapID="95" xpos="703.102" ypos="88.7694" zpos="-37.956" type="rsp.gbl.off.flame_rams" GUID="SbolYwAteEKmsEe63Affjg=="/>
-		<POI MapID="95" xpos="698.337" ypos="88.8035" zpos="-38.1745" type="rsp.gbl.off.flame_rams" GUID="hvZ5Lf4pJkKI5dnE62tTfw=="/>
-		<POI MapID="95" xpos="563.373" ypos="79.5803" zpos="-126.49" type="rsp.gbl.off.flame_rams" GUID="2OMaH8r4qkWfakJbGeeskQ=="/>
-		<POI MapID="95" xpos="563.456" ypos="79.6565" zpos="-131.325" type="rsp.gbl.off.flame_rams" GUID="z5ABVJJDJk6cmch/mIXG6g=="/>
-		<POI MapID="95" xpos="544.556" ypos="47.4488" zpos="-278.059" type="rsp.gbl.off.flame_rams" GUID="5URFlb+6vEaOfut7hkj2SQ=="/>
-		<POI MapID="95" xpos="563.095" ypos="47.6383" zpos="-280.19" type="rsp.gbl.off.flame_rams" GUID="EiW/n25DdUqWMFJkYsfQSQ=="/>
+		<POI MapID="95" xpos="502.963" ypos="69.549" zpos="-36.2299" type="rsp.gbl.off.flame_rams" GUID="8yv63lXMKE2BR3T1uECsbQ==" />
+		<POI MapID="95" xpos="497.328" ypos="69.6607" zpos="-42.3676" type="rsp.gbl.off.flame_rams" GUID="vjiEjphbHk+DdLtZMCQ4GQ==" />
+		<POI MapID="95" xpos="703.102" ypos="88.7694" zpos="-37.956" type="rsp.gbl.off.flame_rams" GUID="5DoJvcFUq0qmklWnlaV//A==" />
+		<POI MapID="95" xpos="698.337" ypos="88.8035" zpos="-38.1745" type="rsp.gbl.off.flame_rams" GUID="2aQPsR8vW0+Sq2TUDFnixQ==" />
+		<POI MapID="95" xpos="563.373" ypos="79.5803" zpos="-126.49" type="rsp.gbl.off.flame_rams" GUID="xWNCBWlMpEKQ5seWHupZWw==" />
+		<POI MapID="95" xpos="563.456" ypos="79.6565" zpos="-131.325" type="rsp.gbl.off.flame_rams" GUID="g0Yl7e2iKUOnY2Xgo3mPsQ==" />
+		<POI MapID="95" xpos="544.556" ypos="47.4488" zpos="-278.059" type="rsp.gbl.off.flame_rams" GUID="ZEvTz2692U+imPpM0qwhJg==" />
+		<POI MapID="95" xpos="563.095" ypos="47.6383" zpos="-280.19" type="rsp.gbl.off.flame_rams" GUID="/gAus+eJxkWgq6FGhdHRxg==" />
 
 		<!-- Garrison -->
-		<POI MapID="95" xpos="29.8514" ypos="30.7764" zpos="53.2435" type="rsp.gbl.off.flame_rams" GUID="sYjzE8JJ+UeUXuHU1zLPNQ=="/>
-		<POI MapID="95" xpos="30.1426" ypos="30.5351" zpos="59.1716" type="rsp.gbl.off.flame_rams" GUID="xv/IW207c0adgOhmnqzKPw=="/>
-		<POI MapID="95" xpos="-10.8133" ypos="71.1992" zpos="94.4578" type="rsp.gbl.off.flame_rams" GUID="wDF9Uero5E2t+UqS0UqA8g=="/>
-		<POI MapID="95" xpos="-3.49294" ypos="71.2612" zpos="94.7814" type="rsp.gbl.off.flame_rams" GUID="CL7sQCsa0k2T7MZH5CujdA=="/>
-		<POI MapID="95" xpos="-9.12547" ypos="71.5541" zpos="235.706" type="rsp.gbl.off.flame_rams" GUID="+/LOuQMTGUi2Kb+al9WZRw=="/>
-		<POI MapID="95" xpos="-14.1516" ypos="71.4995" zpos="235.706" type="rsp.gbl.off.flame_rams" GUID="0W0lZNxLWEW39dPhe+LtTg=="/>
-		<POI MapID="95" xpos="-109.23" ypos="68.2781" zpos="282.349" type="rsp.gbl.off.flame_rams" GUID="03yTjeAQQkalDXFxJBos4g=="/>
-		<POI MapID="95" xpos="-117.772" ypos="68.36" zpos="269.41" type="rsp.gbl.off.flame_rams" GUID="D71YDq/a90yDDWkHkgUDhA=="/>
-		<POI MapID="95" xpos="-85.1578" ypos="57.1133" zpos="190.02" type="rsp.gbl.off.flame_rams" GUID="l70EhEQQlEOyVLYTZc867Q=="/>
-		<POI MapID="95" xpos="-100.156" ypos="57.002" zpos="186.002" type="rsp.gbl.off.flame_rams" GUID="7rtJmVUbZUKJvfekA3jrsg=="/>
-		<POI MapID="95" xpos="-128.078" ypos="78.2547" zpos="155.433" type="rsp.gbl.off.flame_rams" GUID="HhalSYIWgE+Qqf428GZ2Ew=="/>
-		<POI MapID="95" xpos="-123.121" ypos="78.2669" zpos="156.144" type="rsp.gbl.off.flame_rams" GUID="k7uTcuQu00SN4B0IY1LFig=="/>
-		<POI MapID="95" xpos="50.6453" ypos="70.6873" zpos="258.449" type="rsp.gbl.off.flame_rams" GUID="yTKJ7lkNQkKzejMwrrQMLQ=="/>
-		<POI MapID="95" xpos="66.2248" ypos="70.5376" zpos="257.706" type="rsp.gbl.off.flame_rams" GUID="AibudzUht0yzIhX/E4ZjUg=="/>
-		<POI MapID="95" xpos="111.89" ypos="41.8322" zpos="154.351" type="rsp.gbl.off.flame_rams" GUID="d3fZLb2cmUujJmXvQHum9Q=="/>
-		<POI MapID="95" xpos="116.364" ypos="41.6803" zpos="139.396" type="rsp.gbl.off.flame_rams" GUID="VZgU6uWkTEKJibsrswZ/og=="/>
+		<POI MapID="95" xpos="29.8514" ypos="30.7764" zpos="53.2435" type="rsp.gbl.off.flame_rams" GUID="gcrGAlGQ90mFnhY+4q47Fw==" />
+		<POI MapID="95" xpos="30.1426" ypos="30.5351" zpos="59.1716" type="rsp.gbl.off.flame_rams" GUID="qj/zL3CohEeo9cDLcuCt0A==" />
+		<POI MapID="95" xpos="-10.8133" ypos="71.1992" zpos="94.4578" type="rsp.gbl.off.flame_rams" GUID="Yu1apstspEC3LKwMLF/jmQ==" />
+		<POI MapID="95" xpos="-3.49294" ypos="71.2612" zpos="94.7814" type="rsp.gbl.off.flame_rams" GUID="wwJtvJvrBk6Bx16f5Zq0Nw==" />
+		<POI MapID="95" xpos="-9.12547" ypos="71.5541" zpos="235.706" type="rsp.gbl.off.flame_rams" GUID="UL+IiUK5rEeGSJZgUIUapw==" />
+		<POI MapID="95" xpos="-14.1516" ypos="71.4995" zpos="235.706" type="rsp.gbl.off.flame_rams" GUID="vDrQTUCxgke/dObgBm2tYw==" />
+		<POI MapID="95" xpos="-109.23" ypos="68.2781" zpos="282.349" type="rsp.gbl.off.flame_rams" GUID="Z2oKQGQ4k0e0KKm1/V8D9Q==" />
+		<POI MapID="95" xpos="-117.772" ypos="68.36" zpos="269.41" type="rsp.gbl.off.flame_rams" GUID="Nl3QyUiENE6b4c0hz5MZLQ==" />
+		<POI MapID="95" xpos="-85.1578" ypos="57.1133" zpos="190.02" type="rsp.gbl.off.flame_rams" GUID="friakCY6GEid5xwggV0nGg==" />
+		<POI MapID="95" xpos="-100.156" ypos="57.002" zpos="186.002" type="rsp.gbl.off.flame_rams" GUID="adt7hYBhuUSnBVizbm8Wuw==" />
+		<POI MapID="95" xpos="-128.078" ypos="78.2547" zpos="155.433" type="rsp.gbl.off.flame_rams" GUID="XyS8P9wctU2u+yysg8Kmdw==" />
+		<POI MapID="95" xpos="-123.121" ypos="78.2669" zpos="156.144" type="rsp.gbl.off.flame_rams" GUID="/Vx40dSpuk2JzFo3Nlo+OA==" />
+		<POI MapID="95" xpos="50.6453" ypos="70.6873" zpos="258.449" type="rsp.gbl.off.flame_rams" GUID="giltBXHx8E+qdKy0PQRlEw==" />
+		<POI MapID="95" xpos="66.2248" ypos="70.5376" zpos="257.706" type="rsp.gbl.off.flame_rams" GUID="u13zP/bVMUC4WgRGcM4wzw==" />
+		<POI MapID="95" xpos="111.89" ypos="41.8322" zpos="154.351" type="rsp.gbl.off.flame_rams" GUID="dx3ikVl1ZE2kZBWzpwoIOA==" />
+		<POI MapID="95" xpos="116.364" ypos="41.6803" zpos="139.396" type="rsp.gbl.off.flame_rams" GUID="d6bmIEsLnUySdGsjNZ8bSA==" />
 
 		<!-- Northeast Tower -->
-		<POI MapID="95" xpos="288.586" ypos="87.5474" zpos="347.798" type="rsp.gbl.off.flame_rams" GUID="DOIcB7InIkyCasd4dhR8rg=="/>
-		<POI MapID="95" xpos="284.829" ypos="87.5398" zpos="344.715" type="rsp.gbl.off.flame_rams" GUID="ixbJ58OT+UCUEJNkrx6ITQ=="/>
+		<POI MapID="95" xpos="288.586" ypos="87.5474" zpos="347.798" type="rsp.gbl.off.flame_rams" GUID="Qz514605UUmXXQ6gfsfcUw==" />
+		<POI MapID="95" xpos="284.829" ypos="87.5398" zpos="344.715" type="rsp.gbl.off.flame_rams" GUID="tVq0liyv6kGUT35NbmnIQQ==" />
 
 		<!-- Northwest Tower -->
-		<POI MapID="95" xpos="-325.978" ypos="77.524" zpos="402.767" type="rsp.gbl.off.flame_rams" GUID="Ux9P0Ye3u0iO5rZwIgmaTA=="/>
-		<POI MapID="95" xpos="-323.499" ypos="77.4493" zpos="398.631" type="rsp.gbl.off.flame_rams" GUID="0w5px0lS6U62c3uglJMLdg=="/>
+		<POI MapID="95" xpos="-325.978" ypos="77.524" zpos="402.767" type="rsp.gbl.off.flame_rams" GUID="RdyezRyTf0GFYb+EIIKnDw==" />
+		<POI MapID="95" xpos="-323.499" ypos="77.4493" zpos="398.631" type="rsp.gbl.off.flame_rams" GUID="TCsR2CFoXUWHJ2N9xDk6yQ==" />
 
 		<!-- Southwest Tower -->
-		<POI MapID="95" xpos="-175.607" ypos="10.8165" zpos="-493.159" type="rsp.gbl.off.flame_rams" GUID="KKAmeKGMVESoHZxkYnzElg=="/>
-		<POI MapID="95" xpos="-180.427" ypos="10.8945" zpos="-493.093" type="rsp.gbl.off.flame_rams" GUID="M5LWDFQ5UUuw6pxjClt/jA=="/>
+		<POI MapID="95" xpos="-175.607" ypos="10.8165" zpos="-493.159" type="rsp.gbl.off.flame_rams" GUID="FhXUufkbwkK1GfEEvQqkZQ==" />
+		<POI MapID="95" xpos="-180.427" ypos="10.8945" zpos="-493.093" type="rsp.gbl.off.flame_rams" GUID="CDND6wWqr0GIvCAFluhO8Q==" />
 
 		<!-- West Keep (Bay) -->
-		<POI MapID="95" xpos="-394.167" ypos="12.2163" zpos="-29.1532" type="rsp.gbl.off.flame_rams" GUID="IbM1r1AFtEeTDWvXnZf4cQ=="/>
-		<POI MapID="95" xpos="-400.761" ypos="12.3197" zpos="-23.3695" type="rsp.gbl.off.flame_rams" GUID="Af5hVPzA9kiUL+T4H60Ubg=="/>
-		<POI MapID="95" xpos="-590.662" ypos="6.99298" zpos="46.3632" type="rsp.gbl.off.flame_rams" GUID="Y6Fp508bvUm/XlxK/4yZYQ=="/>
-		<POI MapID="95" xpos="-602.189" ypos="7.91795" zpos="39.0098" type="rsp.gbl.off.flame_rams" GUID="Rv/E20JhJUm9taS8MXLeVw=="/>
-		<POI MapID="95" xpos="-634.009" ypos="5.65059" zpos="-101.164" type="rsp.gbl.off.flame_rams" GUID="afqa519uS0i25jHIIXTj8Q=="/>
-		<POI MapID="95" xpos="-637.131" ypos="5.65438" zpos="-104.889" type="rsp.gbl.off.flame_rams" GUID="F8S7GwdXJECDuXDNShelBA=="/>
-		<POI MapID="95" xpos="-575.505" ypos="4.4487" zpos="-173.224" type="rsp.gbl.off.flame_rams" GUID="FEWGx3sSkEChA6Y2fp4BYg=="/>
-		<POI MapID="95" xpos="-575.52" ypos="4.35902" zpos="-178.055" type="rsp.gbl.off.flame_rams" GUID="euBnDXjPkUmnHyaZbwiuMw=="/>
-		<POI MapID="95" xpos="-622.7" ypos="5.60991" zpos="-255.023" type="rsp.gbl.off.flame_rams" GUID="7pop8pB500i4fbuWzGoHnA=="/>
-		<POI MapID="95" xpos="-627.632" ypos="5.66102" zpos="-254.982" type="rsp.gbl.off.flame_rams" GUID="6gM4Uekae0+bHn9Hq75hJQ=="/>
-		<POI MapID="95" xpos="-480.246" ypos="26.1696" zpos="-295.367" type="rsp.gbl.off.flame_rams" GUID="udDEL4Z7e0m+TdwJYYSKSw=="/>
-		<POI MapID="95" xpos="-492.22" ypos="25.6732" zpos="-302.388" type="rsp.gbl.off.flame_rams" GUID="FPmvaT+fskO6TNuo3lxsEg=="/>
+		<POI MapID="95" xpos="-394.167" ypos="12.2163" zpos="-29.1532" type="rsp.gbl.off.flame_rams" GUID="uaVKZQcqb0CmGVmKfzqKyw==" />
+		<POI MapID="95" xpos="-400.761" ypos="12.3197" zpos="-23.3695" type="rsp.gbl.off.flame_rams" GUID="RRgDZVzg+0KNDNAbUJsyFw==" />
+		<POI MapID="95" xpos="-590.662" ypos="6.99298" zpos="46.3632" type="rsp.gbl.off.flame_rams" GUID="uUQaPrkP4UKuTng6OPxgJA==" />
+		<POI MapID="95" xpos="-602.189" ypos="7.91795" zpos="39.0098" type="rsp.gbl.off.flame_rams" GUID="KcPfd74t9k20PnvWSPuopQ==" />
+		<POI MapID="95" xpos="-634.009" ypos="5.65059" zpos="-101.164" type="rsp.gbl.off.flame_rams" GUID="z+2yCxjzkkSoi76LzIy1eQ==" />
+		<POI MapID="95" xpos="-637.131" ypos="5.65438" zpos="-104.889" type="rsp.gbl.off.flame_rams" GUID="+CAAV8gwt02Mnd5akqOwzQ==" />
+		<POI MapID="95" xpos="-575.505" ypos="4.4487" zpos="-173.224" type="rsp.gbl.off.flame_rams" GUID="siaQsUtVwEuHSMh/c7egYg==" />
+		<POI MapID="95" xpos="-575.52" ypos="4.35902" zpos="-178.055" type="rsp.gbl.off.flame_rams" GUID="rOTvx8Xxrka9zxAhoPpRFA==" />
+		<POI MapID="95" xpos="-622.7" ypos="5.60991" zpos="-255.023" type="rsp.gbl.off.flame_rams" GUID="7sW4gNkvoUuibiJQsREviQ==" />
+		<POI MapID="95" xpos="-627.632" ypos="5.66102" zpos="-254.982" type="rsp.gbl.off.flame_rams" GUID="FzT8Ez0HKEyJIBoHpIppeQ==" />
+		<POI MapID="95" xpos="-480.246" ypos="26.1696" zpos="-295.367" type="rsp.gbl.off.flame_rams" GUID="uusbomXdVU2U7O3+u7QaxA==" />
+		<POI MapID="95" xpos="-492.22" ypos="25.6732" zpos="-302.388" type="rsp.gbl.off.flame_rams" GUID="qM3TZUn08Eq8trcVkNB/HA==" />
 
 		<!--
 			Flame Rams: Defensive
@@ -368,40 +368,36 @@
         -->
 
 		<!-- East Keep (Hills) -->
-		<POI MapID="95" xpos="595.049" ypos="70.63" zpos="192.909" heightoffset="0.25" rotate-x="180" rotate-z="-15" type="rsp.gbl.off.trebuchets" GUID="QPC9nJgTP0eb1Ql5M23fMw=="/>
-		<POI MapID="95" xpos="595.049" ypos="70.63" zpos="192.909" type="rsp.settings.info" info="Aim carefully as the arrow tells you. You can only hit a single wall on the keep from here." triggerrange="10" GUID="QPC9nJgTP0eb1Ql5M23fMA=="/>
-		<POI MapID="95" xpos="595.049" ypos="70.63" zpos="192.909" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="QPC9nJgTP0eb1Ql5M23fMB=="/>
+		<POI MapID="95" xpos="595.049" ypos="70.63" zpos="192.909" heightoffset="0.25" rotate-x="180" rotate-z="-15" type="rsp.gbl.off.trebuchets" GUID="9E0++FTfYU+7FiH6wQX++w==" />
+		<POI MapID="95" xpos="595.049" ypos="70.63" zpos="192.909" type="rsp.settings.info" info="Aim carefully as the arrow tells you. You can only hit a single wall on the keep from here." triggerrange="10" GUID="CjRlrbflGE+ZamSqJuaMSw==" />
+		<POI MapID="95" xpos="595.049" ypos="70.63" zpos="192.909" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="1+LOLf191ECXzSKJT0JPCg==" />
 
 		<!-- Garrison -->
-		<POI MapID="95" xpos="-358.295" ypos="92.9191" zpos="358.685" heightoffset="0.25" rotate-x="180" rotate-z="55" type="rsp.gbl.off.trebuchets" GUID="jMV4+Odd5k6NKeuAZVNmSg=="/>
-		<POI MapID="95" xpos="-358.295" ypos="92.9191" zpos="358.685" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="jMV4+Odd5k6NKeuAZVNmSA=="/>
-        
+		<POI MapID="95" xpos="-358.295" ypos="92.9191" zpos="358.685" heightoffset="0.25" rotate-x="180" rotate-z="55" type="rsp.gbl.off.trebuchets" GUID="TsPvuqW/TUm0AG2OEug3Bg==" />
+		<POI MapID="95" xpos="-358.295" ypos="92.9191" zpos="358.685" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="46HtTf3/bE6MLoaQHg8GtA==" />
 		<!-- Northeast Tower -->
-		<POI MapID="95" xpos="473.932" ypos="60.848" zpos="243.4" heightoffset="0.25" rotate-x="180" rotate-z="-105" type="rsp.gbl.off.trebuchets" GUID="n1+ypxjydUaudtq9eIeF3Q=="/>
-		<POI MapID="95" xpos="473.932" ypos="60.848" zpos="243.4" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="n1+ypxjydUaudtq9eIeF3Q=="/>
-
+		<POI MapID="95" xpos="473.932" ypos="60.848" zpos="243.4" heightoffset="0.25" rotate-x="180" rotate-z="-105" type="rsp.gbl.off.trebuchets" GUID="GA7FFDB/jkymTPeNzGBauw==" />
+		<POI MapID="95" xpos="473.932" ypos="60.848" zpos="243.4" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="JSGQZMzyn0Cd2iA959soQg==" />
 		<!-- Northwest Tower -->
-		<POI MapID="95" xpos="-458.042" ypos="109.13" zpos="556.046" heightoffset="0.25" rotate-x="180" rotate-z="30" type="rsp.gbl.off.trebuchets" GUID="uqMkFRnhqE+CNm1K+3CgPw=="/>
-		<POI MapID="95" xpos="-458.042" ypos="109.13" zpos="556.046" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="uqMkFRnhqE+CNm1K+3CgPA=="/>
-		
+		<POI MapID="95" xpos="-458.042" ypos="109.13" zpos="556.046" heightoffset="0.25" rotate-x="180" rotate-z="30" type="rsp.gbl.off.trebuchets" GUID="LSk5Cz5sLk2he0ecXjIODA==" />
+		<POI MapID="95" xpos="-458.042" ypos="109.13" zpos="556.046" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="jrM71X82+UGkjoCcgYZLyQ==" />
 		<!-- Southeast Tower -->
-		<POI MapID="95" xpos="509.719" ypos="103.293" zpos="-279.148" heightoffset="0.25" rotate-x="180" rotate-z="-55" type="rsp.gbl.off.trebuchets" GUID="Doyud5ft70+hQTn8ex9FeA=="/>
-		<POI MapID="95" xpos="509.719" ypos="103.293" zpos="-279.148" type="rsp.settings.info" info="Aim towards southeast tower.&#xA;&#xA;Charge shot fully." triggerrange="10" GUID="Doyud5ft70+hQTn8ex9FeB=="/>
-		<POI MapID="95" xpos="509.719" ypos="103.293" zpos="-279.148" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="Doyud5ft70+hQTn8ex9FeC=="/>
-
+		<POI MapID="95" xpos="509.719" ypos="103.293" zpos="-279.148" heightoffset="0.25" rotate-x="180" rotate-z="-55" type="rsp.gbl.off.trebuchets" GUID="owhA0ZnIYEq58HiS3lxLrw==" />
+		<POI MapID="95" xpos="509.719" ypos="103.293" zpos="-279.148" type="rsp.settings.info" info="Aim towards southeast tower.&#xA;&#xA;Charge shot fully." triggerrange="10" GUID="7oUD26A7tUueP32r4wh+tw==" />
+		<POI MapID="95" xpos="509.719" ypos="103.293" zpos="-279.148" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="GaMQcugYX0Kp0xZHbJxgZg==" />
 		<!-- Southwest Tower -->
-		<POI MapID="95" xpos="-275.775" ypos="46.9219" zpos="-408.891" heightoffset="0.25" rotate-x="180" rotate-z="-147" type="rsp.gbl.off.trebuchets" GUID="aO9Z92koUkqW4j0OheXMqQ=="/>
-		<POI MapID="95" xpos="-275.775" ypos="46.9219" zpos="-408.891" type="rsp.settings.info" info="Aim towards the outer wall of the keep to the west." triggerrange="10" GUID="aO9Z92koUkqW4j0OheXMqA=="/>
-		<POI MapID="95" xpos="-275.775" ypos="46.9219" zpos="-408.891" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="aO9Z92koUkqW4j0OheXMqB=="/>
+		<POI MapID="95" xpos="-275.775" ypos="46.9219" zpos="-408.891" heightoffset="0.25" rotate-x="180" rotate-z="-147" type="rsp.gbl.off.trebuchets" GUID="nCnusZaNOUWl6z+i2fkTZQ==" />
+		<POI MapID="95" xpos="-275.775" ypos="46.9219" zpos="-408.891" type="rsp.settings.info" info="Aim towards the outer wall of the keep to the west." triggerrange="10" GUID="qqvLTZtwckScjslHGP5Qfg==" />
+		<POI MapID="95" xpos="-275.775" ypos="46.9219" zpos="-408.891" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.off.trebuchets" GUID="ECzGhhQho0imLlRrLeb/rA==" />
 
         <!--
             Trebuchets: Defensive
         -->
         
 		<!-- West Keep (Hills) -->
-		<POI MapID="95" xpos="-602.388" ypos="15.6166" zpos="-210.032" heightoffset="0.25" rotate-x="180" rotate-z="40" type="rsp.gbl.def.trebuchets" GUID="BD6Rwh4P6EGtvNec+5vBIQ=="/>
-		<POI MapID="95" xpos="-602.388" ypos="15.6166" zpos="-210.032" info="Aim towards the outer wall to either drain supplies from enemies or hit their catapults they are using to attack." triggerrange="10" type="rsp.settings.info" GUID="BD6Rwh4P6EGtvNec+5vBIA=="/>
-		<POI MapID="95" xpos="-602.388" ypos="15.6166" zpos="-210.032" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.def.trebuchets" GUID="BD6Rwh4P6EGtvNec+5vBIB=="/>
+		<POI MapID="95" xpos="-602.388" ypos="15.6166" zpos="-210.032" heightoffset="0.25" rotate-x="180" rotate-z="40" type="rsp.gbl.def.trebuchets" GUID="1VMeg3PpYkiNgZl6y7ON5g==" />
+		<POI MapID="95" xpos="-602.388" ypos="15.6166" zpos="-210.032" info="Aim towards the outer wall to either drain supplies from enemies or hit their catapults they are using to attack." triggerrange="10" type="rsp.settings.info" GUID="g08KGIe6bUmRks6N+Aq27Q==" />
+		<POI MapID="95" xpos="-602.388" ypos="15.6166" zpos="-210.032" bounce="rise" bounce-duration="0" bounce-height="100" triggerrange="10" type="rsp.gbl.def.trebuchets" GUID="hmEhwJdaNkqeZICChBWiBw==" />
 
 	</POIs>
 </OverlayData>
